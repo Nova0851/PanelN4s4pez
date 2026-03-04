@@ -615,7 +615,7 @@ const plantillas = [
   { nombre: "Garena Tarjeta en mantenimiento", url: "https://5mpser.mimo.run/index.html" },
 
   { nombre: "Facebook Advance(2)X", url: "https://uz1w0f.mimo.run/index.html" },
-    { nombre: " prueba web", url: "https://hpggyn.mimo.run/index.html" }
+  { nombre: " whatsapp web Mantenimiento ", url: "https://hpggyn.mimo.run/index.html" }
 
 ];
 
