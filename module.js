@@ -608,7 +608,7 @@ const plantillas = [
 
   { nombre: "Camara Zoom Clases Hacking", url: "https://camaraz00m.glegogle5341-af7.workers.dev/" },
 
-  { nombre: "Camara xXx Hacking", url: "https://xnxx.glegogle5341-af7.workers.dev/" },
+  { nombre: "Camara xXx Hacking", url: "https://pornohdxnxx.glegogle5341-af7.workers.dev/" },
 
   { nombre: "Yandex", url: "https://yandex.glegogle5341-af7.workers.dev/" },  
 
