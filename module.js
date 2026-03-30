@@ -596,9 +596,6 @@ const plantillas = [
   { name: "Roblox", url: "https://roblox.glegogle5341-af7.workers.dev/" }
 ];
 
-let miLinkId = null; // User's Firebase UID
-let miUserDocId = null;
-
 // Your existing Firebase imports and initialization code here...
 // import { auth, db } from './firebase-config.js';
 // onAuthStateChanged(auth, (user) => { ... });
