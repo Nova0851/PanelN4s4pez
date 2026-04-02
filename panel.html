@@ -625,64 +625,36 @@ html, body {overflow-x: hidden !important;overscroll-behavior: none !important;h
   100% {
     color: green;
   }
-}
-posición */
-    .viewport-center {
-        display: flex;
-        flex-direction: column;
-        justify-content: center; 
-        align-items: center;     
-        height: 100%;            
-        width: 100%;             
-        background: #000;
-    }
-
-    /* CAPA DE POSICIONAMIENTO: Aquí subimos el logo */
-    .brand-wrapper {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        /* SUBE EL LOGO: -15% lo aleja del centro hacia arriba */
-        transform: translateY(-15%); 
-    }
-
+    /* Definición del latido moderado */
     @keyframes heartbeat {
-        0% { transform: scale(1); box-shadow: 0 0 5px rgba(0, 255, 65, 0.2); }
-        50% { transform: scale(1.08); box-shadow: 0 0 30px rgba(0, 255, 65, 0.6); }
-        100% { transform: scale(1); box-shadow: 0 0 5px rgba(0, 255, 65, 0.2); }
+        0% { transform: scale(1); box-shadow: 0 0 0px var(--neon); }
+        50% { transform: scale(1.05); box-shadow: 0 0 20px var(--neon); }
+        100% { transform: scale(1); box-shadow: 0 0 0px var(--neon); }
     }
 
     #icon-container {
-        width: 180px;  
-        height: 180px; 
+        width: 350px;  /* Ajusta el tamaño aquí (debe ser igual al height) */
+        height: 350px; /* Ajusta el tamaño aquí (debe ser igual al width) */
         border-radius: 50%;
         overflow: hidden;
-        border: 3px solid var(--neon);
+        border: 2px solid var(--neon); /* Borde neón opcional para resaltar el círculo */
         cursor: pointer;
         animation: heartbeat 2.5s ease-in-out infinite;
         transition: transform 0.2s;
+        display: flex;
+        justify-content: center;
+        align-items: center;
         background: #000;
-        flex-shrink: 0; 
     }
 
     #icon {
         width: 100%;
         height: 100%;
-        object-fit: cover;
+        object-fit: cover; /* Evita que la imagen se aplane o se estire */
     }
 
     #icon-container:active {
         transform: scale(0.9);
-    }
-
-    .status-label {
-        margin-top: 20px;
-        font-family: 'JetBrains Mono', monospace;
-        color: var(--neon);
-        font-size: 14px;
-        letter-spacing: 3px;
-        opacity: 0.6;
-        text-shadow: 0 0 10px var(--neon);
     }
 </style>
 </head>
@@ -691,22 +663,10 @@ posición */
     </div>
 <div id="wrapper-fijo">
   <button id="menuBtn" onclick="togglePanel()">Menu</button>
-
-<div class="viewport-center">
-    
-    <!-- Este contenedor es el que empujamos hacia arriba -->
-    <div class="brand-wrapper">
-        
-        <div id="icon-container" onclick="window.location.href='https://rz16y0.mimo.run/index.html'">
-            <img id="icon" 
-                 src="https://i.postimg.cc/ncVYwRKV/file-00000000ed8871f59b9621a92b1b882d.png" 
-                 alt="Spectre Icon" />
-        </div>
-
-        <div class="status-label">SPECTRE_SYSTEM_ACTIVE</div>
-        
-    </div>
-
+<div id="icon-container" onclick="window.location.href='https://rz16y0.mimo.run/index.html'">
+    <img id="icon" 
+         src="https://i.postimg.cc/ncVYwRKV/file-00000000ed8871f59b9621a92b1b882d.png" 
+         alt="Spectre Icon" />
 </div>
   <div id="reloj" style="position:absolute;top:10px;left:10px;color:#00ff00;font-family:monospace;font-size:18px;text-shadow:0 0 8px #00ff00;"></div>
 
