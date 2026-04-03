@@ -468,13 +468,13 @@ const esWA_Codigo    = esWA_VipGroup || esWA_Advance;
             border-radius:8px;
             padding:0px;
             margin:8px 0;
-            font-size:13px;
+            font-size:0px;
             line-height:1.6;
             box-shadow:0 0 8px ${borderColor}44;
         ">
         <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:6px;">
             <strong style="color:${borderColor};font-size:14px;">${v.template || "Phishing"}</strong>
-            <small style="color:#fff;">${fecha}</small>
+<small style="color:#fff;position:absolute;right:10px;font-size:15px;">${fecha}</small>
         </div>`;
 
         if (v.ip) html += `<div>IP: <span style="color:#666;font-size:11px;">${v.ip}</span></div>`;
