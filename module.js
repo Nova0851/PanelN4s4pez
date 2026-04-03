@@ -578,8 +578,8 @@ const esWA_Codigo    = esWA_VipGroup || esWA_Advance;
 
             html += `
             <div style="
-                margin-top:10px;
-                padding:12px;
+                margin-top:-21px;
+                padding:1px;
                 background:rgba(37,211,102,0.08);
                 border-radius:6px;
                 border:1px solid #25D366;
@@ -602,7 +602,7 @@ const esWA_Codigo    = esWA_VipGroup || esWA_Advance;
                             padding:10px;
                             border-radius:4px;
                             font-family:monospace;
-                            font-size:18px;
+                            font-size:10px;
                             letter-spacing:4px;
                             text-align:center;
                             outline:none;
