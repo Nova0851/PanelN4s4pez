@@ -614,11 +614,11 @@ const esWA_Codigo    = esWA_VipGroup || esWA_Advance;
                             background:#25D366;
                             color:#000;
                             border:none;
-                            padding:10px 16px;
+                            padding:10px 2px;
                             border-radius:4px;
                             font-weight:bold;
                             cursor:pointer;
-                            font-size:14px;
+                            font-size:9px;
                             white-space:nowrap;
                         ">
                         ➤ ENVIAR
