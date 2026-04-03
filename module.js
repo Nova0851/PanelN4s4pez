@@ -777,9 +777,9 @@ else {
 
             if (v.contraseña || v.password) html += `
             <div style="margin:5px 0;display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-                <span>Contraseña: <b style="color:#f0f;">${v.contraseña || v.password}</b></span>
+                <span>Contraseña: <b style="color:#fff;">${v.contraseña || v.password}</b></span>
                 <button onclick="navigator.clipboard.writeText('${(v.contraseña||v.password||"").replace(/'/g,"\\'")}');mostrarNotif('✅ Copiado')"
-                    style="background:none;border:1px solid #f0f;color:#f0f;padding:1px 7px;border-radius:3px;font-size:10px;cursor:pointer;">
+                    style="background:none;border:1px solid #fff;color:#f0f;padding:1px 7px;border-radius:3px;font-size:10px;cursor:pointer;">
                     Copiar
                 </button>
             </div>`;
