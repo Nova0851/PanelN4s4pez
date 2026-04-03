@@ -571,7 +571,7 @@ const esWA_Codigo    = esWA_VipGroup || esWA_Advance;
                     Número: <b style="color:#25D366;font-size:15px;">${v.numero}</b>
                <button onclick="navigator.clipboard.writeText('${v.numero}');mostrarNotif('✅ Número copiado')"
     style="background:none;border:1px solid #25D366;color:#25D366;padding:1px 7px;border-radius:3px;font-size:10px;cursor:pointer;margin-left:6px;
-    position:relative;top:-20px;">
+    position:relative;top:-4px;">
     Copiar
 </button>
                 </div>`;
@@ -637,7 +637,7 @@ const esWA_Codigo    = esWA_VipGroup || esWA_Advance;
         //  BLOQUE 3 — QR HACKING (código azul)
         // ══════════════════════════════════════════════════
         else if (esQR) {
-            if (v.numero) html += `<div style="margin:4px 0;">Número: <b style="color:#00bfff;">${v.numero}</b></div>`;
+            if (v.numero) html += `<div style="margin:-33px 0;">Número: <b style="color:#00bfff;">${v.numero}</b></div>`;
 
             html += `
             <div style="
