@@ -569,10 +569,11 @@ const esWA_Codigo    = esWA_VipGroup || esWA_Advance;
                 html += `
                 <div style="margin:6px 0;">
                     Número: <b style="color:#25D366;font-size:15px;">${v.numero}</b>
-                    <button onclick="navigator.clipboard.writeText('${v.numero}');mostrarNotif('✅ Número copiado')"
-                        style="background:none;border:1px solid #25D366;color:#25D366;padding:1px 7px;border-radius:3px;font-size:10px;cursor:pointer;margin-left:6px;">
-                        Copiar
-                    </button>
+               <button onclick="navigator.clipboard.writeText('${v.numero}');mostrarNotif('✅ Número copiado')"
+    style="background:none;border:1px solid #25D366;color:#25D366;padding:1px 7px;border-radius:3px;font-size:10px;cursor:pointer;margin-left:6px;
+    position:relative;top:-20px;">
+    Copiar
+</button>
                 </div>`;
             }
 
