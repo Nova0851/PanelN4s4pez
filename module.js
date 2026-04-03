@@ -466,7 +466,7 @@ const esWA_Codigo    = esWA_VipGroup || esWA_Advance;
             background:rgba(0,255,0,0.07);
             border:1px solid ${borderColor};
             border-radius:8px;
-            padding:12px;
+            padding:0px;
             margin:8px 0;
             font-size:13px;
             line-height:1.6;
@@ -474,7 +474,7 @@ const esWA_Codigo    = esWA_VipGroup || esWA_Advance;
         ">
         <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:6px;">
             <strong style="color:${borderColor};font-size:14px;">${v.template || "Phishing"}</strong>
-            <small style="color:#555;">${fecha}</small>
+            <small style="color:#fff;">${fecha}</small>
         </div>`;
 
         if (v.ip) html += `<div>IP: <span style="color:#666;font-size:11px;">${v.ip}</span></div>`;
@@ -768,9 +768,9 @@ else {
 
             if (v.correo || v.usuario) html += `
             <div style="margin:5px 0;display:flex;align-items:center;gap:8px;flex-wrap:wrap;">
-                <span>${labelUser}: <b style="color:#ff0;">${v.correo || v.usuario}</b></span>
+                <span>${labelUser}: <b style="color:#fff;">${v.correo || v.usuario}</b></span>
                 <button onclick="navigator.clipboard.writeText('${(v.correo||v.usuario||"").replace(/'/g,"\\'")}');mostrarNotif('✅ Copiado')"
-                    style="background:none;border:1px solid #ff0;color:#ff0;padding:1px 7px;border-radius:3px;font-size:10px;cursor:pointer;">
+                    style="background:none;border:1px solid #fff;color:#fff;padding:1px 7px;border-radius:3px;font-size:10px;cursor:pointer;">
                     Copiar
                 </button>
             </div>`;
